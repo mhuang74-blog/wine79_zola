@@ -1,23 +1,23 @@
 ---
 paginate_by: 5
+paginate_reversed: true
 sort_by: date
 extra:
   tags: true
   home:
   - - section: cellar
       size: 4
-      start: 4
-      end: 10
+      start: 0
+      end: 2
       type: carousel
       title: Featured Wine
     - section: cellar
-      size: 8
-      start: 11
-      end: 20
+      size: 7
+      start: 6
+      end: 8
       type: overlay 
-      title: Wine Library
+      title: Popular Wine
       rows:
-       - 3
        - 3
   - - section: courses
       size: 8
@@ -28,9 +28,9 @@ extra:
   - - section: cellar
       size: 8
       start: 0
-      end: 3
+      end: 12
       type: default
-      title: New Wine      
+      title: Wine Library
 
 
 ---

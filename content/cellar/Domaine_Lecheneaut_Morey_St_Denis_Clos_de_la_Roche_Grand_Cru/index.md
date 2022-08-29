@@ -1,12 +1,12 @@
 ---
-title: Domaine Lecheneaut Morey St Denis Clos de la Roche Grand Cru
-date: 2022-05-01
+title: 모레 생 드니 끌로 드 라 로쉐 그랑 크뤼
+date: 2022-01-01
 slug: "7805"
 extra:
   image: image.png
 taxonomies:
   tags:
-    - red
+    - Red
     - France
 ---
 

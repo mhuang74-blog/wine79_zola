@@ -3,8 +3,8 @@ base_url = "https://www.wine79.com"
 
 default_language = "en"
 compile_sass = true
-title = "1879 강남와인스쿨"
-description = "1879 Gangnam Wine School"
+title = "Wine79"
+description = "Wine79"
 generate_feed = false
 output_dir = "public"
 
@@ -24,7 +24,7 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 banner = "img/wine_school_top_banner.jpg"
-date_format = '%d/%m/%Y'
+date_format = '%Y-%m-%d'
 
 links = [
 	{title = 'Courses', url = '/courses'},
@@ -32,5 +32,6 @@ links = [
 	{title = 'About', url = '/about'},
 ]
 
+theme = "lux"
 themes = ""
 schemes = ""
