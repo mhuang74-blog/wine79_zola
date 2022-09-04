@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteBase /
+
+## Redirect Wordpress Dynamic URL to Static URL
+RewriteCond %{QUERY_STRING} (^|&)no\=([^\s&]+)($|&)
+RewriteRule ^menu1/menu1_3_s1\.html$ /cellar/%2/? [R=301,L]
+RewriteCond %{QUERY_STRING} (^|&)it_id\=([^\s&]+)($|&)
+RewriteRule ^dgf/shop/item\.php$ /cellar/%2/? [R=301,L]
+
+## Redirect invalid URL to main page
+#if requested filename is not a existing file
+RewriteCond %{REQUEST_FILENAME} !-f
+#if requested filename is not a existing directory
+RewriteCond %{REQUEST_FILENAME} !-d 
+#Rewrite the url
+RewriteRule . index.html [L]
