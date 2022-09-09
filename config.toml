@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://wine79.com"
 
-default_language = "en"
+default_language = "kr"
 compile_sass = true
 title = "Wine79"
 description = "Wine79"
@@ -23,11 +23,10 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
-banner = "img/wine_school_top_banner.jpg"
+banner = "img/wine_school_top_banner.webp"
 date_format = '%Y-%m-%d'
 
 links = [
-	{title = 'Courses', url = '/courses'},
 	{title = 'Cellar', url = '/cellar'},
 	{title = 'About', url = '/about'},
 ]

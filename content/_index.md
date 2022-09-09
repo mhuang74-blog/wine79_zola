@@ -19,12 +19,6 @@ extra:
       title: Popular Wine
       rows:
        - 3
-  - - section: courses
-      size: 8
-      start: 0
-      end: 2
-      type: default
-      title: courses
   - - section: cellar
       size: 8
       start: 0
