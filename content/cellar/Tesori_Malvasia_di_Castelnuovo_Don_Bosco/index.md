@@ -3,7 +3,7 @@ title: 떼소리 말바시아 디 카스텔 누보 돈 보스코
 date: 2022-02-01
 slug: "5914"
 extra:
-  image: image.jpg
+  image: image.png
 taxonomies:
   tags:
     - Rose

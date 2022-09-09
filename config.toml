@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://www.wine79.com"
+base_url = "https://test-wine79.com"
 
 default_language = "en"
 compile_sass = true
