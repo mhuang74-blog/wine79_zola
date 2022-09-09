@@ -14,6 +14,8 @@ taxonomies:
 
 <!-- more -->
 
+{{ resize_image(path="cellar/The_Big_Five_Pinotage/image.png", width=600, height=750, op="fit_width") }}
+
 |           |                                                    |  
 | --------- | -------------------------------------------------- |
 | 와인명      |  빅파이브 콜렉션 엘리펀트 피노타지 (The Big Five Pinotage) |
