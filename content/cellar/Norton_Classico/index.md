@@ -3,7 +3,7 @@ title: 노통 클라시코 375ml
 date: 2022-04-01
 slug: "1275"
 extra:
-  image: image.jpg
+  image: image.webp
 taxonomies:
   tags:
     - Red
@@ -14,7 +14,7 @@ taxonomies:
 
 <!-- more -->
 
-{{ resize_image(path="cellar/Norton_Classico/image.jpg", width=600, height=750, op="fit_width") }}
+{{ resize_image(path="cellar/Norton_Classico/image.webp", width=600, height=750, op="fit_width") }}
 
 |           |                                                    |  
 | --------- | -------------------------------------------------- |

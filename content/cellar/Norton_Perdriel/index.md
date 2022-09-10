@@ -3,7 +3,7 @@ title: 노통 뻬르드리엘
 date: 2022-06-01
 slug: "1268"
 extra:
-  image: image.png
+  image: image.webp
 taxonomies:
   tags:
     - Red
@@ -14,7 +14,7 @@ taxonomies:
 
 <!-- more -->
 
-{{ resize_image(path="cellar/Norton_Perdriel/image.png", width=600, height=750, op="fit_width") }}
+{{ resize_image(path="cellar/Norton_Perdriel/image.webp", width=600, height=750, op="fit_width") }}
 
 |           |                                                    |  
 | --------- | -------------------------------------------------- |

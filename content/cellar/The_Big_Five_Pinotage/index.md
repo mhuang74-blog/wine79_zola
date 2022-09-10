@@ -3,7 +3,7 @@ title: 빅파이브 콜렉션 엘리펀트 피노타지
 date: 2022-05-01
 slug: "8942"
 extra:
-  image: image.png
+  image: image.webp
 taxonomies:
   tags:
     - Red
@@ -14,7 +14,7 @@ taxonomies:
 
 <!-- more -->
 
-{{ resize_image(path="cellar/The_Big_Five_Pinotage/image.png", width=600, height=750, op="fit_width") }}
+{{ resize_image(path="cellar/The_Big_Five_Pinotage/image.webp", width=600, height=750, op="fit_width") }}
 
 |           |                                                    |  
 | --------- | -------------------------------------------------- |

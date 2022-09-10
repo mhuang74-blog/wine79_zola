@@ -3,7 +3,7 @@ title: 노통 리제르바 말벡
 date: 2022-03-01
 slug: "1271"
 extra:
-  image: image.png
+  image: image.webp
 taxonomies:
   tags:
     - Red
@@ -14,7 +14,7 @@ taxonomies:
 
 <!-- more -->
   
-{{ resize_image(path="cellar/Norton_Reserva_Malbec/image.png", width=600, height=750, op="fit_width") }}
+{{ resize_image(path="cellar/Norton_Reserva_Malbec/image.webp", width=600, height=750, op="fit_width") }}
 
 |           |                                                    |  
 | --------- | -------------------------------------------------- |

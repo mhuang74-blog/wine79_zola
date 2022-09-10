@@ -3,7 +3,7 @@ title: 마르치구에 엘 까베르네 쇼비뇽 2004
 date: 2022-08-01
 slug: "2396"
 extra:
-  image: image.png
+  image: image.webp
 taxonomies:
   tags:
     - Red
@@ -14,7 +14,7 @@ taxonomies:
 
 <!-- more -->
 
-{{ resize_image(path="cellar/Marchigue_L_Cabernet_Sauvignon/image.png", width=600, height=750, op="fit_width") }}
+{{ resize_image(path="cellar/Marchigue_L_Cabernet_Sauvignon/image.webp", width=600, height=750, op="fit_width") }}
 
 |           |                                                    |  
 | --------- | -------------------------------------------------- |

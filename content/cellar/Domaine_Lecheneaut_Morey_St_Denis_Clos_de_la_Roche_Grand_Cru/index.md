@@ -3,7 +3,7 @@ title: 모레 생 드니 끌로 드 라 로쉐 그랑 크뤼
 date: 2022-01-01
 slug: "7805"
 extra:
-  image: image.png
+  image: image.webp
 taxonomies:
   tags:
     - Red
@@ -15,7 +15,7 @@ Denis Clos de la Roche Grand Cru)
 
 <!-- more -->
 
-{{ resize_image(path="cellar/Domaine_Lecheneaut_Morey_St_Denis_Clos_de_la_Roche_Grand_Cru/image.png", width=600, height=750, op="fit_width") }}
+{{ resize_image(path="cellar/Domaine_Lecheneaut_Morey_St_Denis_Clos_de_la_Roche_Grand_Cru/image.webp", width=600, height=750, op="fit_width") }}
 
 |           |                                                    |  
 | --------- | -------------------------------------------------- |
