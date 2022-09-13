@@ -4,4 +4,4 @@ path: about
 template: about.html
 ---
 
-Learn about Wine
+Wine79 와인스쿨. 
