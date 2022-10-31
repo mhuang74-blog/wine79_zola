@@ -3,7 +3,7 @@ base_url = "https://wine79.com"
 
 default_language = "kr"
 compile_sass = true
-title = "Wine79 와인스쿨"
+title = "Wine79.com"
 description = "Wine79 와인스쿨"
 generate_feed = false
 output_dir = "public"
@@ -33,8 +33,6 @@ links = [
 ]
 
 theme = "lux"
-themes = ""
-schemes = ""
 
 [extra.analytics]
 google = "G-3ZNB7LZRKL"
