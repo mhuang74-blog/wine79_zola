@@ -7,8 +7,8 @@ extra:
   image: image.webp
 taxonomies:
   tags:
-    - Sparkling
-    - France
+    - White
+    - Italy
 ---
 
 옅은 황금색이 빛나는 노란색을 띠고 기분좋은 향이 잔향의 지속력이 강한편이며, 전형적인 백포도주의 과일과 오렌지 꽃의 은은함이 묻어난다. 오렌지 꽃의 은은함이 묻어난다. 달콤하며,여러 가지 맛이 잘 조화롭게 느껴진다.
