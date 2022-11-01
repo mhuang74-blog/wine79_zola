@@ -33,6 +33,8 @@ links = [
 ]
 
 theme = "lux"
+themes = ""
+schemes = ""
 
 [extra.analytics]
 google = "G-3ZNB7LZRKL"
