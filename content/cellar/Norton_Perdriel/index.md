@@ -29,3 +29,8 @@ taxonomies:
 | 병사이즈 | 750 ml |
 | 알코올도수  | 14.5% |
 | 가격 | 0 원 (판매처별로 가격은 다를수 있습니다.) |
+
+<h2>Norton Perdriel 대안</h2>
+
+* 풍미 가득한 풀 바디 레드 와인을 좋아한다면 [Norton Reserva Malbec](@/cellar/Norton_Reserva_Malbec/index.md)를 사용해보십시오.
+* 이탈리아 와인을 좋아하신다면 [떼소리 말바시아 디 카스텔 누보 돈 보스코 (Tesori Malvasia di Castelnuovo Don Bosco)](@/cellar/Tesori_Malvasia_di_Castelnuovo_Don_Bosco/index.md) 도 드셔보세요.

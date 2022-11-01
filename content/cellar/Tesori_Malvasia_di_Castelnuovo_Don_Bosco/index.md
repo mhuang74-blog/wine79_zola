@@ -45,4 +45,5 @@ Malvasia는 고대 기원의 포도로 그리스에서 수입된 것으로 믿�
 
 <h2>떼소리 말바시아 디 카스텔 누보 돈 보스코 대안</h2>
 
-이탈리아 와인을 좋아하신다면 [1879G 모스카토 (1879G MOSCATO)](@/cellar/1879G_MOSCATO/index.md) 도 드셔보세요.
+* 이탈리아 와인을 좋아하신다면 [1879G 모스카토 (1879G MOSCATO)](@/cellar/1879G_MOSCATO/index.md) 도 드셔보세요.
+* 아르헨티나 와인을 좋아하신다면 [노통 뻬르드리엘 Norton Perdriel](@/cellar/Norton_Perdriel/index.md)도 드셔보세요.
