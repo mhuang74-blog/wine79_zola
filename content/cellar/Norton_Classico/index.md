@@ -1,5 +1,6 @@
 ---
 title: 노통 클라시코 375ml
+description: 노통 클라시코 375ml
 date: 2022-04-01
 slug: "1275"
 extra:

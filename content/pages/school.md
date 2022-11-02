@@ -1,5 +1,6 @@
 ---
 title: Wine School
+description: Wine School
 path: school
 template: about.html
 ---

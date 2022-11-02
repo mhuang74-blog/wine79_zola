@@ -1,5 +1,6 @@
 ---
 title: 노통 뻬르드리엘
+description: 노통 뻬르드리엘
 date: 2022-06-01
 slug: "1268"
 extra:
@@ -10,7 +11,7 @@ taxonomies:
     - Argentina
 ---
 
-와인명   노통 뻬르드리엘 ( Norton Perdriel )
+와인명   노통 뻬르드리엘 (Norton Perdriel)
 
 <!-- more -->
 
