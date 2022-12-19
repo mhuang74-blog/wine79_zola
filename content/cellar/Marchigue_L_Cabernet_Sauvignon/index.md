@@ -11,7 +11,7 @@ taxonomies:
     - Chile
 ---
 
-마르치구에 엘 까베르네 쇼비뇽 2004 (Marchigue L Cabernet Sauvignon)
+### 마르치구에 엘 까베르네 쇼비뇽 2004 (Marchigue L Cabernet Sauvignon)
 
 <!-- more -->
 

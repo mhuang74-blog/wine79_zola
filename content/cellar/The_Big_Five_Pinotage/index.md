@@ -2,7 +2,7 @@
 title: 빅파이브 콜렉션 엘리펀트 피노타지
 description: 빅파이브 콜렉션 엘리펀트 피노타지
 date: 2022-05-01
-slug: "8942"
+
 extra:
   image: image.webp
 taxonomies:
@@ -11,7 +11,7 @@ taxonomies:
     - South Africa
 ---
 
-빅파이브 콜렉션 엘리펀트 피노타지 (The Big Five Pinotage)
+### 빅파이브 콜렉션 엘리펀트 피노타지 (The Big Five Pinotage)
 
 <!-- more -->
 
