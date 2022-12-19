@@ -1,0 +1,46 @@
+{% extends "zolastrap/templates/page.html" %}
+{% block content %}
+  <h1>{{page.title}}</h1>
+  <p class="text-muted">
+    {{authors::render(page=page)}}
+  </p>
+  {% if page.taxonomies.tags %}
+  <p>
+    {% for tag in page.taxonomies.tags %}
+      <a
+        class="badge bg-dark text-decoration-none link-light me-1"
+      >
+        {{tag}}
+      </a>
+    {% endfor %}
+  </p>
+  {% endif %}
+  {% if page.toc %}
+  <div class="content">
+  <h3>Table of Contents</h3>
+    <ul>
+    {% for h1 in page.toc %}
+        <li>
+            <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
+            {% if h1.children %}
+                <ul>
+                    {% for h2 in h1.children %}
+                        <li>
+                            <a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </li>
+    {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  <div class="content">
+    {{page.content | safe}}
+  </div>
+  {% for author_slug in page.taxonomies.authors | default(value=[]) %}
+    {{authorbox::render(author_slug=author_slug)}}
+  {% endfor %}
+{% endblock %}
