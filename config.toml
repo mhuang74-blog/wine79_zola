@@ -9,7 +9,7 @@ generate_feed = false
 output_dir = "public"
 
 taxonomies = [
-  {name = "tags", paginate_by = 5},
+  {name = "tags", paginate_by = 100},
 ]
 
 theme = 'zolastrap'
