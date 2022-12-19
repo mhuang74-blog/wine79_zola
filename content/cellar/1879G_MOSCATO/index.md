@@ -2,7 +2,6 @@
 title: 1879 G 모스카토 (1879 G Moscato) 는 이탈리아의 100% 모스카토 포도로 만든 인기 있는 화이트 와인입니다
 description: 1879 G 모스카토 (1879 G Moscato) 모스카토 는 화이트 와인 특유의 잔향과 함께 기분 좋은 향을 가지고 있습니다.
 date: 2022-07-01
-slug: "1377668219"
 extra:
   image: image.webp
 taxonomies:

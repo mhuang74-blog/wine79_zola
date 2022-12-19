@@ -2,7 +2,6 @@
 title: 마르치구에 엘 까베르네 쇼비뇽 2004
 description: 마르치구에 엘 까베르네 쇼비뇽 2004
 date: 2022-08-01
-slug: "2396"
 extra:
   image: image.webp
 taxonomies:
