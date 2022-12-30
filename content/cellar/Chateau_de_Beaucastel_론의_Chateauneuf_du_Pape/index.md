@@ -1,7 +1,7 @@
 ---
 title: Chateau de Beaucastel 론의 Chateauneuf-du-Pape
 description: Chateau de Beaucastel Chateauneuf-du-Pape는 Rhone Valley에 위치한 프랑스 와인 생산자입니다. 이 부동산은 수세기 동안 Beaucastel 가족에 속해 있었으며 세계에서 가장 유명하고 존경받는 와인 중 하나입니다.
-date: 2022-01-01
+date: 2022-12-30
 extra:
   image: image.webp
 taxonomies:

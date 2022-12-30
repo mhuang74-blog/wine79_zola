@@ -2,6 +2,7 @@
 title: 노통 뻬르드리엘
 description: 노통 뻬르드리엘
 date: 2022-06-01
+updated: 2022-12-30
 extra:
   image: image.webp
 taxonomies:

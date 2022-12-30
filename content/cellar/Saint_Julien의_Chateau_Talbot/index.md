@@ -1,7 +1,7 @@
 ---
 title: Saint-Julien의 Chateau Talbot
 description: Chateau Talbot은 프랑스 보르도의 Saint-Julien-de-Peyrolas에 있는 와인 에스테이트입니다.
-date: 2022-01-01
+date: 2022-12-30
 extra:
   image: image.webp
 taxonomies:

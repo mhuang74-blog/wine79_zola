@@ -1,7 +1,7 @@
 ---
 title: 토스카나 출신의 Fattoria Le Pupille 'Saffredi' Maremma Toscana
 description: 마렘마 지역의 중심부에 위치한 Fattoria Le Pupille 'Saffredi'는 손님들에게 독특한 와인 제조 경험을 제공합니다.
-date: 2022-01-01
+date: 2022-12-30
 extra:
   image: image.webp
 taxonomies:

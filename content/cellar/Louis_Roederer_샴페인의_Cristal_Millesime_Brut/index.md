@@ -1,7 +1,7 @@
 ---
 title: Louis Roederer 샴페인의 Cristal Millesime Brut
 description: Champagne의 Louis Roederer Cristal Millesime Brut는 100% 샤르도네로 만든 고급스럽고 맛있는 샴페인 병으로, 랙이 없는 새 오크통에서 2년 동안 숙성됩니다.
-date: 2022-01-01
+date: 2022-12-30
 extra:
   image: image.webp
 taxonomies:

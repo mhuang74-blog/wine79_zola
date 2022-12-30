@@ -1,7 +1,7 @@
 ---
 title: Carneros의 HDV Hyde de Villaine Hyde Vineyard 샤르도네
 description: 캘리포니아 Carneros에 있는 Hyde de Villaine Vineyard의 샤르도네입니다. 이 와인은 아름다운 황금색과 선명하고 깨끗한 맛을 가지고 있습니다.
-date: 2022-01-01
+date: 2022-12-30
 extra:
   image: image.webp
 taxonomies:

@@ -1,7 +1,7 @@
 ---
 title: 투스카니 마르케시 안티노리 티그나넬로 토스카나 IGT
 description: Marchesi Antinori Tignanello Toscana IGT는 과일 맛과 강하고 여운이 있는 풀 바디 레드 와인입니다.
-date: 2022-01-01
+date: 2022-12-30
 extra:
   image: image.webp
 taxonomies:

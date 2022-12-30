@@ -1,7 +1,7 @@
 ---
 title: 컬럼비아 밸리의 퀼세다 크릭 까베르네 소비뇽
 description: 이 와인은 과일 향과 풍부한 맛을 지닌 짙은 보라색입니다.
-date: 2022-01-01
+date: 2022-12-30
 extra:
   image: image.webp
 taxonomies:

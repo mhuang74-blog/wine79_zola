@@ -1,7 +1,7 @@
 ---
 title: Schrader Cellars 나파 밸리의 더블 다이아몬드 오크빌 까베르네 소비뇽
 description: Schrader Cellars Double Diamond Oakville Cabernet Sauvignon은 벨벳 질감과 블랙베리, 블랙 체리, 삼나무의 풍미가 있는 풍부하고 어두운 와인입니다.
-date: 2022-01-01
+date: 2022-12-30
 extra:
   image: image.webp
 taxonomies:

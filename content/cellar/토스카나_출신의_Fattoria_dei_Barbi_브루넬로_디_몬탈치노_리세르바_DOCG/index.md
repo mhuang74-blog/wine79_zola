@@ -1,7 +1,7 @@
 ---
 title: 토스카나 출신의 Fattoria dei Barbi 브루넬로 디 몬탈치노 리세르바 DOCG
 description: 투스카니 지방의 Fattoria dei Barbi Brunello di Montalcino Riserva DOCG는 이 지역을 방문하는 모든 사람이 꼭 맛봐야 할 음식입니다. 이 건물은 세계에서 가장 존경받는 Brun의 고향입니다.
-date: 2022-01-01
+date: 2022-12-30
 extra:
   image: image.webp
 taxonomies:

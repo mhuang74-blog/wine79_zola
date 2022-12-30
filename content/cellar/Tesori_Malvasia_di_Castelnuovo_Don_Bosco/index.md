@@ -2,6 +2,7 @@
 title: 떼소리 말바시아 디 카스텔 누보 돈 보스코 (Tesori Malvasia di Castelnuovo Don Bosco) 는 이탈리아의 스위트 레드 또는 스파클링 스위트 레드 와인입니다.
 description: 떼소리 말바시아 디 카스텔 누보 돈 보스코 (Tesori Malvasia di Castelnuovo Don Bosco) 는 Piedmont의 Asti 지방 북서쪽에 있는 Malvasia di Schierano(Malvasia Nera) 포도로 만든 스위트 레드 또는 스파클링 스위트 레드 와인입니다.
 date: 2022-02-01
+updated: 2022-12-30
 extra:
   image: image.webp
 taxonomies:

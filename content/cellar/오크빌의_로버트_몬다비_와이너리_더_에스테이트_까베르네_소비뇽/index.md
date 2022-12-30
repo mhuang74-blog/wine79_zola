@@ -1,7 +1,7 @@
 ---
 title: 오크빌의 로버트 몬다비 와이너리 더 에스테이트 까베르네 소비뇽
 description: Robert Mondavi Winery는 미국에서 가장 유명한 와인 생산자 중 하나입니다. 캘리포니아 오크빌의 에스테이트 까베르네 소비뇽은 확실히 만족스러운 맛있는 와인입니다.
-date: 2022-01-01
+date: 2022-12-30
 extra:
   image: image.webp
 taxonomies:
