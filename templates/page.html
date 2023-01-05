@@ -1,23 +1,46 @@
 {% extends "zolastrap/templates/page.html" %}
 {% block content %}
-  <h1>{{page.title}}</h1>
-  <p class="text-muted">
-    {{authors::render(page=page)}}
-  </p>
-  {% if page.taxonomies.tags %}
-  <p>
-    {% for tag in page.taxonomies.tags %}
-      <a
-        class="badge bg-dark text-decoration-none link-light me-1"
-      >
-        {{tag}}
-      </a>
-    {% endfor %}
-  </p>
-  {% endif %}
+
+
+<!-- 
+
+{# for debugging #}
+
+{% set section = get_section(path="cellar/_index.md", metadata_only=true) %}
+
+<h2>section vars</h2>
+{% for key,value in section %}
+<code>{{ key }} = {{ value }}</code><br>
+{% endfor %}
+
+<h2>section extra vars</h2>
+{% for key,value in section.extra %}
+<code>{{ key }} = {{ value }}</code><br>
+{% endfor %}
+            
+<h2>page vars</h2>
+{% for key,value in page %}
+<code>{{ key }} = {{ value }}</code><br>
+{% endfor %}
+
+<h2>page taxonomies vars</h2>
+{% for key,value in page.taxonomies %}
+<code>{{ key }} = {{ value }}</code><br>
+{% endfor %}
+
+<h2>page extra vars</h2>
+{% for key,value in page.extra %}
+<code>{{ key }} = {{ value }}</code><br>
+{% endfor %} 
+
+-->
+
+  {% block toc %}
   {% if page.toc %}
+  <p>
   <div class="content">
-  <h3>Table of Contents</h3>
+  <h3>에 대한 흥미로운 사실 {{ page.title }}</h3>
+    <br>
     <ul>
     {% for h1 in page.toc %}
         <li>
@@ -35,12 +58,37 @@
     {% endfor %}
     </ul>
   </div>
+  </p>
+  <br>
+  <br>
+  {% endif %}
+  {% endblock %}
+
+  {% if page.taxonomies.tags %}
+  <p>
+    {% for tag in page.taxonomies.tags %}
+    <a
+      href="{{get_taxonomy_url(kind="tags", name=tag)}}"
+      class="badge bg-dark text-decoration-none link-light me-1"
+    >
+      {{tag}}
+    </a>
+    {% endfor %}
+  </p>
   {% endif %}
 
   <div class="content">
     {{page.content | safe}}
   </div>
-  {% for author_slug in page.taxonomies.authors | default(value=[]) %}
-    {{authorbox::render(author_slug=author_slug)}}
-  {% endfor %}
+
+  {% if page.lower or page.higher %}
+    <p>
+      <h4>비슷한 와인에 관심이 있을 수 있습니다</h4>
+      <br>
+      <div class="links">
+      {% if page.lower %} <a href="{{ page.lower.permalink }}"> {{ page.lower.title }} </a> {% endif %}<br>
+      {% if page.higher %}<a href="{{ page.higher.permalink }}"> {{ page.higher.title }}</a> {% endif %}<br>
+      </div>
+    </p>
+  {% endif %}
 {% endblock %}
