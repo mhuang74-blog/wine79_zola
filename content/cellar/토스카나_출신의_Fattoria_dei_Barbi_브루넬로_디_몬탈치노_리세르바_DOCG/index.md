@@ -1,21 +1,30 @@
 ---
 title: 토스카나 출신의 Fattoria dei Barbi 브루넬로 디 몬탈치노 리세르바 DOCG
-description: 투스카니 지방의 Fattoria dei Barbi Brunello di Montalcino Riserva DOCG는 이 지역을 방문하는 모든 사람이 꼭 맛봐야 할 음식입니다. 이 건물은 세계에서 가장 존경받는 Brun의 고향입니다.
-date: 2022-12-30
+description: Fattoria dei Barbi Brunello di Montalcino Riserva DOCG는 토스카나 주 시에나 지방의 몬탈치노 언덕에 위치한 와이너리입니다. 이 부동산은 투스카니 슈퍼 투스칸을 포함하여 다양한 브루넬로 디 몬탈치노 와인을 생산합니다.
+date: 2022-01-01
 extra:
   image: image.webp
 taxonomies:
-  tags:
+  tags: 
+    - 적포도주
+    - 이탈리아
 ---
 
-##### 토스카나 출신의 Fattoria dei Barbi 브루넬로 디 몬탈치노 리세르바 DOCG 가 인기 있는 이유
 
-토스카나 지방의 Fattoria dei Barbi Brunello di Montalcino Riserva DOCG가 인기 있는 데에는 몇 가지 이유가 있습니다. 무엇보다 이 와인은 이 지역 최고의 포도로 생산됩니다. 즉, 미뢰가 더 원하게 만드는 깊고 풍부한 풍미를 가지고 있습니다. 둘째, 와인은 나무 통에서 최소 2년 동안 숙성되어 가장 안목 있는 와인 애호가도 만족할 수 있는 복합성과 풍부함을 제공합니다. 마지막으로 Fattoria dei Barbi Brunello di Montalcino Riserva DOCG는 와인 애호가의 컬렉션에서 경외심을 불러일으킬 아름다운 와인 병에 포장되어 있습니다.
+### 토스카나 출신의 Fattoria dei Barbi 브루넬로 디 몬탈치노 리세르바 DOCG 가 인기 있는 이유
 
-##### 토스카나 출신의 Fattoria dei Barbi 브루넬로 디 몬탈치노 리세르바 DOCG 의 역사
+이 와인은 매우 높은 품질의 와인이기 때문에 매우 인기가 있습니다. 달콤하고 과일향이 나며 여운이 길다.
 
-Brunello di Montalcino Riserva DOCG 와인은 60% Pinot Noir와 40% Brunello di Montalcino의 블렌드로 만들어집니다. 이 와인은 1978년에 처음 생산되었으며 1961년부터 생산되었습니다. 이 와인은 16세기부터 와인을 재배한 Barbi 가족의 이름을 따서 명명되었습니다. 와인은 종종 세계에서 가장 훌륭한 브루넬로 중 하나로 간주됩니다.
+&nbsp;  
 
-##### 토스카나 출신의 Fattoria dei Barbi 브루넬로 디 몬탈치노 리세르바 DOCG 를 위한 음식 페어링
+### 토스카나 출신의 Fattoria dei Barbi 브루넬로 디 몬탈치노 리세르바 DOCG 의 역사
 
-토스카나 지방의 Fattoria dei Barbi Brunello di Montalcino Riserva DOCG와 잘 어울리는 음식이 많습니다. 몇 가지 인기 있는 선택은 다음과 같습니다. * 토스카나 플랫브레드 및 매운 토마토 소스와 같은 전통 토스카나 요리 * 신선하고 풍미 가득한 과일 * 라자냐 및 카넬로니와 같은 치즈 맛이 나는 쫄깃한 요리
+브루넬로 디 몬탈치노 와인은 세계에서 가장 권위 있는 와인 중 하나입니다. 와인은 Montalcino 포도원의 가장 좋은 부분으로 만들어지며 몇 가지 제한된 수량으로만 만들어집니다. 와인은 최소 12개월 동안 오크통에서 숙성됩니다.
+
+&nbsp;  
+
+### 토스카나 출신의 Fattoria dei Barbi 브루넬로 디 몬탈치노 리세르바 DOCG 를 위한 음식 페어링
+
+투스카니의 와인은 세계에서 가장 유명하고 존경받는 와인 중 하나이며, 이 지역의 와인은 다양한 음식과 잘 어울릴 만큼 다재다능합니다. 식사와 함께 즐길 수 있는 최고의 와인은 100% Brunello di Montalcino 포도로 만든 Fattoria dei Barbi Brunello di Montalcino Riserva DOCG입니다. 이 와인은 고기, 치즈, 심지어 디저트까지 포함한 다양한 요리와 잘 어울리는 맛있고 복합적인 선택입니다.
+
+&nbsp;  

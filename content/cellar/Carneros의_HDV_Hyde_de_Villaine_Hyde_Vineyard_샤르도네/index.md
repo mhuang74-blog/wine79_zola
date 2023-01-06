@@ -1,21 +1,30 @@
 ---
 title: Carneros의 HDV Hyde de Villaine Hyde Vineyard 샤르도네
-description: 캘리포니아 Carneros에 있는 Hyde de Villaine Vineyard의 샤르도네입니다. 이 와인은 아름다운 황금색과 선명하고 깨끗한 맛을 가지고 있습니다.
-date: 2022-12-30
+description: Hyde de Villaine Chardonnay는 더운 여름날 홀짝이기에 완벽한 사랑스러운 풍미 프로파일을 가진 유쾌하고 상쾌한 와인입니다.
+date: 2022-01-01
 extra:
   image: image.webp
 taxonomies:
-  tags:
+  tags: 
+    - 백포도주
+    - 미국
 ---
 
-##### Carneros의 HDV Hyde de Villaine Hyde Vineyard 샤르도네 가 인기 있는 이유
 
-이 와인의 인기는 풍부하고 복잡한 풍미와 잘 숙성되는 능력 때문입니다. 이 와인은 캘리포니아 카네로스에 있는 HDV Hyde de Villaine Hyde Vineyard에서 재배한 포도로 만듭니다. 포도원은 1,800피트의 고도에 위치하고 있으며 화산 토양으로 구성되어 있습니다. 포도는 스테인리스 스틸에서 발효된 후 새로운 프렌치 오크 통에서 18개월 동안 숙성됩니다.
+### Carneros의 HDV Hyde de Villaine Hyde Vineyard 샤르도네 가 인기 있는 이유
 
-##### Carneros의 HDV Hyde de Villaine Hyde Vineyard 샤르도네 의 역사
+이 와인의 인기는 복합적인 풍미와 아로마 특성 때문입니다. 100% 샤르도네 포도로 만든 와인으로 오크 향이 살짝 가미된 과일 향이 난다. 와인은 부드럽고 크리미한 질감으로도 유명합니다.
 
-2000년대 초반에 생산된 싱글 빈야드 와인입니다. 100% 샤르도네 포도로 만든 이 와인은 와인 평론가 로버트 파커로부터 92점을 받았습니다.
+&nbsp;  
 
-##### Carneros의 HDV Hyde de Villaine Hyde Vineyard 샤르도네 를 위한 음식 페어링
+### Carneros의 HDV Hyde de Villaine Hyde Vineyard 샤르도네 의 역사
 
-하이드 빈야드 샤르도네와 잘 어울리는 음식은 아삭아삭한 채소와 풍미 가득한 크루통을 곁들인 샐러드 또는 과일 타르트와 같이 가볍고 과일입니다. 다른 보완 요리로는 양고기 또는 돼지고기와 같은 풍부하고 지방이 많은 육류나 탈리아텔레 또는 리가토니와 같은 풍미 있는 파스타가 있습니다.
+HDV Hyde de Villaine Hyde Vineyard Chardonnay는 샤르도네 50%와 피노 누아 50%가 블렌딩된 제품입니다. 포도원은 Napa Valley의 Carneros 명칭에 위치하고 있으며 Robert와 Barbara Hyde가 1984년에 설립했습니다. 와이너리는 HDV Hyde de Villaine Hyde Vineyard Chardonnay를 포함한 다양한 와인을 생산합니다.
+
+&nbsp;  
+
+### Carneros의 HDV Hyde de Villaine Hyde Vineyard 샤르도네 를 위한 음식 페어링
+
+HDV Hyde de Villaine Hyde Vineyard Chardonnay는 가볍고 과일 향이 나는 요리와 잘 어울립니다. 예를 들면 샐러드, 과일 접시, 스시 등이 있습니다.
+
+&nbsp;  
