@@ -1,7 +1,8 @@
 ---
 title: Saint-Julien의 Chateau Talbot
 description: 까베르네 소비뇽, 메를로, 까베르네 프랑, 쁘띠 베르도의 풀바디 복합 보르도 블렌드는 잘 익은 블랙베리와 카시스 향과 담배와 삼나무의 힌트가 어우러져 흥미진진하고 기억에 남을 와인 경험을 선사합니다.
-date: 2022-01-01
+date: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:

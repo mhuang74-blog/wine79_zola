@@ -1,7 +1,8 @@
 ---
 title: Chateau de Beaucastel 론의 Chateauneuf-du-Pape
 description: Chateau de Beaucastel 와인은 밀도가 높고 풍부한 질감의 깊고 어두운 색상을 가지고 있습니다. 그것은 과일, 꽃 향과 풀바디하고 복합적인 맛을 가지고 있습니다. 와인은 차갑게 제공하는 것이 가장 좋으며 다양한 음식과 함께 즐길 수 있습니다.
-date: 2022-01-01
+date: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:

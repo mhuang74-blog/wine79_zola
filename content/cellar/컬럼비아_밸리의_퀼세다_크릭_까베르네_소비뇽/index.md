@@ -1,7 +1,8 @@
 ---
 title: 컬럼비아 밸리의 퀼세다 크릭 까베르네 소비뇽
 description: 이 와인은 콜롬비아 밸리에서 재배된 카베르네 소비뇽 포도로 만들어집니다. 와인은 풍부하고 완전한 풍미와 함께 깊고 어두운 색을 띤다.
-date: 2022-01-01
+date: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:

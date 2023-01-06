@@ -1,7 +1,8 @@
 ---
 title: 오크빌의 로버트 몬다비 와이너리 더 에스테이트 까베르네 소비뇽
 description: Robert Mondavi Winery는 세계에서 가장 맛있는 와인을 생산하는 유명한 와이너리입니다. 그들의 Estates Cabernet Sauvignon은 확실히 만족스러운 맛있는 와인입니다.
-date: 2022-01-01
+date: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:

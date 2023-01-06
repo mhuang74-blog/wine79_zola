@@ -1,7 +1,8 @@
 ---
 title: Schrader Cellars 나파 밸리의 더블 다이아몬드 오크빌 까베르네 소비뇽
 description: 100% 까베르네 소비뇽으로 양조된 이 와인은 풍부하고 깊은 색상과 과일 향, 꽃 향이 있습니다. 약간 달콤한 맛과 길고 여운이 있는 이 와인은 특별한 경우에 적합합니다.
-date: 2022-01-01
+date: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:

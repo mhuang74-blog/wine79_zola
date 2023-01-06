@@ -1,7 +1,8 @@
 ---
 title: 토스카나 출신의 Fattoria dei Barbi 브루넬로 디 몬탈치노 리세르바 DOCG
 description: Fattoria dei Barbi Brunello di Montalcino Riserva DOCG는 토스카나 주 시에나 지방의 몬탈치노 언덕에 위치한 와이너리입니다. 이 부동산은 투스카니 슈퍼 투스칸을 포함하여 다양한 브루넬로 디 몬탈치노 와인을 생산합니다.
-date: 2022-01-01
+date: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:

@@ -1,7 +1,8 @@
 ---
 title: 투스카니 마르케시 안티노리 티그나넬로 토스카나 IGT
 description: Marchesi Antinori Tignanello Toscana IGT는 투스카니 최고의 포도원에서 생산되는 고급스러운 풀바디 와인입니다. 와인은 또한 벨벳 같은 질감과 긴 여운으로 유명합니다. 단독으로 마시거나 음식과 페어링하기에 이상적입니다.
-date: 2022-01-01
+date: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:

@@ -1,7 +1,8 @@
 ---
 title: Carneros의 HDV Hyde de Villaine Hyde Vineyard 샤르도네
 description: Hyde de Villaine Chardonnay는 더운 여름날 홀짝이기에 완벽한 사랑스러운 풍미 프로파일을 가진 유쾌하고 상쾌한 와인입니다.
-date: 2022-01-01
+date: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:

@@ -1,7 +1,8 @@
 ---
 title: Louis Roederer 샴페인의 Cristal Millesime Brut
 description: 샴페인의 이 정교하고 풀바디한 Louis Roederer Cristal Millesime Brut는 잘 익은 과일과 구운 브리오슈의 복합적인 향과 함께 독특하고 고급스러운 경험을 선사합니다.
-date: 2022-01-01
+date: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:

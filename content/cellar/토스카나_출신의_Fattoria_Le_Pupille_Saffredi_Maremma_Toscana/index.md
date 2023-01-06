@@ -1,7 +1,8 @@
 ---
 title: 토스카나 출신의 Fattoria Le Pupille 'Saffredi' Maremma Toscana
 description: Fattoria Le Pupille 'Saffredi' Maremma Toscana는 Sangiovese, Cabernet Sauvignon 및 Merlot 포도의 블렌드로 만들어지기 때문에 독특한 와인입니다. 이 와인은 새 오크통에서 숙성되어 과일향과 스파이시한 풍미가 특징입니다.
-date: 2022-01-01
+date: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:
