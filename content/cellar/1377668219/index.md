@@ -5,7 +5,7 @@ date: 2022-07-01
 updated: 2023-01-06
 extra:
   image: image.webp
-  canonical: cellar/1879G_MOSCATO
+  canonical: cellar/1879G_MOSCATO/
 taxonomies:
   tags:
     - White

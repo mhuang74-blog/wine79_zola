@@ -5,7 +5,7 @@ date: 2022-01-01
 updated: 2023-01-06
 extra:
   image: image.webp
-  canonical: cellar/Domaine_Lecheneaut_Morey_St_Denis_Clos_de_la_Roche_Grand_Cru
+  canonical: cellar/Domaine_Lecheneaut_Morey_St_Denis_Clos_de_la_Roche_Grand_Cru/
 taxonomies:
   tags:
     - Red

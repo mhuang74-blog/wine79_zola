@@ -5,7 +5,7 @@ date: 2022-08-01
 updated: 2023-01-06
 extra:
   image: image.webp
-  canonical: cellar/Marchigue_L_Cabernet_Sauvignon
+  canonical: cellar/Marchigue_L_Cabernet_Sauvignon/
 taxonomies:
   tags:
     - Red
