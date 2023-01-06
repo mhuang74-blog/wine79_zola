@@ -33,19 +33,32 @@
 	],
     "prompt_templates" : {
         "wine_description": {
-            "tokens": 75,
-            "prompt": "Write a one sentence description about: {{wine_name}}"
+            "model": "text-davinci-003",
+            "temperature": 0.8,
+            "tokens": 80,
+            "prompt": "With one sentence, describe this wine in an exciting way and highlight how it is unique: {{wine_name}}"
         },
         "wine_popularity": {
-            "tokens": 300,
+            "temperature": 0.8,
+            "tokens": 500,
             "prompt": "Write about what makes this wine so popular: {{wine_name}}"
         },
+        "wine_popularity_with_business_men": {
+          "model": "text-davinci-003",
+          "temperature": 0.8,
+          "tokens": 500,
+          "prompt": "Write an exciting story about how this wine gained popularity with accomplished business men to celebrate special business achivements and show apprciate to their customers with this wine: {{wine_name}}"
+        },  
         "wine_history": {
-            "tokens": 300,
+            "model": "text-davinci-003",
+            "temperature": 0.25,
+            "tokens": 500,
             "prompt": "Write about the history of this wine: {{wine_name}}"
         },
         "wine_pairing": {
-            "tokens": 300,
+            "model": "text-davinci-003",
+            "temperature": 0.8,
+            "tokens": 500,
             "prompt": "Write about foods that go well with: {{wine_name}}"
         },
         "wine_style": {

@@ -18,6 +18,12 @@ taxonomies:
 
 &nbsp;  
 
+### {{ wine_name }} 가 비즈니스맨들에게 인기를 끌게 된 비결
+
+{{ wine_popularity_with_business_men }}
+
+&nbsp;  
+
 ### {{ wine_name }} 의 역사
 
 {{ wine_history }}
