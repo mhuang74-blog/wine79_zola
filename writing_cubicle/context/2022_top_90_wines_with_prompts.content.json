@@ -1,0 +1,627 @@
+{
+  "contexts": [
+    {
+      "wine_description": "The Chateau Beau-Sejour Becot from Saint-Emilion Grand Cru is a beautiful wine that is perfect for any occasion.",
+      "wine_history": "is a blend of 50% Merlot, 25% Cabernet Sauvignon, and 25% Cabernet Franc. The wine was first produced in 1855 by Louis Beau-Sejour. The wine is named after the estate where it is produced and is aged in oak barrels for at least 12 months.\n\nChateau Beau-Sejour Becot is a blend of 50% Merlot, 25% Cabernet Sauvignon, and 25% Cabernet Franc. The wine was first produced in 1855 by Louis Beau-Sejour. The wine is named after the estate where it is produced and is aged in oak barrels for at least 12 months. The wine has a deep red color with a bouquet of blackberry, currant, and cedar. The wine has a strong, full-bodied taste with flavors of blackberry, currant, and cedar. The wine has a soft finish with lingering notes of blackberry, currant, and cedar.",
+      "wine_name": "Chateau Beau-Sejour Becot from Saint-Emilion Grand Cru",
+      "wine_pairing": "One option for a food that goes well with Chateau Beau-Sejour Becot from Saint-Emilion Grand Cru is a dish of charcuterie. This type of cuisine typically includes meat such as pork, lamb, and chicken that has been cured, smoked, or boiled. It can also include cheeses, vegetables, bread, and wine.",
+      "wine_popularity": "The Beau-Sejour Becot from Saint-Emilion Grand Cru is a wine that is known for its complex flavors and aromas. The wine is made from a blend of 85% Cabernet Sauvignon and 15% Petit Verdot, and it is aged for at least 18 months in oak barrels. The wine has a deep color and a rich, intense flavor. The wine has a strong, fruity aroma and a complex palate that is full of flavors and aromas."
+    },
+    {
+      "wine_description": "The Podere Grattamacco Bolgheri Superiore is a vineyard and winery located in Bolgheri, Tuscany, Italy. The winery was founded in 1971 by Raffaele Gratt",
+      "wine_history": ", Italy, is a blend of 70% Sangiovese, 15% Canaiolo, and 10% Cabernet Sauvignon. It is made from estate-bottled wines and has a suggested retail price of $30.\n\nThe Podere Grattamacco Bolgheri Superiore was created in 1968 by Bruno Giacosa. The vineyard is located in the Bolgheri district of Tuscany, Italy. This wine is made from estate-bottled wines and has a suggested retail price of $30.",
+      "wine_name": "Podere Grattamacco Bolgheri Superiore from Bolgheri",
+      "wine_pairing": "Superior wines from Bolgheri are perfect with a variety of foods. Some favorites include steak, chicken, lamb, and pasta dishes.",
+      "wine_popularity": "Bolgheri is a region in Tuscany, Italy that is known for its elegant wines. The Podere Grattamacco Bolgheri Superiore wine is a blend of 70% Sangiovese and 30% Cabernet Sauvignon. The wine is aged for 12 months in oak barrels. The wine has a fruity flavor with a hint of spice."
+    },
+    {
+      "wine_description": "This wine is made from Sauvignon Blanc grapes and has a crisp, clean taste with a hint of citrus.",
+      "wine_history": ", New Zealand, is a wine made from the Sauvignon Blanc grape. The wine is made from 100% Sauvignon Blanc grapes and is aged for at least two years in new oak barrels.\n\nMarlborough is a region located in New Zealand’s South Island. The climate in the area is cool and dry, with a long, hot, and dry summer. This makes the grapes ripe and able to produce a high-quality wine.\n\nGreywacke Sauvignon Blanc is a dry wine with a crisp, fruity flavor. It is perfect for sipping on its own or pairing with food.",
+      "wine_name": "Greywacke Sauvignon Blanc from Marlborough",
+      "wine_pairing": "Some foods that go well with a Greywacke Sauvignon Blanc from Marlborough are cheese, charcuterie, flatbreads, and poultry.",
+      "wine_popularity": "The Greywacke Sauvignon Blanc from Marlborough is a popular wine because of its fragrant, crisp taste and its easy-drinking nature. This wine is made from Sauvignon Blanc grapes and is best served chilled or over ice."
+    },
+    {
+      "wine_description": "Philip Togni Vineyard Cabernet Sauvignon from Napa Valley is a rich and full-bodied wine with flavors of blackberry, leather, and spice.",
+      "wine_history": ", California is a rich, full-bodied wine that is perfect for enjoying with a meal.\n\nThe Philip Togni Vineyard Cabernet Sauvignon is a luxurious wine that was created in the Napa Valley. The wine was created in 2001 and is made from cabernet sauvignon grapes. This wine is aged for 18 months in new French oak barrels. The wine has a rating of 94 points and is perfect for those who enjoy a full-bodied wine.",
+      "wine_name": "Philip Togni Vineyard Cabernet Sauvignon from Napa Valley",
+      "wine_pairing": "Some good foods to pair with Philip Togni Vineyard Cabernet Sauvignon from Napa Valley are roasted chicken, salmon, beef, and pasta dishes.",
+      "wine_popularity": "This wine is popular for its fruity flavor and high quality. It is also known for its smooth finish."
+    },
+    {
+      "wine_description": "A delicious and affordable wine from Oregon's Eola-Amity Hills.",
+      "wine_history": "Winery was created in 1990. It is a blend of 60% Chardonnay and 40% Pinot Noir.\n\nThe Roserock Chardonnay is a blend of 60% Chardonnay and 40% Pinot Noir. The Eola-Amity Hills Winery was founded in 1990, and this wine was created in 1990.",
+      "wine_name": "Roserock Chardonnay from Eola-Amity Hills",
+      "wine_pairing": "A few foods that go well with Roserock Chardonnay from Eola-Amity Hills are chicken, salmon, and shrimp.",
+      "wine_popularity": "Roserock Chardonnay is a popular wine because it is smooth, has a fruity flavor, and is a good value."
+    },
+    {
+      "wine_description": "McPrice Myers Beautiful Earth is a Paso Robles winery that offers tours of their facilities and wine tastings.",
+      "wine_history": "is a dry red wine made from Zinfandel, Cabernet Sauvignon, and Merlot. The winery was founded in the late 1800s by McPrice Myers and his wife, Addie. They planted their first vines in the Paso Robles area in 1886. The winery was sold to the Trinchero family in 1988.",
+      "wine_name": "McPrice Myers Beautiful Earth from Paso Robles",
+      "wine_pairing": "Some foods that go well with McPrice Myers Beautiful Earth from Paso Robles are earthy meats like lamb, pork, and beef, as well as vegetables like kale, Brussels sprouts, and cauliflower. Classics like green beans and mashed potatoes are also great choices.",
+      "wine_popularity": "is a wine that is made from 100% varietal Zinfandel.\n\nThe Paso Robles region of California is well known for producing some of the best Zinfandel wines in the country. McPrice Myers Beautiful Earth is no exception and is considered one of the most popular varietal Zinfandel wines on the market.\n\nThe wine is made from 100% Zinfandel grapes and is aged for 12 months in new oak barrels. The wine has a deep, dark color and a fruity, sweet taste. The wine is best served chilled and is perfect for sipping on its own or pairing with food."
+    },
+    {
+      "wine_description": ", Argentina\n\nA great Cabernet Sauvignon from Mendoza, Argentina.",
+      "wine_history": ", Argentina\n\nThe Amancaya Gran Reserva Malbec wine is made from 100% cabernet sauvignon grapes. The wine is aged for 12-18 months in new and used French oak barrels. The wine has a rating of 92 points by Decanter magazine.",
+      "wine_name": "Bodegas Caro 'Amancaya' Gran Reserva Malbec - Cabernet Sauvignon from Mendoza",
+      "wine_pairing": "Beer, chocolate, cigars, red meat. These are all classics that go great with a good Malbec from Mendoza.",
+      "wine_popularity": ", Argentina\n\nThere are many things that make this wine so popular, but some of the key reasons are that it is a great value for the price, it has a great flavor profile, and it is a versatile wine that can be enjoyed with a variety of meals. Additionally, the wine is made from high-quality grapes, so it is a reliable choice for anyone who is looking for a good, quality wine."
+    },
+    {
+      "wine_description": "Aromas of ripe blackberries and spices lead to a mouth-filling fruit flavor on the palate with a long finish.",
+      "wine_history": "Giant Steps Pinot Noir is a wine made from the Yarra Valley region in Australia. The wine was created by winemaker Tony Soter in 2006, and it is one of the most highly-rated wines in the country. The wine is made from Cabernet Sauvignon, Merlot, and Cabernet Franc, and it is aged for 12 months in new French oak barrels. The wine is soft and fruity, with a complex flavor profile that includes notes of blackberry, leather, and espresso. Giant Steps Pinot Noir is a perfect wine to enjoy with food, and it is a popular choice among wine enthusiasts.",
+      "wine_name": "Giant Steps Pinot Noir from Yarra Valley",
+      "wine_pairing": "Some great food pairs with Yarra Valley Giant Steps Pinot Noir are roast beef, lamb, chicken, pork, risotto, pasta, pizza, potatoes, couscous, and salads.",
+      "wine_popularity": "Giant Steps Pinot Noir is a popular wine because of its unique taste and smooth finish. The wine is made from Pinot Noir grapes, which are grown in Yarra Valley. The wine is aged in oak barrels for at least 12 months, which gives it a smooth taste and finish."
+    },
+    {
+      "wine_description": "A delicious and refreshing white wine from the Schramsberg Vineyards.",
+      "wine_history": "Schramsberg Blanc de Blancs is a sparkling wine from the North Coast region of California. The wine is named for the Schramsberg Vineyard, which is located in the Napa Valley. The wine is made from 100% Chardonnay grapes.\n\nSchramsberg Blanc de Blancs was first produced in 1982. In 2006, the wine was awarded a Gold Medal at the San Francisco International Wine Competition.",
+      "wine_name": "Schramsberg Blanc de Blancs from North Coast",
+      "wine_pairing": "The Schramsberg Blanc de Blancs from North Coast are perfect with foods that are light and fruity. Some good options are a salad with creamy dressing, charcuterie, or a simple fruit tart.",
+      "wine_popularity": "Schramsberg Blanc de Blancs is a popular wine because it is a dry, crisp wine with a fruity flavor. It is also affordable, making it a good choice for everyday drinking."
+    },
+    {
+      "wine_description": "A delicious Pinot Noir from Central Otago.",
+      "wine_history": "is a single vineyard wine made from 100% Pinot Noir. The winery was founded in 1995 by Geoff and Janine Burn, and is located in the heart of Central Otago’s wine country.\n\nThe Burn family are fourth-generation grape growers in Central Otago, and Geoff Burn has been passionate about Pinot Noir since he first tasted it as a student in France. He and Janine recognised the potential for Pinot Noir in their region and started planting experimental vines in 1995.\n\nThe vineyard lies in the heart of the Pinot Noir region, and the winery has a long tradition of hand-picking and hand-ferrying their wines. The grapes are initially cold-pressed and then aged in small barrels for 12-18 months before being bottled.\n\nThe Burn Cottage Pinot Noir is a elegant, soft wine with a bouquet of fresh blackberries, blackcurrants and hints of spice. The palate is rich and velvety with a lasting finish.",
+      "wine_name": "Burn Cottage Pinot Noir from Central Otago",
+      "wine_pairing": "Foods that go well with Burn Cottage Pinot Noir from Central Otago are classic New Zealand cuisine favourites like lamb and beef, as well as pasta dishes.",
+      "wine_popularity": "Burn Cottage Pinot Noir is known for its fruity flavors and its smooth, dry finish. The wine is made from 100% Pinot Noir grapes, and is aged for 18 months in oak barrels."
+    },
+    {
+      "wine_description": "Montes Alpha Syrah from Colchagua Valley is a well-made wine with a rich and complex flavor.",
+      "wine_history": ", Chile\n\nThe Colchagua Valley is located in the Central Valley of Chile and is known for its world-renowned wine production. The Montes Alpha Syrah is a blend of two different types of Syrah: the popular and widely available Merlot and the more rare and expensive Cabernet Sauvignon. The Montes Alpha Syrah is named for the Alpha grape variety that is the main component of the blend.\n\nThe Montes Alpha Syrah was first grown in the Colchagua Valley in the late 1800s. It was not until the 1970s that the wine production in the Colchagua Valley began to take off. In the 1980s, the Montes Alpha Syrah became a popular and well-respected wine. Today, the Montes Alpha Syrah is one of the most popular and sought-after wines in the world.",
+      "wine_name": "Montes Alpha Syrah from Colchagua Valley",
+      "wine_pairing": "There are so many foods that go well with Montes Alpha Syrah from Colchagua Valley that it's hard to just list a few. Some great options include roasted chicken, charred octopus, black beans, and avocado.",
+      "wine_popularity": "The Montes Alpha Syrah from Colchagua Valley is a highly acclaimed wine that is often hailed as one of the best examples of its type. The wine is made from 100% Syrah grapes, and is aged for 12 to 18 months in French and American oak barrels. The wine is then aged for another six to twelve months in bottle before release. The wine has a sweet, fruity flavor with a hint of oakiness."
+    },
+    {
+      "wine_description": "Tuscany's Tenuta di Capraia Chianti Classico Riserva DOCG is a luxurious vineyard that produces some of the world's best Chianti Classico wines. The estate is located in the heart of",
+      "wine_history": "The Tenuta di Capraia Chianti Classico Riserva DOCG was founded in the 1880s by Alessandro Capraia. The estate is located in the Chianti region of Tuscany, and is known for its lush, green vineyards and classically styled wines.\n\nThe estate produces a limited amount of Chianti Classico Riserva DOCG each year, and is available only through select wine retailers.",
+      "wine_name": "Tenuta di Capraia Chianti Classico Riserva DOCG from Tuscany",
+      "wine_pairing": "Foods that go well with the Tenuta di Capraia Chianti Classico Riserva DOCG from Tuscany include rich, hearty dishes like beef stew, lamb stew, and paella. These dishes will fill you up and help you enjoy the wine more fully.",
+      "wine_popularity": "This wine is popular for its smooth, fruity flavor with a hint of oak. It has a medium to full body and a dry, crisp finish."
+    },
+    {
+      "wine_description": "The Finca Decero Remolinos Vineyard Malbec from Agrelo is a delicious wine that is perfect for sipping on a warm day. The wine is made from 100% Malbec grapes and has a dark purple color",
+      "wine_history": ", Chile\n\nFinca Decero Remolinos Vineyard Malbec is from Agrelo, Chile and was certified by the MWT in 2017. The vineyard was founded in 1898 by Don José Decero and produces a limited amount of the wine. The wine is made from 100% Malbec grapes and has a ruby red color. This wine has a fruity taste with notes of blackberry, raspberry, blackcurrant, and plum.",
+      "wine_name": "Finca Decero Remolinos Vineyard Malbec from Agrelo",
+      "wine_pairing": "Foods that go well with Finca Decero Remolinos Vineyard Malbec from Agrelo would be a variety of meats and cheeses, as well as a variety of fresh fruits and vegetables.",
+      "wine_popularity": "The Malbec grape is known for its deep, dark color and robust flavor, which is a result of its hearty grapevine growth. The wine from the Finca Decero Remolinos Vineyard is no exception, boasting a smooth, blackberry flavor with a robust, smoky finish."
+    },
+    {
+      "wine_description": "A rich, full-bodied red wine from Tuscany that is aged for at least two years in oak barrels.",
+      "wine_history": "The wine from San Felice Chianti Classico DOCG is a blend of Sangiovese, Canaiolo, Trebbiano and Malvasia. The wine is produced from some of the oldest vineyards in Tuscany, including the estate of San Felice located in the Chianti Classico region.\n\nThe wine was first produced in the mid-1800s and quickly became one of the region's most popular wines. Today, San Felice Chianti Classico DOCG is still produced using the same traditional techniques and grapes. The wine is aged for several years in wooden casks before it is released to the public.",
+      "wine_name": "San Felice Chianti Classico DOCG from Tuscany",
+      "wine_pairing": "Some good food choices to go with San Felice Chianti Classico DOCG from Tuscany would be a pasta dish such as carbonara or lasagna, a steak dish such as a ribeye or filet mignon, or a seafood dish such as salmon or calamari.",
+      "wine_popularity": "The San Felice Chianti Classico DOCG from Tuscany is a delicious wine that is loved for its smooth taste and complex flavor. This wine is made from 100% Sangiovese grapes and has a rating of 92 points on the wine rating scale. The wine is smooth and has a fruity flavor that is enhanced by the oak barrel aging."
+    },
+    {
+      "wine_description": "Hanzell Vineyards Pinot Noir is a delicious wine that is perfect for a night with friends.",
+      "wine_history": ", California\n\nHanzell Vineyards began as a small family-owned winery in Sonoma Valley in 1978. Today, Hanzell Vineyards is one of the largest and most respected wineries in the region, producing award-winning wines such as the Pinot Noir. Hanzell Vineyards is located in the heart of the Alexander Valley, one of the most historically significant winegrowing regions in California. The soils here are composed of a mix of sedimentary and volcanic rock, and the climate is extremely dry, which produces some of the most intense and complex Pinot Noirs in the world.",
+      "wine_name": "Hanzell Vineyards Pinot Noir from Sonoma Valley",
+      "wine_pairing": "There are many delicious foods that go well with a Hanzell Vineyards Pinot Noir. Some examples include a hearty steak, chicken breasts, pasta with tomato sauce, or sliced fresh fruit.",
+      "wine_popularity": "The Hanzell Vineyards Pinot Noir has a beautiful deep purple color and a rich aroma. This wine is known for its intense flavors and its long lasting taste."
+    },
+    {
+      "wine_description": "Valley\n\nAromas of plum, blackberry and blackcurrant with a oak-forward finish. Soft, round tannins with a lingering finish.",
+      "wine_history": "Valley\n\nThis wine is the result of a long and painstaking process that starts with the harvesting of the grapes. The grapes are then transported to the winery where they are crushed and fermented. After fermentation, the wine is aged in oak barrels for many months. At the end of the aging process, the wine is bottled and ready to drink.",
+      "wine_name": "First Drop Mother's Milk Shiraz from Barossa",
+      "wine_pairing": "Valley\n\nOne of the best things to pair with a First Drop Mother's Milk Shiraz from Barossa Valley is a hearty and satisfying meal. Some great options include roasted leg of lamb with a mint and rosemary sauce, or a wood-fired pizza with a topping of roasted tomatoes, garlic, and fresh basil.",
+      "wine_popularity": "Valley\n\nThe First Drop Mother's Milk Shiraz from Barossa Valley is a delicious wine that is sure to please wine lovers everywhere. This wine has a deep red color with a fruity taste that is sure to please. The First Drop Mother's Milk Shiraz from Barossa Valley is a perfect wine to enjoy with a variety of foods, from simple snacks to more complex dishes."
+    },
+    {
+      "wine_description": "This McBride Sisters Sauvignon Blanc from Marlborough is a light, crisp wine that is perfect for pairing with seafood dishes.",
+      "wine_history": ", New Zealand\n\nThe McBride Sisters Sauvignon Blanc is a New Zealand wine made from Sauvignon Blanc grapes. The wine was created by the McBride Sisters, who are winemakers based in Marlborough. The wine was first produced in 2003, and it has since become one of the country’s most popular and well-known sauvignon blancs.\n\nThe McBride Sisters Sauvignon Blanc is made from 100% Sauvignon Blanc grapes, and it is typically dry and light in flavor. The wine is also well-balanced and has a crisp, refreshing taste. The winemakers at the McBride Sisters use traditional winemaking methods and techniques, and they are known for their dedication to quality control.\n\nThe McBride Sisters Sauvignon Blanc is a versatile wine that can be enjoyed at any occasion. The wine is particularly well-suited for summertime dining, as it has a light and refreshing taste. The McBride Sisters Sauvignon Blanc is also a popular choice for wine lovers who are looking for a quality sauvignon blanc that is affordable.",
+      "wine_name": "McBride Sisters Sauvignon Blanc from Marlborough",
+      "wine_pairing": "Some foods that go well with McBride Sisters Sauvignon Blanc from Marlborough are seafood, chicken, and sushi.",
+      "wine_popularity": ", New Zealand\n\nMcBride Sisters Sauvignon Blanc from Marlborough, New Zealand, is known for its bright, grapefruit-y flavor and crisp, dry finish. Its popularity is likely attributable to its well-rounded flavor, as well as its affordability compared to some of the more expensive wines from the region."
+    },
+    {
+      "wine_description": "This wine is from the Alta Valley in Sonoma County. The Sauvignon Blanc is fruity and floral with a crisp, refreshing finish.",
+      "wine_history": ", California is a certified organic wine made from 100% Sauvignon Blanc grapes. The wine was created in 2002 by Bill Ferreira and his wife, Kathy, who were determined to create a wine that showcased the unique terrior and flavors of the Cattleya vineyard.\n\nCattleya 'Alma de Cattleya' Sauvignon Blanc is a wine made from 100% Sauvignon Blanc grapes, grown in Sonoma County, California. The wine was created in 2002 by Bill Ferreira and his wife, Kathy, who were determined to create a wine that showcased the unique terrior and flavors of the Cattleya vineyard.\n\nThe Cattleya vineyard is located in the heart of the Mayacamas Mountains, near Santa Rosa. The soil is composed of decomposed granite and has a high content of clay, which gives the grapes a strong and minerally flavor. The wine is also aged in oak barrels for six months.",
+      "wine_name": "Cattleya 'Alma de Cattleya' Sauvignon Blanc from Sonoma County",
+      "wine_pairing": "Some good foods to enjoy with a Sonoma County Cattleya 'Alma de Cattleya' Sauvignon Blanc are shrimp, salmon, and steak.",
+      "wine_popularity": ", California, is a wine with a dry, refreshing flavor and a bouquet of tropical fruits and citrus.\n\nThe Cattleya 'Alma de Cattleya' Sauvignon Blanc from Sonoma County, California, is a wine with a dry, refreshing flavor and a bouquet of tropical fruits and citrus. This wine is popular for its easy-drinking style and its fruity taste."
+    },
+    {
+      "wine_description": "Raventos Blanc is a sparkling wine from the Catalonia region in Spain. It is made from 100% Blanc de Blancs grapes and has a slightly sweet flavor with a fruity aroma.",
+      "wine_history": "Raventos I Blanc 'Blanc de Blancs' Espumoso Conca del Riu de Arnoia is a sparkling wine from Catalonia. This wine is produced in the Riu de Arnoia winery, located in the province of Barcelona. The winery was founded in 1973 and produces a range of sparkling wines, including Raventos I Blanc 'Blanc de Blancs' Espumoso Conca del Riu de Arnoia.\n\nRaventos I Blanc 'Blanc de Blancs' Espumoso Conca del Riu de Arnoia is made from 100% Montsant and Priorat wines. The wine is fermented with yeast and then aged in French oak barrels. It is released in both Brut and Extra Brut styles.",
+      "wine_name": "Raventos I Blanc 'Blanc de Blancs' Espumoso Conca del Riu de Arnoia from Catalonia",
+      "wine_pairing": "Raventos I Blanc 'Blanc de Blancs' Espumoso Conca del Riu de Arnoia from Catalonia pairs well with a wide variety of foods. Perfect for a light and refreshing summer drink, Raventos I Blanc 'Blanc de Blancs' Espumoso Conca del Riu de Arnoia is perfect for pairing with a variety of meats and cheeses, as well as a variety of salads and vegetables. Try pairing it with a juicy steak or a creamy goat cheese salad for a hearty and satisfying meal.",
+      "wine_popularity": "Raventos I Blanc 'Blanc de Blancs' Espumoso Conca del Riu de Arnoia is a popular white wine from Catalonia. It is made from 100% Rueda Blanca grapes and has a light, sparkling body and a delicate, fruit-forward flavor. The wine is best served cold and is often enjoyed with seafood dishes."
+    },
+    {
+      "wine_description": "A captivating wine with aromas of blackberry and blueberry, DeLille Cellars D2 is a smooth and fruity delight.",
+      "wine_history": "The DeLille Cellars D2 wine comes from Columbia Valley in Washington state. The estate has been in the DeLille family since the 1800s, and the winery was established in 1988. The winemaking team uses a mix of old and new techniques to produce this wine. The grapes are hand-harvested and then crushed and fermented in small batches. The wine is then aged in oak for 18 months.",
+      "wine_name": "DeLille Cellars D2 from Columbia Valley",
+      "wine_pairing": "Some food pairing ideas for DeLille Cellars D2 from Columbia Valley are a steak, a salad, and some roasted potatoes.",
+      "wine_popularity": "The popularity of DeLille Cellars D2 is due to its balanced palate of fruit, oak, and spice. This wine pairs well with a variety of foods, making it a great choice for a night out with friends."
+    },
+    {
+      "wine_description": "The Boscarelli Vino Nobile di Montepulciano Riserva DOCG is a high-quality wine made from the best Montepulciano grapes.",
+      "wine_history": "Boscarelli Vino Nobile di Montepulciano Riserva DOCG was first produced in 1966 by the Boscarelli family in the Montepulciano region of Tuscany. The wine is made from a blend of 60% Cabernet Sauvignon and 40% Merlot grapes. The wine is aged for at least one year in oak casks before it is released to the public.\n\nBoscarelli Vino Nobile di Montepulciano Riserva DOCG is a complex wine with a fruity aroma and a dark red color. The wine has a fruity taste with notes of blackberry, blueberry, and plum. The wine is recommended for those who enjoy Cabernet Sauvignon wines.",
+      "wine_name": "Boscarelli Vino Nobile di Montepulciano Riserva DOCG from Tuscany",
+      "wine_pairing": "Boscarelli Vino Nobile di Montepulciano Riserva DOCG from Tuscany is a great wine to pair with foods that are high in acidity, such as cured meats and cheeses. Other great choices are rich, hearty pasta dishes like Bucatini alla Carbonara or Rigatoni with Bolognese sauce.",
+      "wine_popularity": "The Boscarelli Vino Nobile di Montepulciano Riserva DOCG is a wine that is very popular because of its unique taste and its ability to age well. The wine is made from the best grapes from Montepulciano, and it is only offered in limited quantities. The wine is also known for its complex flavor and its ability to age for many years."
+    },
+    {
+      "wine_description": "Nalle Zinfandel is a dry red wine from the Alexander Valley in California.",
+      "wine_history": "Nalle Zinfandel is a wine made from a blend of Zinfandel and other red grape varieties. The wine is named after the founder of the winery, Nalle Otero, who planted the first vines in the Dry Creek Valley in 1976. The winery has since grown to be one of the largest in the area, producing over 30,000 cases of wine annually.",
+      "wine_name": "Nalle Zinfandel from Dry Creek Valley",
+      "wine_pairing": "Nalle Zinfandel is a wine made from Zinfandel grapes. It is a dark red wine with a fruity taste. It goes well with foods that are also dark in color, such as meats and cheeses.",
+      "wine_popularity": "Nalle Zinfandel from Dry Creek Valley is a popular wine due to its intense berry flavors and medium-bodied body. The wine is often enjoyed as an aperitif or dessert wine, and is best served chilled."
+    },
+    {
+      "wine_description": "Soter Vineyards' Estates Pinot Noir is a rich, dark wine with flavors of blackberry, cherry and plum.",
+      "wine_history": "Soter Vineyards has been in the wine business for more than 25 years, and has a rich history dating back to the early 1900s. In the early days, the Soter family operated a winery in the town of Newberg, Oregon, just south of the Willamette Valley. Later on, the winery was moved to the town of Dundee, in the heart of the Valley. It was in Dundee that Soter became one of the largest wine producers in the region.\n\nToday, Soter Vineyards produces a wide range of wines, from its flagship Pinot Noir to its world-renowned Zinfandel. The winery has a long history of producing award-winning wines, and has been recognized with several prestigious awards, including a Gold Medal from the San Francisco International Wine Competition.\n\nIf you're looking for a delicious wine that has a rich history, look no further than Soter Vineyards 'Estates' Pinot Noir. This wine is sure to please wine lovers of all levels, and is sure to make a memorable impression.",
+      "wine_name": "Soter Vineyards 'Estates' Pinot Noir from Willamette Valley",
+      "wine_pairing": "There are many foods that go well with Soter Vineyards 'Estates' Pinot Noir from the Willamette Valley. Some examples include a variety of meats, cheeses, charcuterie, pasta, pizza, and salads.",
+      "wine_popularity": "The Soter Vineyards 'Estates' Pinot Noir is a popular wine because it is a beautiful wine with a great taste. The wine is made from grapes grown in the Willamette Valley, and it has a fruity taste with hints of spice. The wine is perfect for a night out with friends, and it is also a great wine to serve at a wine tasting."
+    },
+    {
+      "wine_description": "The Mosel Dr. H. Thanisch Muller-Burggraef Bernkasteller Badstube Riesling Kabinett is a sweet and fruity wine with a slightly dry finish.",
+      "wine_history": "The Dr. H. Thanisch Muller-Burggraef Bernkasteller Badstube Riesling Kabinett is a classic wine from the Mosel Valley. The winery was founded in 1871 by Dr. Heinrich Thanisch, and it produces a range of dry and sweet rieslings. The wine is aged in oak barrels for at least two years, and it has a fruity, floral flavor that is perfect for sipping on its own or pairing with food.",
+      "wine_name": "Dr. H. Thanisch Muller-Burggraef Bernkasteller Badstube Riesling Kabinett from Mosel",
+      "wine_pairing": "There are many foods that go well with a Dr. H. Thanisch Muller-Burggraef Bernkasteller Badstube Riesling Kabinett from Mosel. Some popular combinations include:\n\n-Soft pretzels with a Dr. H. Thanisch Muller-Burggraef Bernkasteller Badstube Riesling Kabinett from Mosel\n-Roasted Brussels sprouts with a Dr. H. Thanisch Muller-Burggraef Bernkasteller Badstube Riesling Kabinett from Mosel\n-German-style sausages with a Dr. H. Thanisch Muller-Burggraef Bernkasteller Badstube Riesling Kabinett from Mosel\n-Parmesan cheese with a Dr. H. Thanisch Muller-Burggraef Bernkasteller Badstube Riesling Kabinett from Mosel",
+      "wine_popularity": "The Dr. H. Thanisch Muller-Burggraef Bernkasteller Badstube Riesling Kabinett from Mosel is a popular wine because of its exquisite taste and smooth, mellow finish. The wine is rich and full-bodied, with a floral aroma and a fruity taste that is reminiscent of apples and pears. The wine is best served chilled and is perfect for sipping on its own or pairing with a variety of foods."
+    },
+    {
+      "wine_description": "This wine is a blend of Cabernet Sauvignon, Merlot, Cabernet Franc, and Petit Verdot.",
+      "wine_history": ", California\n\nThe Bucklin Old Hill Ranch Ancient Field Blend is a wine made from grapes that were hand-picked and grown in Sonoma Valley, California. The wine was created in 2002 by the Bucklin family and is made from a blend of 70% Merlot, 20% Cabernet Sauvignon, and 10% Cabernet Franc.",
+      "wine_name": "Bucklin Old Hill Ranch Ancient Field Blend from Sonoma Valley",
+      "wine_pairing": "There are many foods that go well with Bucklin Old Hill Ranch Ancient Field Blend from Sonoma Valley. Some examples are roasted chicken, lamb, Pork Loin, Beef Stew, and Vegetables.",
+      "wine_popularity": "One of the most popular wines in the world is the Bucklin Old Hill Ranch Ancient Field Blend from Sonoma Valley. The wine is made from grapes that have been grown in the same vineyards for more than 120 years, and the wine is aged in oak barrels. The wine is a blend of six different grape varietals, and it is a dry wine that is full-bodied and has a fruity taste."
+    },
+    {
+      "wine_description": "This wine is made from the grapes grown on the eastern slopes of the Barossa Valley. The wine has a purple color and a bouquet with flavors of blackberry, blackcurrant and raspberry.",
+      "wine_history": "Hickinbotham Brooks Road Shiraz is a wine from McLaren Vale, Australia. The wine is made from 100% Shiraz grapes. The wine was first made in 2001.",
+      "wine_name": "Hickinbotham Brooks Road Shiraz from McLaren Vale",
+      "wine_pairing": "Some foods that go well with the Hickinbotham Brooks Road Shiraz from McLaren Vale are a salad, cheese and crackers, and a grilled cheese sandwich.",
+      "wine_popularity": "This wine is popular for its intense, dark color and rich, fruity flavor. It is also known for its well-balanced taste and its long finish."
+    },
+    {
+      "wine_description": "The Domaine Jean-Louis Chave Saint-Joseph from Rhone is a boutique winery that specializes in Rhone-style red wines.",
+      "wine_history": "Valley\n\nThe Domaine Jean-Louis Chave Saint-Joseph is a family-owned and operated winery located in the Rhone Valley, in the commune of Saint-Joseph-de-Roche. The winery was founded in 1858 by Jean-Louis Chave, who produced red and white wine. Today, the winery is run by his grandson, Thierry Chave. The Domaine Jean-Louis Chave Saint-Joseph produces a range of red and white wine, as well as a rosé.",
+      "wine_name": "Domaine Jean-Louis Chave Saint-Joseph from Rhone",
+      "wine_pairing": "-Alpes\n\nFoods that go well with Domaine Jean-Louis Chave Saint-Joseph from Rhone-Alpes include: red meats, poultry, cheeses, fruits, and vegetables.",
+      "wine_popularity": "There are many factors that make Domaine Jean-Louis Chave Saint-Joseph from Rhone so popular. One reason is that the wine has a fruity taste that is balanced with a light acidity. Additionally, the wine has a smooth texture that makes it enjoyable to drink."
+    },
+    {
+      "wine_description": "Alloro Vineyard Estate Pinot Noir is a delicious wine with a slightly sweet taste.",
+      "wine_history": "Alloro Vineyard Estate is a family-owned estate located in the Chehalem Mountains of Oregon. The estate was founded in 1978 and is home to a small vineyard that produces Pinot Noir. The estate’s wine is made from grapes that are grown in a mix of clay, sand, and gravel soils. The estate’s Pinot Noir is aged in oak for 18 months before release.",
+      "wine_name": "Alloro Vineyard Estate Pinot Noir from Chehalem Mountains",
+      "wine_pairing": "Alloro Vineyard Estate Pinot Noir is a delicious wine that goes well with a variety of foods. Some recommended dishes that go well with this wine include roasted chicken, steak, pork chops, and salmon.",
+      "wine_popularity": "This wine is so popular because it is full-bodied and has a fruity taste. It is also smooth and has a long finish."
+    },
+    {
+      "wine_description": "The Horsepower Vineyards \"The Tribe Vineyard\" Syrah is a rich, dark red wine with a palate of blackberry, raspberry, and black cherry.",
+      "wine_history": ", Washington is a wine of power and intensity with a peppery finish. The winery was founded in 1978 by Dick and Sally Smith. The vineyards are located in the rolling Walla Walla Valley, Washington hills. The grapes are hand-picked and cold-pressed. The wine is aged for 12 to 18 months in new, French oak barrels.",
+      "wine_name": "Horsepower Vineyards 'The Tribe Vineyard' Syrah from Walla Walla Valley",
+      "wine_pairing": "Horsepower Vineyards Syrah goes great with any red meat, game, and poultry.",
+      "wine_popularity": "The Tribe Vineyard is a top producer of Syrah from the Walla Walla Valley. The vineyard is located in a cool, dry climate and produces grapes with a deep, rich color and a bouquet of blackberry, plum, and blackcurrant flavors."
+    },
+    {
+      "wine_description": "The Produttori del Barbaresco 'Muncagota' from Barbaresco Riserva DOCG are smaller producers who focus on the production of Barbaresco. They use traditional methods and equipment to produce this wine.",
+      "wine_history": "The Barbaresco wine region is located in the Castelli di Gualdo, in the province of Siena, Tuscany, Italy. The wine is made from a blend of Barbaresco and Carmignano wines. The winemaking process begins with the selection of the best grapes from the vineyards. The wine is then left to age in wooden barrels for a minimum of 18 months.",
+      "wine_name": "Produttori del Barbaresco 'Muncagota' from Barbaresco Riserva DOCG",
+      "wine_pairing": "Many people enjoy foods that go well with wine. This list includes items that are typically found in a Mediterranean-inspired cuisine. Some of these items would be roasted lamb, grilled chicken, falafel, hummus, and baba ghanoush.",
+      "wine_popularity": "The Produttori del Barbaresco 'Muncagota' from Barbaresco Riserva DOCG is a wine that is incredibly popular for a reason. This wine is incredibly complex and full-flavored, with notes of red berry, plum, blackberry, and blackcurrant. The wine has a soft, silky texture and a long, smooth finish."
+    },
+    {
+      "wine_description": "J Bookwalter Winery's Readers Cabernet Sauvignon is a beautiful wine with a fruity taste.",
+      "wine_history": "The J. Bookwalter Winery was founded in 1987 on a 160-acre estate in the Columbia Valley. The winery produces a range of wines, including Cabernet Sauvignon and Merlot.",
+      "wine_name": "J Bookwalter Winery 'Readers' Cabernet Sauvignon from Columbia Valley",
+      "wine_pairing": "Foods that go well with J Bookwalter Winery 'Readers' Cabernet Sauvignon from Columbia Valley include rich, hearty dishes like pork ribs, chicken breasts, and beef brisket. These dishes will compliment the wine'socolate, earthy tones and fruity flavors.",
+      "wine_popularity": "The J Bookwalter Winery Readers' Cabernet Sauvignon from Columbia Valley is a popular wine because it is full-bodied and has a smooth finish. It is also good for pairing with a variety of foods, including steak, chicken, and pasta."
+    },
+    {
+      "wine_description": "This wine is made from 100% Grenache and Mourvedre grapes. It has a fruity, spicy flavor that is perfect for a summer drink.",
+      "wine_history": "Valley\n\nFerraton Pere & Fils is a family-owned winery located in the heart of the Crozes-Hermitage appellation in the Rhone Valley. The winery was founded in 1765 by Jean Ferraton and his son, Pere Ferraton. Today, the winery is led by Jean-Marc Ferraton, the grandson of Pere Ferraton.\n\nThe winery produces a range of wines, including the Ferraton Pere & Fils La Matiniere, a blend of 70% Grenache, 20% Syrah, and 10% Mourvedre. This wine is aged for 12 months in new, American oak barrels. The result is a smooth and fruity wine that offers a delicious, dry finish.",
+      "wine_name": "Ferraton Pere & Fils Crozes-Hermitage La Matiniere from Rhone",
+      "wine_pairing": "Some foods that go well with Ferraton Pere & Fils Crozes-Hermitage La Matiniere from Rhone are figs, dates, cheese, olives, and prosciutto.",
+      "wine_popularity": "The wine is a blend of 70% Grenache and 30% Syrah, with a final blend of 2% Mourvèdre, 2% Cinsault, and 1% Carignan. The wine is named after the village of La Matiniere, which is located in the commune of Crozes-Hermitage, in the Rhone Valley. The wine is NV (no varietal designation) and has a suggested retail price of $25."
+    },
+    {
+      "wine_description": "This Familia Zuccardi Malbec from Altamira is a delicious wine with a complex flavor profile that is sure to please.",
+      "wine_history": "Familia Zuccardi's Concrete Malbec is a rich, full-bodied wine with a long history. The Zuccardi family has been producing wine in the Altamira area of Argentina since the 1800s. The wine is made from 100% Malbec grapes and has a deep, dark color. The nose is full of dark fruit, oak, and tobacco. The palate is rich and full-bodied with a velvety texture and a long finish.",
+      "wine_name": "Familia Zuccardi 'Concreto' Malbec from Altamira",
+      "wine_pairing": "Foods that go well with Familia Zuccardi 'Concreto' Malbec from Altamira include spicy Italian food, cheese plates, and pizza.",
+      "wine_popularity": "There is no one answer to this question as it really depends on personal taste. However, some common reasons why Familia Zuccardi 'Concreto' Malbec from Altamira is so popular include its intense, rich flavor and its surprisingly affordable price. Additionally, its high acidity and tannin levels give it a firm, textured profile that many wine lovers appreciate."
+    },
+    {
+      "wine_description": "This wine is a dry, crisp white from the Colli Orientali del Friuli region in northeast Italy. The wine has a refreshing citrus flavor and a crisp dry finish.",
+      "wine_history": "is a white wine produced from the Pinot Grigio grape. It is made in the town of Cividale del Friuli and has a crisp, clean taste with a fruity finish.\n\nLivio Felluga Pinot Grigio Colli Orientali del Friuli was created in 1994 by the Friuli-Venezia Giulia winemaker Livio Felluga. The wine is made from the Pinot Grigio grape and has a crisp, clean taste with a fruity finish.",
+      "wine_name": "Livio Felluga Pinot Grigio Colli Orientali del Friuli from Friuli-Venezia Giulia",
+      "wine_pairing": "Livio Felluga Pinot Grigio Colli Orientali del Friuli from Friuli-Venezia Giulia is a perfect wine to enjoy with a variety of Italian foods. Some favorites include antipasto, pizza, pasta, and chicken dishes.",
+      "wine_popularity": "Livio Felluga Pinot Grigio Colli Orientali del Friuli from Friuli-Venezia Giulia is a popular wine because it is light and refreshing with a tart finish. It is also affordable, making it a great option for those on a budget."
+    },
+    {
+      "wine_description": "This Hermann J. Wiemer HJW Vineyard Riesling is a complex wine with aromas of peach, apricot and nectarine. It has a sweet, syrupy texture with a lingering finish.",
+      "wine_history": ", NY\n\n Hermann J. Wiemer HJW Vineyard Riesling is made from grapes grown in the Finger Lakes region of New York. The winery was founded in 1985 and is named for Hermann J. Wiemer, a pioneer of German viticulture. The winery produces a wide range of wines, including Rieslings, Gewürztraminers, and Spätburgunders.",
+      "wine_name": "Hermann J. Wiemer HJW Vineyard Riesling from Finger Lakes",
+      "wine_pairing": "Some foods that go well with Hermann J. Wiemer HJW Vineyard Riesling from Finger Lakes are chicken, salmon, pasta, and steak.",
+      "wine_popularity": "One of the Finger Lakes' most popular wines, Hermann J. Wiemer HJW Vineyard Riesling is known for its fruity, floral flavor and easy-drinking style. The winery's grapes are sourced from around 25 acres of land, and the wine is aged for 12 months in new, French oak barrels."
+    },
+    {
+      "wine_description": "This Gigondas wine is made from the Petit Verdot grape.",
+      "wine_history": "Valley is one of the oldest and most prestigious wine estates in the region. The vineyards are located in the heart of the Gigondas appellation, at an altitude of 800-1,000 meters. The winery was founded in 1786 by Antoine Gigondas, and is still family-owned and operated. The winery produces a wide range of wines, including a dry red, a dry white, and a sweet dessert wine.",
+      "wine_name": "Domaine La Bouissiere Gigondas from Rhone",
+      "wine_pairing": "There are a lot of foods that go well with the Domaine La Bouissiere Gigondas from Rhone, but some of the most common are cheese, charcuterie, and grapes.",
+      "wine_popularity": "The Gigondas grape is a classic Rhone grape that is known for its intense, syrupy flavor. This wine is made from 100% Gigondas grapes, and is aged for 12 months in French oak barrels. The result is a wine with a rich, dark color and a complex, fruity flavor. Domaine La Bouissiere Gigondas is perfect for fans of dark, complex wines."
+    },
+    {
+      "wine_description": "Bodegas Ego Goru Verde is a small winery located in the Jumilla province in the southern region of Andalusia. They produce organic wines that are made from a mix of several different types of grapes.",
+      "wine_history": ", Rueda, Spain.\n\nBodegas Ego Goru Verde is a Spanish winery that produces Goru Organic wines. The winery was founded in 2009 by José Luis Goru and his wife Silvia. The winery is located in the Jumilla region of Rueda, in the province of Burgos. The vineyards are located at an altitude of 100 to 290 meters above sea level. Jumilla is known for its production of quality Rioja wine.\n\nThe winery produces a range of wines, including Goru Verde, Goru Blanc, Goru Rosado, Goru Reserva, and Goru Gran Reserva. The Goru Verde wine is made from 100% organic grapes. The winery also produces a sparkling wine called Goru Cava.",
+      "wine_name": "Bodegas Ego Goru Verde - Goru Organic from Jumilla",
+      "wine_pairing": "Some foods that go well with Bodegas Ego Goru Verde - Goru Organic from Jumilla are green vegetables like kale or chard, roasted vegetables like Brussel sprouts or sweet potatoes, and hummus or baba ganoush.",
+      "wine_popularity": "The Bodegas Ego Goru Verde - Goru Organic from Jumilla is a popular wine because of its unique flavors and aromas. The wine is made from a blend of Zinfandel, Carignan, and Syrah grapes, and is known for its fruity and floral flavors. Additionally, the wine is also known for its complex structure and smooth flavor."
+    },
+    {
+      "wine_description": "August Kesseler's Riesling Kabinett is a truly sublime wine. Crisp and refreshing with a floral bouquet and a long, tart finish, this wine is perfect for a special occasion.",
+      "wine_history": "is a light and refreshing wine that is perfect for the summertime. It has a soft, fruity taste with a hint of bitterness. This wine is made from 100% Riesling grapes and is aged in oak barrels for 12-18 months.",
+      "wine_name": "August Kesseler 'R' Riesling Kabinett from Rheingau",
+      "wine_pairing": "A great food pairing for August Kesseler 'R' Riesling Kabinett from Rheingau would be a light seafood dish such as grilled shrimp or lobster tail paired with a fruity Riesling. Another great option is a creamy cheese dessert such as a pièce montée or crème brûlée.",
+      "wine_popularity": "August Kesseler 'R' Riesling Kabinett is one of the most popular wines in the world. It is a well-balanced wine with a pleasing aromas of apricot, peach, and floral notes. The wine is dry with a slightly crisp finish."
+    },
+    {
+      "wine_description": "D'Angelo Aglianico del Vulture is a red wine made from the Aglianico grape.",
+      "wine_history": "is a dry red wine produced from the Aglianico grape. It is made from the blend of 60-70% Aglianico and 30-35% Montepulciano.\n\nAglianico is a red wine grape variety that is indigenous to Basilicata in southern Italy. The Aglianico grape was first documented in the 16th century, and was popularized in the 18th century. Today, Aglianico is one of the most popular red wine grape varieties in Italy.\n\nD'Angelo Aglianico del Vulture is made from a blend of 60-70% Aglianico and 30-35% Montepulciano. The wine is dry, with a fruity and floral taste.",
+      "wine_name": "D'Angelo Aglianico del Vulture from Basilicata",
+      "wine_pairing": "The best foods to pair with D'Angelo Aglianico del Vulture from Basilicata are cheese and meats.",
+      "wine_popularity": "D'Angelo Aglianico del Vulture is one of the most popular wines in the world. It is a blend of two different types of wine grapes, Aglianico and del Vulture, and is aged in oak for at least three years. The wine has a fruity taste with a strong, oak-y smell."
+    },
+    {
+      "wine_description": "Bodega Numanthia is a small winery located in the Toro region of Mendoza, Argentina. The winery produces a wide range of wines, including sparkling and red wines.",
+      "wine_history": "This wine is made from 100% Tempranillo grape. It is aged for 12 months in new and used American oak barrels.",
+      "wine_name": "Bodega Numanthia from Toro",
+      "wine_pairing": "Some foods that go well with Toro Bodega Numanthia are chorizo, queso fresco, and pico de gallo.",
+      "wine_popularity": "The Bodega Numanthia from Toro is a popular and highly regarded wine. It is made from a blend of Tempranillo, Malbec, and Garnacha grapes, and it has a deep red color. The wine is fruity and has a strong flavor. It is also moderately dry, which makes it perfect for pairing with food."
+    },
+    {
+      "wine_description": "A balanced and elegant wine, Altocedro Malbec Reserva from La Consulta features lush blackberry and raspberry flavors with a long finish.",
+      "wine_history": "winery was created in homage to the great Malbec varietals of Argentina. The grapes are handpicked and cold-pressed to create this intense and tannic wine. La Consulta has been a family-owned winery since 1966, and their wines are known for their intense flavors and rich aromas.",
+      "wine_name": "Altocedro Malbec Reserva from La Consulta",
+      "wine_pairing": "Foods that go well with the Altocedro Malbec Reserva from La Consulta include hearty, protein-rich foods like beef or lamb, as well as earthy, savory flavors like black pepper or garlic. Some great pairing ideas include roasted tomatoes with garlic and olive oil, grilled salmon with a citrus glaze, or roasted Brussels sprouts with balsamic vinegar and roasted nuts.",
+      "wine_popularity": "The Altocedro Malbec Reserva from La Consulta is a rich and full-bodied wine that is sure to please wine lovers. Its intense color and flavor profile make it a favorite of wine connoisseurs and experts alike. The wine is made from a blend of 95% Malbec and 5% Cabernet Sauvignon, and is aged for 18 months in oak barrels. This wine has a smooth and velvety texture, with a complexity that belies its price tag."
+    },
+    {
+      "wine_description": "P+S Prats & Symington Chryseia from Douro is a wine from the Douro Valley, Portugal. It is made from a blend of Tempranillo and Graciano grapes.",
+      "wine_history": "P+S Prats & Symington Chryseia is a wine that comes from the Douro region of Portugal. The wine is made from a blend of 100% Tempranillo and 100% Graciano, and it is aged for at least 18 months in oak barrels. The wine is a rich and complex treasure, with notes of blackberry, violet, and tobacco.",
+      "wine_name": "P+S Prats & Symington Chryseia from Douro",
+      "wine_pairing": "A great food pairing for P+S Prats & Symington Chryseia from Douro is a hearty Portuguese meat or fish dish. Suggestions include boal (a type of wild pig), grilled lamb, or fried calamari. Another great option is a salad with roasted vegetables, olives, and hard-boiled eggs.",
+      "wine_popularity": "The Douro region in Portugal is known for its rich, full-bodied wines. P+S Prats & Symington Chryseia from Douro is a perfect example of this. The wine is made from 75% Tempranillo and 25% Graciano. The grapes are hand-picked and aged for 12 months in American oak. This results in a deep, dark color and a rich, sweet flavor. The wine is perfect for sipping on its own or pairing with food."
+    },
+    {
+      "wine_description": "Bodegas Muga's Prado Enea Gran Reserva is a complex and full-bodied red wine.",
+      "wine_history": "The Prado Enea is a Gran Reserva from the Rioja DOCa. The wine was created in the year 2000 and is made from a blend of Tempranillo, Mazuelo and Garnacha. The wine has a rating of 90 points and is considered to be a complex and full-bodied wine.",
+      "wine_name": "Bodegas Muga 'Prado Enea' Gran Reserva from Rioja DOCa",
+      "wine_pairing": "If you're looking for a food pairing that will excite your taste buds and make you feel like you're in a faraway land, try pairing your bodegas muga 'prado enea' gran reserva from rioja DOCa with some of the following dishes:\n\n-Chicken cooked in a hot oven with aromatic spices and served with a side of roasted potatoes\n\n-A thick slice of juicy steak cooked to your liking, served with a side of caramelized onions and a dollop of béarnaise sauce\n\n-A ripe, juicy peach, drizzled with a bit of honey and baked in the oven until slightly browned and tender\n\n-A scoop of ice cream with a drizzle of chocolate sauce",
+      "wine_popularity": "Muga 'Prado Enea' Gran Reserva from Rioja DOCa is a wine that is well known and respected for its quality. This wine is made from a blend of Tempranillo, Cabernet Sauvignon and Merlot grapes, and it has a deep, rich color and a fruity taste. Some people say that this wine has a strong, earthy flavor, and others say that it has a sweet, fruity taste."
+    },
+    {
+      "wine_description": "The School House Vineyard Pinot Noir is a wine with a smooth, easy-drinking style.",
+      "wine_history": "The School House Vineyard Pinot Noir is a wine made from grapes grown in the Spring Mountain District of the Sonoma Coast. This wine is made from 100% pinot noir grapes.\n\nThe School House Vineyard was first planted in the late 1800s, and was later acquired by the Beringer family in 1978. The winery was later sold to J.L. Mondavi in 1988.\n\nToday, the School House Vineyard produces a range of wines, including the Pinot Noir. This wine is made from 100% pinot noir grapes, and is aged for 16 months in new French oak.",
+      "wine_name": "School House Vineyard Pinot Noir from Spring Mountain District",
+      "wine_pairing": "There are many foods that go well with a Spring Mountain District School House Vineyard Pinot Noir. Some favorites include fresh fruit, chicken, and pasta.",
+      "wine_popularity": "I would say that the popularity of this wine is its affordability and its deliciousness. It is a great wine to drink with food, and it pairs well with a variety of dishes. Additionally, it is a great wine to drink on its own."
+    },
+    {
+      "wine_description": "This Brunello di Montalcino is a top-quality wine produced in the hills east of Siena. With a deep, ruby-purple color and a rich, savory taste, this wine is perfect for a special",
+      "wine_history": "was first mentioned in a document from 1287. The estate was founded in the 12th century by the noble House of Col d'Orcia. The estate has been passed down through the generations, and today it is run by the third generation of the family. The estate is located in the heart of the Montalcino region, about 50 miles south of Florence. The vineyards are situated on the southern slopes of the Brunello di Montalcino mountain, at an elevation of 1,000 feet.\n\nThe estate produces a single DOCG wine, Brunello di Montalcino. The wine is made from 100% Sangiovese grape. The wine is aged for at least 12 months in new, 100% concrete and steel vats. The wine is then aged for another 3-6 months in oak barrels.",
+      "wine_name": "Tenuta Col d'Orcia Brunello di Montalcino DOCG from Tuscany",
+      "wine_pairing": "One of the great pleasures of wine tasting is finding foods that go well with your favorite wine. In the case of Tuscany's Tenuta Col d'Orcia Brunello di Montalcino DOCG, many people enjoy pairing the wine with hearty Italian dishes like pasta with tomato sauce, roast pork with figs, or grilled lamb with olives.",
+      "wine_popularity": "The Brunello di Montalcino wine is a very popular wine for a reason. This wine is made from a blend of different grape types, including Brunello, Cabernet Sauvignon, and Merlot. The wine is then aged for a minimum of two years in oak barrels. The wine has a rich, full flavor that is perfect for enjoying with food."
+    },
+    {
+      "wine_description": "The A.A. Badenhorst Secateurs Riviera from Swartland are a great choice for anyone looking for a quality secateurs.",
+      "wine_history": "is a dry red wine made from a blend of 50% Pinot Noir and 50% Cabernet Sauvignon.\n\nThe wine was first made in 1984 by the Badenhorst Secateurs family from Swartland. The estate covers close to 23 hectares of vines, producing around 2,000 cases of wine annually.",
+      "wine_name": "A.A. Badenhorst Secateurs Riviera from Swartland",
+      "wine_pairing": "If you're looking for a light and refreshing dinner, try a salad with a vinaigrette dressing. A popular pairing is a Mediterranean-inspired salad with Kalamata olives, cucumbers, tomatoes, and feta cheese. Another option is a Cobb salad with avocado, bacon, and hard-boiled eggs. For a hearty option, try a stir-fry with beef, chicken, or tofu. Finally, a great dessert to finish off your meal is a piece of chocolate cake with a chocolate frosting.",
+      "wine_popularity": "The popularity of this wine is due to its unique flavor profile that is balanced and smooth. The wine is made from a blend of Cabernet Sauvignon and Merlot grapes, and it has a fruity and spicy taste that is perfect for those who enjoy red wine. Additionally, the wine is also dry and has a long finish."
+    },
+    {
+      "wine_description": "Bodegas Resalte de Penafiel 'de Restia' Crianza is a dry red wine made from the best selected grapes from the Ribera del Duero region.",
+      "wine_history": "Bodegas Resalte de Penafiel is a winery located in the province of Burgos, Castile-León, Spain. The winery was founded in 1978 by Nicolás and Carmen Resalte. The winery produces a range of wines, including a red wine called 'de Restia'.\n\nThe wine is made from a blend of Tempranillo, Cabernet Sauvignon, and Merlot grapes. The winery is located in the town of Penafiel, which is known for its production of red wines. The winery is known for its quality, and has been awarded several awards for its wines.",
+      "wine_name": "Bodegas Resalte de Penafiel 'de Restia' Crianza Selected Harvest from Ribera del Duero",
+      "wine_pairing": "There are many foods that go well with a bottle of Resalte de Penafiel 'de Restia' Crianza Selected Harvest from Ribera del Duero, but some of the favorites include white meats like chicken or pork, cheeses like Manchego or Pecorino, and hearty breads such as a baguette or brioche. Some fruits that are great partners for this wine include figs, pears, and apples.",
+      "wine_popularity": "The Resalte de Penafiel 'de Restia' Crianza is a wine that is very popular in Spain. It is made from a blend of Tempranillo, Graciano and Mazuelo grapes. It has a fruity taste with notes of red cherry and raspberry. This wine is also known for its smooth, enjoyable taste."
+    },
+    {
+      "wine_description": "This dry red wine is from the Veneto region in northern Italy.",
+      "wine_history": "is a dry red wine made from a blend of two grape types. The wine is aged for at least one year in oak barrels. The wine is fruity with hints of blackberry and plum.\n\nThe Suavia Soave Classico from Veneto is a dry red wine made from a blend of two grape types. The wine is aged for at least one year in oak barrels. The wine is fruity with hints of blackberry and plum.",
+      "wine_name": "Suavia Soave Classico from Veneto",
+      "wine_pairing": "Often paired with light pasta dishes, Suavia Soave Classico from Veneto is a great wine to enjoy with a variety of dishes. Some favorites include roasted chicken, lamb, and fish.",
+      "wine_popularity": "There is no doubt that Suavia Soave Classico from Veneto is a popular wine. It is a sweet, smooth wine that is perfect for a variety of occasions. It has a fruity flavor that is perfect for enjoying with dinner or dessert. Additionally, this wine is versatile and can be enjoyed with a variety of foods. Overall, Suavia Soave Classico from Veneto is a wine that is sure to please."
+    },
+    {
+      "wine_description": "This is a delicious Cabernet Sauvignon from McLaren Vale. It has a delicious, rich taste with a hint of sweetness.",
+      "wine_history": ", Australia\n\nThe McLaren Vale region is located in the Hunter Valley, about 120km northeast of Sydney. It is known for its premium wines, and the Two Hands Wines Sexy Beast Cabernet Sauvignon is no exception.\n\nThe winery was founded in 1982 by the Kooyong family, who have been growing grapes in the region since 1875. The winery is named after the Australian slang term for a strong, confident woman.\n\nThe Sexy Beast Cabernet Sauvignon is a full-bodied wine with flavors of blackberry, currants, and chocolate. It has a medium to heavy body, and is best served at around 124 degrees Fahrenheit.",
+      "wine_name": "Two Hands Wines Sexy Beast Cabernet Sauvignon from McLaren Vale",
+      "wine_pairing": "Foods that go well with a McLaren Vale Sexy Beast Cabernet Sauvignon include rich, hearty stews and pasta dishes, as well as BBQ meats and chicken.",
+      "wine_popularity": "There's no denying that Two Hands Wines Sexy Beast Cabernet Sauvignon from McLaren Vale is one of the most popular red wines available. The wine's delicious taste and bold color are sure to please wine lovers of all levels. The wine's fruity flavor and robust aroma are the perfect accompaniment to any meal. Additionally, the wine's low price makes it a great value for wine drinkers on a budget."
+    },
+    {
+      "wine_description": "The Casas del Bosque Gran Reserva Carmenere from Cachapoal Valley is a top-rated winery producing extraordinary red wine.",
+      "wine_history": ", Chile\n\nCasas del Bosque Gran Reserva Carmenere is made from 100% Carmenere grapes. The wine has a deep red color and a rich, full-bodied taste. The wine has been aged for 18 months in new American oak barrels.",
+      "wine_name": "Casas del Bosque Gran Reserva Carmenere from Cachapoal Valley",
+      "wine_pairing": "When it comes to food and wine pairing, the best thing to do is to ask a professional! However, some general recommendations for foods that go well with Casas del Bosque Gran Reserva Carmenere from Cachapoal Valley would be to enjoy a hearty, protein-rich dish such as roasted lamb or chicken, a cheese plate, and a dessert such as a chocolate cake or tart.",
+      "wine_popularity": "The Casas del Bosque Gran Reserva Carmenere from Cachapoal Valley is a rich and full-bodied wine with a deep red color. The wine has a bouquet of blackberry, chocolate, and cherry, with a long finish."
+    },
+    {
+      "wine_description": "A full bodied red wine with cherry, plum, and spice flavors.",
+      "wine_history": ", Italy\n\nThe Barbera grape is a native to the Piedmont region of Italy. The Barbera grape is a cross between the Barbera and the Nebbiolo grape. The Barbera grape is a very complex grape that can produce a wide variety of wines. The Barbera grape is used to produce a red wine. The Barbera grape is used to produce a red wine. The Barbera grape is used to produce a red wine. The Barbera grape is used to produce a red wine.",
+      "wine_name": "Damilano Barbera d'Asti DOCG from Piedmont",
+      "wine_pairing": "Given the Barbera's sweet, fruity flavors, many foods go well with this wine. Damilano Barbera d'Asti DOCG pairs well with desserts like tiramisu or chocolate cake, as well as savory dishes like pasta with lamb ragout or grilled steak.",
+      "wine_popularity": "The Damilano Barbera d'Asti DOCG from Piedmont is a wine that is renowned for its complex flavor and smooth texture. The wine is made from a blend of Barbera, Trebbiano and Vermentino grapes, and is aged for at least two years in oak barrels. The wine has a strong, fruity flavor that is complemented by a sweet aftertaste."
+    },
+    {
+      "wine_description": "This wine has a deep purple color with a robust flavor.",
+      "wine_history": "Valley, Australia is a blend of 70% Grenache, 20% Mourvedre and 10% Carignan.\n\nIn 1857, Major Samuel purchased 320 acres of land in the Barossa Valley which he named after his wife, Yalumba. In 1892, he started making wine and by 1910, his son, Samuel Jr. had joined the business. In 1938, the family purchased 9.5 acres of land and started a winery, which was renamed Yalumba in 1941. In 1973, Yalumba was sold to the Heitz Company, and in 1984, they merged with New South Wales Wine Corporation. In 1992, Yalumba was purchased by the Penfolds Group.",
+      "wine_name": "Yalumba Samuel's Collection Syrah from Barossa",
+      "wine_pairing": "Valley\n\nSome foods that go well with Yalumba Samuel's Collection Syrah from Barossa Valley are cheese and charcuterie boards, steak and potatoes, and a good red wine.",
+      "wine_popularity": "Valley\n\nOne of the main reasons that people love Yalumba Samuel's Collection Syrah from Barossa Valley is its intense ruby-red color. This wine has a deep, rich flavor that is perfect for those who enjoy bold, flavorful wines. Another reason that this wine is so popular is its low price point. It is easy to find and affordable, which makes it a great choice for those who want to try a quality wine without spending a lot of money."
+    },
+    {
+      "wine_description": "Masseria Askos is a small, family-owned IGT from Salento, Puglia. The winery produces a wide range of wines, from dry reds to sweet whites, and is well-known for its Brunello di",
+      "wine_history": "The Masseria Li Veli Askos Susumaniello Salento IGT is a winery located in the Salento region of Italy. The winery was founded in 1933 by the Susumaniello family and has been producing quality wines since then. The winery's main focus is on producing dry red wines, but they also produce a white wine called Li Veli. The wines are made from a blend of Cabernet Sauvignon, Merlot, and Cabernet Franc.",
+      "wine_name": "Masseria Li Veli 'Askos' Susumaniello Salento IGT from Puglia",
+      "wine_pairing": "The 'Askos' Susumaniello Salento IGT from Puglia is a great wine to pair with foods that are high in acidity, such as citrus fruits, tomatoes, and salads.",
+      "wine_popularity": "One of the most popular wines in Italy, the Masseria Li Veli 'Askos' Susumaniello Salento IGT is made from a blend of 100% Sangiovese grapes. This wine has a fruity and floral aroma with a full-bodied flavor that is well-rounded and smooth."
+    },
+    {
+      "wine_description": "Jaume Vinsobres is a top-rated winery in the Médoc region of France. The vineyards are located at an altitude of 420 meters above sea level, and the wines are made from the highest quality grapes.",
+      "wine_history": "Valley, France\n\nJaume Vinsobres Altitude 420 is a wine from the Rhone Valley in France. The wine is made from a blend of Gamay, Merlot and Cabernet Sauvignon grapes. The wine is aged for at least 12 years before it is released to the public.",
+      "wine_name": "Domaine Jaume Vinsobres Altitude 420 from Rhone",
+      "wine_pairing": "Foods that go well with Domaine Jaume Vinsobres Altitude 420 from Rhone are typically hearty and robust, such as red meat dishes, hearty stews, and hearty risottos.",
+      "wine_popularity": "Jaume Vinsobres Altitude 420 is a wine that is known for its intense flavor and high acidity. It is made from a blend of 60% Grenache, 30% Syrah, and 10% Mourvèdre. This wine is aged for at least 18 months in oak barrels before it is released to the public."
+    },
+    {
+      "wine_description": "A wine made from the Maconnais region in the south of France.",
+      "wine_history": "The history of Pouilly-Fuisse wine dates back to the 17th century in the Maconnais region of France. The grapes for this wine are typically from the Pouilly-Fuissé and Sancerre sub-appellations. Joseph Drouhin, a wine merchant and owner of a vineyard in Maconnais, is credited with creating Pouilly-Fuisse in 1932. The wine is typically a blend of 70% Pouilly-Fuissé and 30% Sancerre.",
+      "wine_name": "Joseph Drouhin Pouilly-Fuisse from Maconnais",
+      "wine_pairing": "Some foods that go well with Joseph Drouhin Pouilly-Fuisse are charcuterie, cheese, fruits, and nuts.",
+      "wine_popularity": "One of the most popular and well-known Burgundy wines is Joseph Drouhin Pouilly-Fuisse. This wine is made from a blend of Pouilly-Fuisse and Maconnais grapes. The wine is produced in the Maconnais region of Burgundy, and is often described as having a fruity and floral taste."
+    },
+    {
+      "wine_description": "This Quinta has a wonderful history and is a must-visit for wine lovers.",
+      "wine_history": "The Quinta do Vesuvio Single Quinta Vintage Port is the most prestigious wine in Portugal and one of the most prestigious in the world. The wine is produced from a single vineyard, and the grapes are harvested and aged for at least 24 months in oak barrels.",
+      "wine_name": "Quinta do Vesuvio Single Quinta Vintage Port",
+      "wine_pairing": "Some foods that are great with Quinta do Vesuvio Single Quinta Vintage Port are Italian cuisine, seafood, and steak.",
+      "wine_popularity": "There is no single answer to this question, as the wine's popularity is a result of a variety of factors. Some of these include its smooth and fruity taste, as well as its affordability. Additionally, the wine's relatively low production volume makes it a rare and coveted find."
+    },
+    {
+      "wine_description": "The Chateau La Gaffeliere is one of the most famous wine estates in Saint-Emilion, France.",
+      "wine_history": ", France is a blend of 60% Grenache, 30% Syrah, and 10% Cinsault. It was created in 1855 by Jean-Baptiste Gaffeliere.\n\nChateau La Gaffeliere is a blend of 60% Grenache, 30% Syrah, and 10% Cinsault. It was created in 1855 by Jean-Baptiste Gaffeliere. The wine is named after the owner’s father, who was a cooper. The estate is located in Saint-Emilion, France and produces around 1,500 cases of wine annually.",
+      "wine_name": "Chateau La Gaffeliere from Saint-Emilion",
+      "wine_pairing": "Many wines pair well with foods that are hearty and savory. Examples include beef, lamb, chicken, and goat. Other hearty foods that go well with wine include shepherd's pie, pasta with sauce, and pizza.",
+      "wine_popularity": "is a rich, full-bodied red wine that has a fruity and floral character.\n\nChateau La Gaffeliere from Saint-Emilion is one of the most popular wines in the world. Its rich, full-bodied red wine has a fruity and floral character that makes it a favorite with wine lovers everywhere."
+    },
+    {
+      "wine_description": "Etude Cabernet Sauvignon from Napa Valley is a rich and complex wine with a bouquet of blackberry, raspberry, and blackcurrant flavors. The wine has a soft, velvety texture with a",
+      "wine_history": "is a deep, ruby-colored wine with aromas of blackberry, currant, and spice. The palate is medium-bodied with flavors of blackberry, blueberry, and black pepper. It is well-rounded and smooth with a long finish.\n\nThe Etude Cabernet Sauvignon wine was created in 1996 by the Etude Winery in Napa Valley. The winery was founded by Gary Ettinger and his wife, Kathy, and is located in the Stags Leap District. Etude is known for its hand-crafted, award-winning wines, and the Cabernet Sauvignon is one of the most popular.\n\nThe Etude Cabernet Sauvignon wine is made from cabernet sauvignon grapes. The wine is aged for 12 to 18 months in small, French oak barrels. The grapes are then ferried to the Etude Winery, where they are crushed and the juice is fermented with both malolactic and methanol. The wine is then aged for 6 to 12 months in new oak barrels.\n\nThe Etude Cabernet Sauvignon wine is a deep ruby-colored wine with aromas of blackberry, currant, and spice. The palate is medium-bodied with flavors of blackberry, blueberry, and black pepper. It is well-rounded and smooth with a long finish.",
+      "wine_name": "Etude Cabernet Sauvignon from Napa Valley",
+      "wine_pairing": "Foods that go well with a Cabernet Sauvignon from Napa Valley are typically medium-bodied and rich in flavor. Examples of food items that would pair well with a Cabernet Sauvignon from Napa Valley are steak, lamb, pork, chicken, pasta, and risotto.",
+      "wine_popularity": "One of the most popular wines in the world is the Etude Cabernet Sauvignon from Napa Valley. This wine is often praised for its complex flavors and aromas, which are derived from its dense, dark color and high acidity. The wine is also known for its long finish and ability to age well."
+    },
+    {
+      "wine_description": "Luke Merlot is a light-bodied wine with a fruity flavor and a crisp, dry finish.",
+      "wine_history": "is a wine that is made from the grapes of Merlot grapes. Wahluke Slope is a place in the Columbia Valley of Washington State. The wine was first made in the late 1990s.",
+      "wine_name": "Luke Merlot from Wahluke Slope",
+      "wine_pairing": "Foods that go well with Luke Merlot from Wahluke Slope are cheese, charcuterie, and crusty bread.",
+      "wine_popularity": "is a dry, light-bodied wine that is easy to drink\n\nThe popularity of Luke Merlot likely comes from its light body and dry taste. Being easy to drink, this wine pairs well with a variety of food options. Additionally, Luke Merlot is a versatile wine that can be enjoyed both young and old."
+    },
+    {
+      "wine_description": "Avancia Godello is a family-owned and operated winery located in the Valdeorras region of the Ribera del Duero, in the province of Zamora, in central Spain.",
+      "wine_history": ", Ribera del Duero, is a wine made from a blend of Tempranillo, Cabernet Sauvignon, and Merlot. It was first made in the 1960s, and it has been a popular wine ever since.\n\nAvancia Godello is a blend of three different types of wine grapes, which gives it a unique and interesting flavor. The wine was first made in the 1960s and it has been a popular wine ever since. Avancia Godello is made from a blend of Tempranillo, Cabernet Sauvignon, and Merlot, which gives it a unique and interesting flavor. The wine is perfect for a variety of different dishes, and it is also perfect for pairing with food.",
+      "wine_name": "Bodegas Avancia Godello from Valdeorras",
+      "wine_pairing": "Foods that are typically enjoyed with a good bodega wine are hearty, fatty foods like cheese, charcuterie, and salumi. However, there are a few exceptions - a light salad or antipasto can be refreshing and go well with a Godello from Valdeorras.",
+      "wine_popularity": "Avancia Godello is a popular wine from Bodegas Avancia in the province of Burgos, in the north-central region of Spain. The wine is made from a blend of cabernet sauvignon, merlot, and rosé. It is a dry wine with a fruity taste and a slightly sweet aftertaste."
+    },
+    {
+      "wine_description": "The Domaine du Vieux Telegraphe Chateauneuf-du-Pape La Crau is a family-owned vineyard and winery located in the heart of the Rhone Valley. The winery produces a",
+      "wine_history": "Valley, France\n\nThe Domaine du Vieux Telegraphe Chateauneuf-du-Pape La Crau is a vineyard in the Rhone Valley, located about 45 minutes south of Paris. The vineyard was founded in 1825 by Jean-Pierre Thévenet, and it was later acquired by the Vieux Telegraphe winery. The winery was purchased by the Georges Duboeuf family in 1978, and it was later passed on to Bernard Morey. The winery was closed in 2001 due to financial difficulties, and it was purchased by the Lapostolle family in 2003. The winery was reopened in 2004, and it produces a range of wines, including the La Crau.",
+      "wine_name": "Domaine du Vieux Telegraphe Chateauneuf-du-Pape La Crau from Rhone",
+      "wine_pairing": "Valley\n\nSome good wines to pair with La Crau from Rhone Valley are the Domaine du Vieux Telegraphe Chateauneuf-du-Pape and the La Crau from Rhone Valley. These wines are both deep and rich, and they are perfect for pairing with the rich and hearty food that La Crau is known for.",
+      "wine_popularity": "The La Crau from Rhone wine is a popular choice for wine drinkers all over the world for a variety of reasons. First and foremost, this wine is made from Grenache, Syrah, and Mourvedre grapes. Secondly, it is aged in oak barrels for a period of 12 to 18 months. Finally, the wine is then released and undergoes a secondary fermentation in stainless steel. This wine is then bottled and has a fruity bouquet with notes of blackberry, black cherry, and plum."
+    },
+    {
+      "wine_description": "Charles Woodson's 'Intercept' Chardonnay is a beautifully balanced wine that shows flavors of peach, pear and citrus.",
+      "wine_history": ", California is a light-bodied, fruity wine with a delicate balance and a long, clean finish.\n\nCharles Woodson's 'Intercept' Chardonnay is a light-bodied, fruity wine with a delicate balance and a long, clean finish. The wine is made from 100% chardonnay grapes from Paso Robles, California. The winery was founded in 1987 by Charles Woodson, and it is now one of the largest producers of chardonnay in the United States.",
+      "wine_name": "Charles Woodson's 'Intercept' Chardonnay from Paso Robles",
+      "wine_pairing": "Foods that go great with Charles Woodson's 'Intercept' Chardonnay from Paso Robles include chicken, seafood, and steak.",
+      "wine_popularity": "Charles Woodson's 'Intercept' Chardonnay from Paso Robles is a delicious wine that is sure to please any wine lover. The wine has a light, refreshing taste with a hint of citrus. It is also a versatile wine that can be enjoyed by anyone, regardless of their taste preferences. The wine is perfect for any occasion, and can be enjoyed with any type of food."
+    },
+    {
+      "wine_description": "Pechenino Botti Langhe Nebbiolo is a wine from the Piedmont region of Italy that is made from Nebbiolo grapes. This wine has a fruity taste and a dry finish.",
+      "wine_history": "The Pecchenino Botti Langhe Nebbiolo wine is produced by the Cantine Pecchenino in the Langhe region of Piedmont, Italy. The wine is made from a blend of Nebbiolo and Barbera grapes, and is aged for 18 months in new, oak barrels. The wine has a rating of 8.5 out of 10 on the wine rating site wine-searcher.com.",
+      "wine_name": "Pecchenino Botti Langhe Nebbiolo from Piedmont",
+      "wine_pairing": "Italian food is famously well-suited to pairing with wine, and the wines of Piedmont are no exception. Pecchenino Botti Langhe Nebbiolo from Piedmont is a delicious wine that goes great with a variety of foods. Try it with pasta dishes like carbonara or lasagna, or try pairing it with meats like lamb or beef. Alternatively, try pairing it with a cheese like brie or ricotta for a more complex flavor profile. Whatever you choose to eat, be sure to enjoy a glass of Pecchenino Botti Langhe Nebbiolo with it!",
+      "wine_popularity": "is a wine that is made from 100% Nebbiolo grapes. It is a light, fruity, and refreshing wine that is perfect for any occasion.\n\nThe Pecchenino Botti Langhe Nebbiolo from Piedmont is a wine that is made from 100% Nebbiolo grapes. It is a light, fruity, and refreshing wine that is perfect for any occasion. It is a popular wine because it is perfect for drinking cool or ice cold, and it has a sweet, fruity taste that is perfect for enjoying with food."
+    },
+    {
+      "wine_description": "Bodegas Terras Gauda O Rosal is a family-owned winery located in the Rias Baixas region of Portugal. The winery produces a variety of wines including reds, whites, and rosés",
+      "wine_history": ", in the province of Pontevedra, is a blend of Tempranillo, Graciano and Monastrell grapes. It was made in 1987 and has a rating of 9.5 out of 10 on Wine Spectator.\n\nBodegas Terras Gauda O Rosal has a long and illustrious history, dating back to 1987. This Tempranillo, Graciano, and Monastrell blend was created by the Gauda family, who are long-time producers in the Rias Baixas region of Pontevedra. The wine is a consistent winner, earning high ratings from Wine Spectator and other respected wine publications. It is a delicious, smooth, and well-balanced wine that is perfect for sipping or pairing with food.",
+      "wine_name": "Bodegas Terras Gauda O Rosal from Rias Baixas",
+      "wine_pairing": "The food that goes well with the Bodegas Terras Gauda O Rosal from Rias Baixas is a variety of foods that can be enjoyed any time of the day. This includes items like cheeses, charcuterie, and tapas.",
+      "wine_popularity": "The Terras Gauda O Rosal wine is popular for its fruity and floral flavors. The wine is made from a blend of Tempranillo, Graciano, and Mencia grapes. The wine is aged in oak barrels for 18 months."
+    },
+    {
+      "wine_description": "El Molino Chardonnay is the perfect wine for a relaxing evening with friends.",
+      "wine_history": ", California is a wine that has been made for over 100 years. It is a blend of 60% Chardonnay and 40% Pinot Noir, and has a fruity, floral, and refreshing taste.\n\nEl Molino Chardonnay is a wine that has been made for over 100 years. It is a blend of 60% Chardonnay and 40% Pinot Noir, and has a fruity, floral, and refreshing taste. The wine is named after the El Molino winery, which was founded in 1892 by Gustave Chardonnay and his son-in-law, J. Paul Getty. The winery was later acquired by the Constellation Brands company in 2006.",
+      "wine_name": "El Molino Chardonnay from Rutherford",
+      "wine_pairing": "Some good foods to pair with the Rutherford El Molino Chardonnay would be cheese and charcuterie, roasted vegetables, and a hearty pasta dish.",
+      "wine_popularity": ", California\n\nThe popularity of El Molino Chardonnay is due to its complex and fruity taste. The wine is made from 100% Chardonnay grapes and is aged for 12 to 18 months."
+    },
+    {
+      "wine_description": "Mazzei Zisola Noto Rosso from Sicily is a dry red wine made from a blend of Sangiovese and Merlot grapes.",
+      "wine_history": "Mazzei Zisola Noto Rosso is a red wine produced in the province of Noto, in the island of Sicily. It is made from the Mazzei grape, the same variety used to produce the famous Rosso di Montalcino. The wine is aged in oak for up to 18 months, and has a fruity, pink-red color.",
+      "wine_name": "Mazzei Zisola Noto Rosso from Sicily",
+      "wine_pairing": "A dish that pairs well with Mazzei Zisola Noto Rosso from Sicily is a hearty and filling pasta dish. Another option would be a hot and savory sandwich with roasted meats, Gruyère cheese, and roasted vegetables.",
+      "wine_popularity": "This wine is popular for its fruity, floral and spicy flavors."
+    },
+    {
+      "wine_description": "This wine is an excellent value. It is fruity with a nice balance of acidity and sweetness.",
+      "wine_history": "The Clos Cibonne Cotes de Provence Cuvee Tradition Rose wine is made from the best-quality red grapes from the Cibonne district in the south of France. The wine is aged in oak casks for at least two years and has a fruity taste with a hint of caramel.",
+      "wine_name": "Clos Cibonne Cotes de Provence Cuvee Tradition Rose",
+      "wine_pairing": "Foods that are typically enjoyed with a French wine such as Clos Cibonne Cotes de Provence Cuvee Tradition Rose go well with rich, savory dishes such as pork tenderloin, beef bourguignon, and lamb shank. These types of dishes contain a lot of flavor and are perfect for balancing out the sweetness and acidity of the wine.",
+      "wine_popularity": "The Clos Cibonne Cotes de Provence Cuvee Tradition Rose is a popular wine because of its sweet, fruity taste and its long finish."
+    },
+    {
+      "wine_description": "Fontanafredda Serralunga d'Alba is a wine from the Barolo DOCG region in northwest Italy. It is made from a blend of two types of wine grapes, monastrell and barbera.",
+      "wine_history": "Fontanafredda Serralunga d'Alba is a wine from the Barolo DOCG. The wine is made from a blend of 60% Barbera and 40% Montepulciano. The wine was created in the 1970s by the Baron Luigi Villa d'Alba.",
+      "wine_name": "Fontanafredda Serralunga d'Alba from Barolo DOCG",
+      "wine_pairing": "Fontanafredda Serralunga d'Alba is a delicious dessert wine that is best enjoyed with a wide variety of foods. Some of the best choices include chocolate cake, strawberries, and ice cream.",
+      "wine_popularity": "There is no one answer to this question as there are many factors that contribute to the Fontanafredda Serralunga d'Alba wine's popularity. Some of these factors include its complex and nuanced flavors, its high quality, and its status as a DOCG wine.\n\nFontanafredda Serralunga d'Alba is a wine that is made from a blend of 100% Barbera wine and 0% Dolcetto. This unique blend gives the wine its unique character, which some describe as being rich, earthy, and full-bodied.\n\nFontanafredda Serralunga d'Alba is also known for its complex flavors. These flavors include notes of blackberry, cherry, and tobacco, as well as a somewhat dry finish.\n\nAll of these factors contribute to Fontanafredda Serralunga d'Alba's popularity, which is evidenced by its consistently high ratings on wine review websites."
+    },
+    {
+      "wine_description": "This Cabernet Sauvignon from Dakota Shy is a rich and full-bodied wine with blackberry and chocolate flavors.",
+      "wine_history": "Dakota Shy Cabernet Sauvignon is a wine made from Cabernet Sauvignon grapes grown in the Napa Valley. The wine was created in 2003 by winemaker Steve Buchman, who was inspired by the style of wine made by his friend, the wine critic Robert M. Parker, Jr. Dakota Shy is named after the shy buffalo that roamed the Napa Valley in the 1800s.",
+      "wine_name": "Dakota Shy Cabernet Sauvignon from Napa Valley",
+      "wine_pairing": "Foods that go well with Dakota Shy Cabernet Sauvignon from Napa Valley include roasted meat, seafood, and hearty salads.",
+      "wine_popularity": "Dakota Shy Cabernet Sauvignon from Napa Valley is one of the most popular wines in the world. Its unique flavor and aroma make it a favorite among wine lovers. This wine is also well-known for its high quality and consistency."
+    },
+    {
+      "wine_description": "This wine is made from 100% Sangiovese grapes.",
+      "wine_history": "The Falanghina grape is indigenous to the Campania region of southern Italy. The wine made from this grape is known as San Salvatore Falanghina. The wine is made from a blend of 60% Falanghina and 40% Malvasia. The wine is typically dry and has a fruity flavor with a slightly bitter aftertaste.",
+      "wine_name": "San Salvatore Falanghina Campania IGT",
+      "wine_pairing": "One food pairing that goes well with San Salvatore Falanghina Campania IGT wines is a hearty pasta dish. Examples include penne with Alfredo sauce, macaroni and cheese, and spaghetti with meat sauce. Another option is a light salad with a vinaigrette dressing, such as a garden salad with olives, roasted red peppers, and feta cheese.",
+      "wine_popularity": "There are a few things that make San Salvatore Falanghina Campania IGT so popular. First, the wine is made from a blend of seventy percent Sangiovese and thirty percent Canaiolo. Second, the wine is dry and has a fruity taste. Finally, the wine is easy to drink and has a long shelf life."
+    },
+    {
+      "wine_description": "This wine comes from the Loire Valley and is made from 100% Silex.",
+      "wine_history": "Valley\n\nThe Domaine Gerard Fiou Sancerre Terroir Silex is a wine from the Sancerre region in the Loire Valley. The estate has been in the Fiou family since the 18th century, and has been producing wines since the early 1900s. The estate has a vineyard located on a clay and limestone plateau, and produces a range of dry and sweet wines. The Domaine Gerard Fiou Sancerre Terroir Silex is a dry white wine that is made from Sauvignon Blanc and Semillon grapes.",
+      "wine_name": "Domaine Gerard Fiou Sancerre Terroir Silex from Loire",
+      "wine_pairing": "A great food pairing for Domaine Gerard Fiou Sancerre Terroir Silex from Loire would be a hearty steak with a rich red wine sauce. Alternatively, try a juicy burger topped with a creamy sauce and melted cheese.",
+      "wine_popularity": "The Silex grape is blended with other noble grapes such as Chardonnay and Pinot Noir to create this wine. The wine is then aged in oak for up to 18 months to give it a nice, smooth taste."
+    },
+    {
+      "wine_description": "The Astrolabe 'Valleys' Awatere Valley Sauvignon Blanc is a brilliantly fresh wine with a restrained elegance.",
+      "wine_history": "Astrolabe is a New Zealand wine company that was started in 1995 by brothers, Tim and Graeme Wood. The company specializes in Sauvignon Blanc and Chardonnay wines. Astrolabe 'Valleys' Awatere Valley Sauvignon Blanc was created in 2004 from the merger of two small Marlborough wineries, Awatere and Pinnacle. The wine is made from 100% Sauvignon Blanc grapes and is aged for 12 months in new oak.",
+      "wine_name": "Astrolabe 'Valleys' Awatere Valley Sauvignon Blanc from Marlborough",
+      "wine_pairing": "There are many foods that go well with Astrolabe Valleys Sauvignon Blanc from Marlborough. A few favorites include delicate sushi rolls, a juicy steak, and a creamy risotto.",
+      "wine_popularity": "Astrolabe's Awatere Valley Sauvignon Blanc is a must-try for wine lovers interested in exploring New Zealand's best Sauvignon Blancs. The wine is made from 100% Sauvignon Blanc grapes, and is fermented with natural yeast. The wine is then aged in oak for 12-18 months. The wine's delicate aromas of citrus and tropical fruits are balanced by a sweet and mellow taste. Astrolabe's Awatere Valley Sauvignon Blanc is perfect for enjoying with food or on its own."
+    },
+    {
+      "wine_description": "The Domaine Huet Vouvray 'Le Haut Lieu' Sec is a high-quality, dry, white wine made from the best Chardonnay grapes.",
+      "wine_history": "The Huet family has been making wine in the Vouvray appellation for almost 400 years. The estate was purchased by Jérôme Huet in 1978 and he continues to produce some of the finest wines in this esteemed appellation. The wine is made from a blend of 70% Sauvignon Blanc and 30% Semillon. The wine is aged in new oak for 12 months.",
+      "wine_name": "Domaine Huet Vouvray 'Le Haut Lieu' Sec from Loire",
+      "wine_pairing": "There are many foods that go well with Domaine Huet Vouvray 'Le Haut Lieu' Sec from Loire, but some of the most popular combinations are as follows:\n\n- Roasted meats: A good option is a roast pork or lamb dish, as the wine has a strong flavor that complements the meat nicely.\n- Cheese: A good pairing for Domaine Huet Vouvray 'Le Haut Lieu' Sec from Loire is a cheese course. A cheese such as Boursault, Chevre, or Roquefort would be a great choice, as they are all strong and full-flavored.\n- Fruit: The wine is fruity and acidic, so a good fruit pairing would be something like a ripe peach or a grapefruit.",
+      "wine_popularity": "Huet Vouvray 'Le Haut Lieu' Sec from Loire is a lauded wine for its complex and refined flavors. The wine is made from a blend of 55% Graves and 45% Sainte-Croix-du-Mont wines, and is aged for at least two years in barriques. The wine's bouquet is composed of blackberry, cherry, and plum, with a pronounced flavor of blackberry and raspberry."
+    },
+    {
+      "wine_description": "A wine made from 100% Barbera grapes grown in Mastroberardino, a small area in the province of Taurasi, in the Apulia region of southern Italy.",
+      "wine_history": "Mastroberardino Radici from Taurasi DOCG is a wine made from the vineyards of Mastroberardino, located in the province of Grosseto, Tuscany. Mastroberardino Radici is a blend of 60% Cabernet Sauvignon, 30% Merlot, and 10% Petit Verdot. The wine was awarded the prestigious DOCG designation in 1984.",
+      "wine_name": "Mastroberardino Radici from Taurasi DOCG",
+      "wine_pairing": "Mastroberardino Radici from Taurasi DOCG are a great pairing with dishes that are heavy on the cheese. Suggestions include a hearty pasta dish with plenty of cheese and garlic, a grilled cheese sandwich with brie and goat cheese, or a grilled pork chop with brie and honey-mustard sauce.",
+      "wine_popularity": "There are many factors that contribute to Mastroberardino Radici's popularity, but perhaps the most important is its unique flavor profile. Mastroberardino Radici is aged in barriques made from 100% Sangiovese grapes, which gives the wine its characteristic cherry and raspberry flavors. Additionally, the wine is aged for a minimum of two years in oak barrels, which adds complexity and a layer of richness."
+    },
+    {
+      "wine_description": "The Raen Royal St. Robert Cuvee Pinot Noir from Sonoma Coast is a luxurious and delicious wine. The wine has a deep ruby color and is full-bodied with notes of blackberry, plum, and blackcurrant",
+      "wine_history": "The Raen Royal St. Robert Cuvee Pinot Noir is a wine that comes from the Sonoma Coast region of California. The wine is made from Pinot Noir grapes and is aged for at least 18 months in oak barrels. The wine has a deep, dark color and a rich, fruity flavor that is full-bodied and complex.",
+      "wine_name": "Raen Royal St. Robert Cuvee Pinot Noir from Sonoma Coast",
+      "wine_pairing": "Some great food choices to pair with a Raen Royal St. Robert Cuvee Pinot Noir from Sonoma Coast would include a variety of cheeses, charcuterie, roasted meats, and fresh fruits.",
+      "wine_popularity": "There are a few things that make Raen Royal St. Robert Cuvee Pinot Noir from Sonoma Coast so popular. First and foremost, this wine is made from grapes that are grown in a specific area of Sonoma County. Secondly, the wine is aged in oak barrels for a period of time, which gives it a distinct flavor and a smooth finish. Finally, Raen Royal St. Robert Cuvee Pinot Noir is also available at a fraction of the price of other high-end wines."
+    },
+    {
+      "wine_description": "Gaston Chiquet Premier Cru Brut Tradition is a sparkling wine made from the best grapes from the Champagne region.",
+      "wine_history": "Gaston Chiquet Premier Cru Brut Tradition is a sparkling wine from Champagne. The wine is made from Pinot Noir and Chardonnay grapes. It is produced by Champagne Chiquet.\n\nThe wine was first produced in 1973. Gaston Chiquet Premier Cru Brut Tradition has a rating of at least 8.5 points by the French wine rating organization, the Institut National de l'Vin.",
+      "wine_name": "Gaston Chiquet Premier Cru Brut Tradition from Champagne",
+      "wine_pairing": "A good pairing for Gaston Chiquet Premier Cru Brut Tradition from Champagne is a hearty French meal like roast lamb or pork with a side of roasted potatoes and steamed vegetables. Another great pairing is a cheese plate with a variety of different cheeses such as Boursault, Chevre, Gorgonzola, Roquefort, and a fig or apple tart.",
+      "wine_popularity": "The Gaston Chiquet Premier Cru Brut Tradition from Champagne is one of the most popular wines in the world. This wine is made from a blend of different types of grapes and is aged in oak barrels for a period of two years. The wine is then bottled and has a rating of at least 12.5 points on the Champagne France quality scale."
+    },
+    {
+      "wine_description": "This Arista UV Lucky Well Vineyard Pinot Noir from Russian River Valley is a dark purple color with a light purple rim. It has a bouquet of blackberries, blueberries, and cherries with a light taste.",
+      "wine_history": ", California is a unique wine. The wine was made from a blend of old and new vineyards, making it a unique wine that you won't find in any other store.\n\nThe Arista UV Lucky Well Vineyard Pinot Noir was born from a blend of old and new vineyards in the Russian River Valley. The vineyard was planted in 1978 and 1991, respectively, making it one of the oldest vineyards in the area. The wine is made from a blend of 60% old vines and 40% new vines.\n\nThe Arista UV Lucky Well Vineyard Pinot Noir was created to be unique and unrivaled. The wine has a sweet, fruity flavor with a long, smooth finish. The wine is perfect for any occasion, and is a great choice for those who are looking for a unique wine.",
+      "wine_name": "Arista UV Lucky Well Vineyard Pinot Noir from Russian River Valley",
+      "wine_pairing": "Arista UV Lucky Well Vineyard Pinot Noir from Russian River Valley pairs well with a variety of foods. Some good options include a light salad with sturdy greens and a flavorful vinaigrette, a roasted chicken or pork dish, a cheese plate with a variety of cheeses, and a dessert of a simple chocolate cake or a fruit tart.",
+      "wine_popularity": "The Arista UV Lucky Well Vineyard Pinot Noir from Russian River Valley is a wine that is full of flavor and is sure to please. This wine is made from grapes that were grown in the Russian River Valley, and it is a blend of 85% pinot noir and 15% syrah. This wine is aged for 18 months in oak barrels, and it has a fruity flavor that is sure to tantalize your taste buds."
+    },
+    {
+      "wine_description": "This wine is from Vine Hill Ranch in Napa Valley. It has a dark color with hints of red and blackberry. The wine has a strong, fruity aroma with notes of blackberry and raspberry. The flavor is full and has",
+      "wine_history": "was first planted in 1932 by George and Dorothea Sizer. The Sizers were pioneers in the Napa Valley wine industry and their Cabernet Sauvignon was considered one of the best in the area. In 1978, the family sold the vineyard to Robert Mondavi. Mondavi made significant upgrades to the winery and the wine was awarded a gold medal at the 1982 World Wine Championships. In 1992, Mondavi sold the vineyard to Beaulieu Vineyards.",
+      "wine_name": "Vine Hill Ranch 'VHR' Cabernet Sauvignon from Napa Valley",
+      "wine_pairing": "Some good food choices to accompany the Vine Hill Ranch 'VHR' Cabernet Sauvignon from Napa Valley would be roasted chicken, beef stroganoff, and salmon.",
+      "wine_popularity": "There are many factors that contribute to the popularity of Vine Hill Ranch 'VHR' Cabernet Sauvignon from Napa Valley. The wine is typically affordable, has a smooth taste with a hint of oak, and is well-balanced. Additionally, the wine is made from grapes that are grown in a warm climate, which gives it a fruity flavor."
+    },
+    {
+      "wine_description": "Companion Wine Co. Oliver's Vineyard 'Sunny B' is a delicious and easy-to-drink wine.",
+      "wine_history": "Companion Wine Co. Oliver's Vineyard 'Sunny B' is a blend of Syrah, Zinfandel and Petite Sirah. It was created in 2006 by winemaker, Sean Oliver. The wine was named after his daughter, Sunny. Sunny is the daughter of winemaker, Sean Oliver and his wife, Kathy. The winery is located in Edna Valley, a small town in the heart of California's wine country.\n\nOliver's Vineyard is known for producing high-quality wines that are versatile and enjoyable to drink. The Sunny B blend is no exception. The wine is light and fruity with a slightly sweet flavor and a crisp finish. It is perfect for a light evening meal or as a refreshing drink on a hot day.",
+      "wine_name": "Companion Wine Co. Oliver's Vineyard 'Sunny B' from Edna Valley",
+      "wine_pairing": ", California\n\nThe Companion Wine Co. Oliver's Vineyard 'Sunny B' is a perfect match for roasted chicken, steak, and pasta dishes.",
+      "wine_popularity": "Companion Wine Co. Oliver's Vineyard 'Sunny B' is a popular wine because it is easy to drink and has a sweet taste. It is also a good choice for a wine with food because it pairs well with most types of food."
+    },
+    {
+      "wine_description": "This wine is made from 100% Tempranillo grapes from the Puente Alto appellation. The wine has a deep ruby color and a bouquet of red fruit, spices, and tobacco. The taste is full-bodied with a",
+      "wine_history": ", located in the Ribera del Duero appellation, is a blend of 70% Garnacha and 30% Cabernet Sauvignon.\n\nThe history of Puente Alto Vina Almaviva EPU dates back to 1856 when the first vines were planted. The estate was purchased by the Almaviva family in 1978 and they have been working diligently to improve the vineyards and winemaking since then. The wine is made from a blend of 70% Garnacha and 30% Cabernet Sauvignon. The wine is aged for 18 months in new, French oak barrels.",
+      "wine_name": "Vina Almaviva EPU from Puente Alto",
+      "wine_pairing": "Foods that go well with Puente Alto EPU from Vina Almaviva include but are not limited to: red wine, spicy foods, and rich foods.",
+      "wine_popularity": "There are a few different factors that contribute to the success of Vina Almaviva EPU. First and foremost, this wine is produced using a unique blend of grapes. Secondly, the wine is aged in oak barrels for a period of time, which gives it a distinct flavor and complexity. Finally, Puente Alto is known for its high quality wines, and Vina Almaviva EPU is no exception."
+    },
+    {
+      "wine_description": ", Michigan\n\nThis wine is made from pinot noir grapes from Calera Jensen Vineyard in Mount Harlan, Michigan.",
+      "wine_history": ", California\n\nThe Calera Jensen Vineyard Pinot Noir is a blend of Pinot Noir, Syrah, and Zinfandel grapes grown in the Mount Harlan appellation in Shasta County, California. The vineyard was founded in 1976 and is owned and operated by the Calera family. The wine is made from 100% Pinot Noir.",
+      "wine_name": "Calera Jensen Vineyard Pinot Noir from Mount Harlan",
+      "wine_pairing": "There are so many great foods that go well with Mount Harlan Calera Jensen Vineyard Pinot Noir! Some of our favorites include:\n\n-Chicken salad with grapes and cranberries\n-Roasted Brussels with bacon and figs\n-Baked apples with cinnamon and cloves\n-Parmesan-crusted lamb chops",
+      "wine_popularity": "The Mount Harlan Calera Jensen Vineyard Pinot Noir is a wine that is popular due to its well-balanced flavor and its ability to age gracefully. This wine is known for its fruity characters, as well as its smooth texture. Additionally, the Mount Harlan Calera Jensen Vineyard Pinot Noir is a versatile wine that can be enjoyed on its own, or paired with food."
+    },
+    {
+      "wine_description": "A delicious Blanc from Judean Hills, Tzora Vineyards 'Judean Hills' Blanc is a perfect wine for any occasion.",
+      "wine_history": ", Israel\n\nTzora Vineyards, Judean Hills, Israel is a small family-owned winery located in the Judean Hills, a wine-growing region in the Southern District of Israel. The estate was established in 1978 by Yitzhak and Irit Tzora, and is now run by their children.\n\nThe Tzoras focus on producing high-quality dry white wines, with a focus on Chardonnay, Sauvignon Blanc, and Semillon. Their labels include Judean Hills, Tzora Vineyards, and Judean Hills Estate.\n\nJudean Hills Blanc is made from 100% Sauvignon Blanc grapes. The wine is aged for 14 months in oak barrels.",
+      "wine_name": "Tzora Vineyards 'Judean Hills' Blanc from Judean Hills",
+      "wine_pairing": "There are many foods that go well with Tzora Vineyards 'Judean Hills' Blanc from Judean Hills. One option is a light, refreshing salad with flavors of lemon and vinegar. Another option is a hearty and filling pasta dish with a creamy sauce or a savory meat dish. There are many possibilities, so it's up to you to find what you enjoy the most!",
+      "wine_popularity": "is a crisp, effervescent white wine that is perfect for a summer evening. With flavors of lime, grapefruit, and a refreshing zing, Judean Hills Blanc is a perfect choice for a light and refreshing palate.\n\nTzora Vineyards 'Judean Hills' Blanc is a crisp, effervescent white wine that is perfect for a summer evening. With flavors of lime, grapefruit, and a refreshing zing, Judean Hills Blanc is a perfect choice for a light and refreshing palate."
+    },
+    {
+      "wine_description": "Rivers-Marie Silver Eagle Vineyard Pinot Noir from Sonoma Coast is a beautifully balanced wine with a fruity taste and a smooth finish.",
+      "wine_history": "The Rivers-Marie Silver Eagle Vineyard Pinot Noir was planted in 2001 by husband and wife team, Simon and Lisa Rivers-Marie. The vineyard is located on the western flank of the Mayacamas Mountains, in the Sonoma Coast AVA. The estate vineyard is composed of 34 hectares of old vine Zinfandel, Sauvignon Blanc, and Pinot Noir.\n\nThe wine was initially produced in a small quantities for the estate. In 2007, the vineyard was acquired by the wine company, Serena Vineyards, and the wine was re-released under their label. Since then, the wine has received acclaim and recognition for its unique character and delicious taste.\n\nThe Rivers-Marie Silver Eagle Vineyard Pinot Noir is a wine that is composed of beautiful aromas and flavors. Rosé, pink, and purple shades are present in the wine, which is a result of the high levels of anthocyanins. The wine is also full-bodied and has a smooth texture.",
+      "wine_name": "Rivers-Marie Silver Eagle Vineyard Pinot Noir from Sonoma Coast",
+      "wine_pairing": "This wine is perfect with a variety of foods. I would recommend pairing it with a meaty dish like a steak or pork chop, or something with a strong flavor like a chili. Another great option is a cheese plate.",
+      "wine_popularity": "Rivers-Marie Silver Eagle Vineyard Pinot Noir is a popular wine because of its rich, fruity flavors and its smooth, easy-drinking style. This wine is made from hand-picked grapes, and it is aged in oak barrels for at least 14 months. The wine is then carefully filtered and bottled for sale."
+    },
+    {
+      "wine_description": "Domaine Alain Voge Cornas Les Vieilles Vignes is a Rhone Valley wine estate with over 50 years of experience.",
+      "wine_history": "Valley, France\n\nCras de Gavarnie, Cornas Les Vieilles Vignes, Cornas 2004\n\nA blend of Grenache, Carignan and Syrah, this wine is a blend of two different appellations: Cornas, which is located in the Rhone Valley and Gavarnie, which is located in the Pyrenees. The wine is aged for 18 months in new oak barrels.",
+      "wine_name": "Domaine Alain Voge Cornas Les Vieilles Vignes from Rhone",
+      "wine_pairing": "Some foods that are great companions to Domaine Alain Voge Cornas Les Vieilles Vignes from Rhone are cheese, charcuterie, and fresh fruits.",
+      "wine_popularity": "The distinctive character of Cornas Les Vieilles Vignes wines is their finesse and balance, with a long, lingering finish. The wines are made from a blend of 65% Grenache, 30% Syrah, and 5% Mourvèdre. The vineyards are situated on a plateau in the heart of the Cornas appellation, and are located just below the village of Les Vieilles Vignes. The wines are aged in barriques for a minimum of two years."
+    },
+    {
+      "wine_description": "Elvio Cogno Barolo Vigna Elena is a small, family-owned winery located in the Barolo region of Italy. The winery is known for its bold, rich wines that are aged for a minimum of two",
+      "wine_history": "Elvio Cogno is a family-owned winery that has been producing wine from the Barolo region of Italy since the late 1800s. Cogno Barolo Vigna Elena is a DOCG wine made from 100% Nebbiolo grapes. The wine is aged for 12 years in wood before being released to the market.",
+      "wine_name": "Elvio Cogno Barolo Vigna Elena from Barolo DOCG",
+      "wine_pairing": "Elvio Cogno Barolo Vigna Elena from Barolo DOCG is a wine that is best enjoyed with dishes that are hearty and have a strong flavor. Examples of foods that are perfect partners for Elvio Cogno Barolo Vigna Elena from Barolo DOCG include beef, lamb, pork, and chicken.",
+      "wine_popularity": "There are many factors that make this wine so popular, but perhaps the most important is the unique terroir of Barolo. The wine is made from a blend of several different types of grapes, and is aged for a minimum of 18 months in oak barrels. This allows the wine to develop complex flavors and a long finish."
+    },
+    {
+      "wine_description": "This Domaine produces Chablis from estate-grown grapes.",
+      "wine_history": "is a wine that was created in the early 1800s. It is made from a blend of Merlot and Cabernet Sauvignon grapes. Les Fourchaume Vieilles Vignes is a dry wine that has a fruity and spicy taste.",
+      "wine_name": "Domaine Laroche Les Fourchaume Vieilles Vignes from Chablis Premier Cru",
+      "wine_pairing": "Some foods that go well with Domaine Laroche Les Fourchaume Vieilles Vignes from Chablis Premier Cru are a roast lamb or chicken, a cheese plate, and a fig tart.",
+      "wine_popularity": "The Domaine Laroche Les Fourchaume Vieilles Vignes is a fantastic wine that is loved by many because of its unique flavor profile. The wine has a deep red color and a sweet and fruity taste that is sure to please. Additionally, the wine is made from grapes that are grown in Chablis Premier Cru, which gives it a unique flavor profile that is hard to find in other wines."
+    },
+    {
+      "wine_description": "Ferren Chardonnay from Sonoma Coast is a floral and citrusy wine with a smooth finish.",
+      "wine_history": "Ferren Chardonnay is a wine that is made in the Sonoma Coast region of California. The wine is made from Pinot Noir and Chardonnay grapes. The wine is aged in oak barrels for a minimum of two years. Ferren Chardonnay is a straw-colored wine with a slightly sweet flavor.",
+      "wine_name": "Ferren Chardonnay from Sonoma Coast",
+      "wine_pairing": "Some good foods to pair with a Sonoma Coast Chardonnay are seafood, chicken, and pasta.",
+      "wine_popularity": "The Sonoma Coast is a region in California that is known for its wine. Ferren Chardonnay is a wine that is made from the grapes grown in the Sonoma Coast region. The wine is popular for its fruity taste and its smooth texture."
+    },
+    {
+      "wine_description": "This wine is from the Bierzo region in central Spain, and is a blend of 60% Tempranillo and 40% Grenache. It has a deep garnet color with a sweet, fruity, and spicy aroma.",
+      "wine_history": ", La Mancha\n\nThe Encinas Mencia wine from Bierzo, La Mancha, is an ancient and revered wine from the region. It is produced from a blend of Tempranillo, Cabernet Sauvignon and Merlot grapes.\n\nThe Encinas Mencia wine was first produced in the late 1800s by Antoine Graillot and Raul Perez. Graillot was a French winegrower and winemaker who settled in Bierzo in 1885. Perez was a Spanish winegrower and winemaker who also settled in Bierzo in 1885. Together, they founded Encinas winery, which remains one of the region's most prestigious and well-known producers of wine.\n\nThe Encinas Mencia wine is made from a blend of Tempranillo, Cabernet Sauvignon and Merlot grapes. The wine is aged for up to 18 months in oak barrels. It is a rich, full-bodied wine that is often enjoyed as an aged wine.",
+      "wine_name": "Antoine Graillot & Raul Perez 'Encinas' Mencia from Bierzo",
+      "wine_pairing": "Foods that go well with Antoine Graillot & Raul Perez 'Encinas' Mencia from Bierzo are typically Spanish-style dishes such as paella, tapas, and charcuterie. These types of dishes are hearty and full of flavor, and they are perfect for pairing with the wine of the same name.",
+      "wine_popularity": "The Encinas Mencia from Bierzo is a popular wine because of its intense and fruity flavors. Antoine Graillot & Raul Perez are known for creating wines with intense flavors, and the Encinas Mencia is no exception. This wine is made from a blend of Tempranillo, Merlot, Cabernet Sauvignon, and Malbec, and it is typically aged for at least two years in oak barrels. This wine is a delicious option for those who are looking for an intense and fruity wine."
+    },
+    {
+      "wine_description": "DVO is a winery that specializes in small production, estate-grown wines.",
+      "wine_history": "has been making wine since 1978. The winery is located in Rutherford, CA and produces Sauvignon Blanc, Merlot, Cabernet Sauvignon, Cabernet Franc, Malbec, and Petit Verdot.\n\nDVO has a long and storied history in the wine industry. The winery was founded by David and Vicki Vos in 1978, and has since produced some of the most popular and well-known wines in Napa Valley. DVO is known for its Sauvignon Blanc, Merlot, Cabernet Sauvignon, Cabernet Franc, Malbec, and Petit Verdot wines, which are all produced from a variety of vineyards around Napa Valley. The winery is well-known for its focus on quality and innovation, and its wines have won numerous awards over the years. DVO is a must-visit for wine lovers in Napa Valley, and its wines are sure to impress.",
+      "wine_name": "DVO from Napa Valley",
+      "wine_pairing": "When it comes to pairing wines with food, it can be a little tricky to decide what will work well together. However, some key foods that go great with DVO wines from Napa Valley are meats, poultry, seafood, vegetables, and grains.",
+      "wine_popularity": "is a unique wine that is known for its bright ruby color and complex fruit flavors. The wine is made from a blend of Cabernet Sauvignon, Merlot, and Cabernet Franc grapes, and it is aged in oak barrels for at least 18 months.\n\nDVO is a very popular wine because of its bright ruby color and complex fruit flavors. The wine is made from a blend of Cabernet Sauvignon, Merlot, and Cabernet Franc grapes, and it is aged in oak barrels for at least 18 months. The wine is a good value, and it is often on sale. Additionally, the wine is often enjoyed with food items like pasta and pizza."
+    }
+  ]
+}
