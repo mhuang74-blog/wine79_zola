@@ -2,7 +2,7 @@
 title: 노통, 리제르바 말벡 (Norton Reserva Malbec) 은 아르헨티나 멘도사에서 재배되는 100% Malbec 포도로 만든 레드 와인입니다
 description: 노통, 리제르바 말벡 (Norton Reserva Malbec) 은 아르헨티나에서 가장 유명한 와인 중 하나입니다. 블랙베리, 자두, 체리, 스파이스의 풍미가 가득한 풀바디 레드 와인입니다.
 date: 2022-03-01
-updated: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
   canonical: cellar/Norton_Reserva_Malbec

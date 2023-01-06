@@ -2,7 +2,7 @@
 title: 노통 클라시코 375ml
 description: 노통 클라시코 375ml
 date: 2022-04-01
-updated: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:

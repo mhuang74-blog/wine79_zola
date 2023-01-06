@@ -2,7 +2,7 @@
 title: 빅파이브 콜렉션 엘리펀트 피노타지
 description: 빅파이브 콜렉션 엘리펀트 피노타지
 date: 2022-05-01
-updated: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
 taxonomies:

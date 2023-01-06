@@ -2,7 +2,7 @@
 title: 마르치구에 엘 까베르네 쇼비뇽 2004
 description: 마르치구에 엘 까베르네 쇼비뇽 2004
 date: 2022-08-01
-updated: 2022-12-30
+updated: 2023-01-06
 extra:
   image: image.webp
   canonical: cellar/Marchigue_L_Cabernet_Sauvignon
