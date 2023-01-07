@@ -5,7 +5,6 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
-  canonical: /cellar/Marchigue_L_까베르네_소비뇽/
 taxonomies:
   tags: 
     - 적포도주

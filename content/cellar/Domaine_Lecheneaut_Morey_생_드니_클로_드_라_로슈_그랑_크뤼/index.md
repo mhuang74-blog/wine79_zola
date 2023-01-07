@@ -5,7 +5,6 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
-  canonical: /cellar/Domaine_Lecheneaut_Morey_생_드니_클로_드_라_로슈_그랑_크뤼/
 taxonomies:
   tags: 
     - 적포도주

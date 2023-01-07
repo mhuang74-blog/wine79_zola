@@ -1,0 +1,71 @@
+{
+	"contexts" : [
+        {
+            "wine_name": "1879 G Moscato"
+        },
+        {
+            "wine_name": "The Big Five Pinotage"
+        },
+        {
+            "wine_name": "Marchigue L Cabernet Sauvignon"
+        },
+        {
+            "wine_name": "Domaine Lecheneaut Morey St Denis Clos de la Roche Grand Cru"
+        },
+        {
+            "wine_name": "Norton Classico"
+        },
+        {
+            "wine_name": "Norton Perdriel"
+        },
+        {
+            "wine_name": "Norton Reserva Malbec"
+        },
+        {
+            "wine_name": "Tesori Malvasia di Castelnuovo Don Bosco"
+        }
+	],
+    "prompt_templates" : {
+        "wine_description": {
+            "model": "text-davinci-003",
+            "temperature": 0.8,
+            "tokens": 80,
+            "prompt": "With one sentence, describe this wine in an exciting way and highlight how it is unique: {{wine_name}}"
+        },
+        "wine_popularity": {
+            "temperature": 0.8,
+            "tokens": 500,
+            "prompt": "Write about what makes this wine so popular: {{wine_name}}"
+        },
+        "wine_popularity_with_business_men": {
+          "model": "text-davinci-003",
+          "temperature": 0.8,
+          "tokens": 500,
+          "prompt": "Write an exciting story about how this wine gained popularity with accomplished business men to celebrate special business achivements and show apprciate to their customers with this wine: {{wine_name}}"
+        },  
+        "wine_history": {
+            "model": "text-davinci-003",
+            "temperature": 0.25,
+            "tokens": 500,
+            "prompt": "Write about the history of this wine: {{wine_name}}"
+        },
+        "wine_pairing": {
+            "model": "text-davinci-003",
+            "temperature": 0.8,
+            "tokens": 500,
+            "prompt": "Write about foods that go well with: {{wine_name}}"
+        },
+        "wine_style": {
+            "model": "text-davinci-003",
+            "temperature": 0,
+            "tokens": 5,
+            "prompt": "Picking from this list of wine types: red wine, white wine, rose wine, sparkling wine, and dessert wine, which wine type does this wine belong to: {{wine_name}} ?"
+        },
+        "wine_country": {
+            "model": "text-davinci-003",
+            "temperature": 0,
+            "tokens": 5,
+            "prompt": "In three words or less, tell me the country name that this wine is from: {{wine_name}}"
+        }        
+    }
+}
