@@ -1,6 +1,6 @@
 ---
 title: 디저트 와인
-description: 디저트 와인 컬렉션
+description: 디저트 와인은 모든 식사에 독특한 풍미와 경험을 더하는 달콤한 방종입니다
 paginate_by: 50
 paginate_reversed: true
 sort_by: date
