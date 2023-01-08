@@ -5,7 +5,7 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
-  canonical: /cellar/1879_G_모스카토/index.md
+  canonical: /cellar/디저트_와인/1879_G_모스카토/index.md
 taxonomies:
   tags: 
     - 디저트 와인
