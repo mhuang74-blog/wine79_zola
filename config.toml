@@ -33,9 +33,9 @@ banner = "img/wine_school_top_banner.webp"
 date_format = '%Y-%m-%d'
 
 links = [
-	{title = 'Cellar', url = '/cellar'},
-	{title = 'School', url = '/school'},
-	{title = 'About', url = '/about'},
+	{title = '포도주 저장실', url = '/cellar'},
+	{title = '와인 학교', url = '/school'},
+	{title = '에 대한', url = '/about'},
 ]
 
 theme = "lux"

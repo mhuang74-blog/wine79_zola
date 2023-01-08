@@ -10,13 +10,13 @@ extra:
       start: 0
       end: 2
       type: carousel
-      title: Featured Wine
+      title: 추천 와인
     - section: cellar
       size: 7
       start: 6
       end: 8
       type: overlay 
-      title: Popular Wine
+      title: 인기 있는 와인
       rows:
        - 3
   - - section: cellar
@@ -24,7 +24,7 @@ extra:
       start: 0
       end: 12
       type: default
-      title: Wine Library
+      title: 와인 도서관
 
 
 ---
