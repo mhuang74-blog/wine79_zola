@@ -2,7 +2,7 @@
     {% block head %}
     
     {% if page.extra.canonical %}
-    <link rel="canonical" href="{{ get_url(path=""~page.extra.canonical) }}" />
+    <link rel="canonical" href="{{ get_url(path="@"~page.extra.canonical) }}" />
     {% endif %}
 
     <meta charset="utf-8" />
