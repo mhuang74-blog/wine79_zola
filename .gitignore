@@ -2,3 +2,4 @@
 *.gz
 static/processed_images
 writing_cubicle/output
+tmp
