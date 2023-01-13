@@ -1,36 +1,6 @@
 {
 	"contexts" : [
       {
-        "wine_name": "Chateau Beau-Sejour Becot from Saint-Emilion Grand Cru"
-      },
-      {
-        "wine_name": "Podere Grattamacco Bolgheri Superiore from Bolgheri"
-      },
-      {
-        "wine_name": "Greywacke Sauvignon Blanc from Marlborough"
-      },
-      {
-        "wine_name": "Philip Togni Vineyard Cabernet Sauvignon from Napa Valley"
-      },
-      {
-        "wine_name": "Roserock Chardonnay from Eola-Amity Hills"
-      },
-      {
-        "wine_name": "McPrice Myers Beautiful Earth from Paso Robles"
-      },
-      {
-        "wine_name": "Bodegas Caro 'Amancaya' Gran Reserva Malbec - Cabernet Sauvignon from Mendoza"
-      },
-      {
-        "wine_name": "Giant Steps Pinot Noir from Yarra Valley"
-      },
-      {
-        "wine_name": "Schramsberg Blanc de Blancs from North Coast"
-      },
-      {
-        "wine_name": "Burn Cottage Pinot Noir from Central Otago"
-      },
-      {
         "wine_name": "Montes Alpha Syrah from Colchagua Valley"
       },
       {
@@ -267,35 +237,5 @@
       {
         "wine_name": "DVO from Napa Valley"
       }
-	],
-    "prompt_templates" : {
-        "wine_description": {
-            "tokens": 75,
-            "prompt": "Write a one sentence description about: {{wine_name}}"
-        },
-        "wine_popularity": {
-            "tokens": 300,
-            "prompt": "Write about what makes this wine so popular: {{wine_name}}"
-        },
-        "wine_history": {
-            "tokens": 300,
-            "prompt": "Write about the history of this wine: {{wine_name}}"
-        },
-        "wine_pairing": {
-            "tokens": 300,
-            "prompt": "Write about foods that go well with: {{wine_name}}"
-        },
-        "wine_style": {
-            "model": "text-davinci-003",
-            "temperature": 0,
-            "tokens": 5,
-            "prompt": "Picking from this list of wine types: red wine, white wine, rose wine, sparkling wine, and dessert wine, which wine type does this wine belong to: {{wine_name}} ?"
-        },
-        "wine_country": {
-            "model": "text-davinci-003",
-            "temperature": 0,
-            "tokens": 5,
-            "prompt": "In three words or less, tell me the country name that this wine is from: {{wine_name}}"
-        }        
-    }
+	]
 }
