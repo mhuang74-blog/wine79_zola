@@ -1,8 +1,8 @@
 ---
 title: {{ wine_name }}
 description: {{ wine_description }}
-date: 2022-12-30
-updated: 2023-01-06
+date: 2023-01-14
+updated: 2023-01-14
 extra:
   image: image.webp
 taxonomies:
