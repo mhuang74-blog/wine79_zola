@@ -2,9 +2,7 @@
 {% block content %}
 
 
-<!-- 
-
-{# for debugging #}
+<!-- {# START debugging #}
 
 {% set section = get_section(path="cellar/_index.md", metadata_only=true) %}
 
@@ -33,7 +31,7 @@
 <code>{{ key }} = {{ value }}</code><br>
 {% endfor %} 
 
--->
+{# END debugging #} -->
 
 
   {% if page.taxonomies.tags %}
@@ -98,11 +96,17 @@
 
   {% if page.lower or page.higher %}
     <p>
-      <h4>비슷한 와인에 관심이 있을 수 있습니다</h4>
+      <h4>
+      {% if page.ancestors.2 %}
+        <a href="{{ get_url(path='@/' ~ page.ancestors.2) }}"> 유사한 와인 </a>
+      {% else %}
+        <a href="{{ get_url(path='@/cellar/_index.md') }}"> 유사한 와인 </a>
+      {% endif %}
+      </h4>
       <br>
       <div class="links">
-      {% if page.lower %} <a href="{{ page.lower.permalink }}"> {{ page.lower.title }} </a> {% endif %}<br>
-      {% if page.higher %}<a href="{{ page.higher.permalink }}"> {{ page.higher.title }}</a> {% endif %}<br>
+      {% if page.lower %}< <a href="{{ page.lower.permalink }}"> {{ page.lower.title }} </a> <br>{% endif %}
+      {% if page.higher %}> <a href="{{ page.higher.permalink }}"> {{ page.higher.title }}</a> <br>{% endif %}
       </div>
     </p>
   {% endif %}
