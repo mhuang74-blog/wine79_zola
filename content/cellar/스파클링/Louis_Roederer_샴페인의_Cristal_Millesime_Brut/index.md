@@ -1,8 +1,8 @@
 ---
-title: Louis Roederer 샴페인의 Cristal Millesime Brut
+title: Louis Roederer Cristal 루이 뢰더러 크리스탈 Millesime Brut
 description: 샴페인의 이 정교하고 풀바디한 Louis Roederer Cristal Millesime Brut는 잘 익은 과일과 구운 브리오슈의 복합적인 향과 함께 독특하고 고급스러운 경험을 선사합니다.
 date: 2022-12-30
-updated: 2023-01-06
+updated: 2023-01-24
 extra:
   image: image.webp
   canonical: /cellar/스파클링/Louis_Roederer_샴페인의_Cristal_Millesime_Brut/index.md
