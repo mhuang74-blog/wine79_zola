@@ -1,0 +1,40 @@
+{% extends "zolastrap/templates/section.html" %}
+
+{% block content %}
+
+<!--   <h2>section vars</h2>
+  {% for key,value in section %}
+  <code>{{ key }} = {{ value }}</code><br>
+  {% endfor %}
+
+  <h2>section pages</h2>
+  {% for page in paginator.pages %}
+    <code> {{ page.title }} </code><br>
+  {% endfor %} -->
+              
+  {% if section.title %}
+    <h1 class="px-3">{{section.title}}</h1>
+  {% endif %}
+  {% if section.description %}
+    <p class="px-3 text-muted">{{section.description}}</p>
+  {% endif %}
+  {% if section.content %}
+    <div class="content px-3">{{section.content | safe}}</div>
+  {% endif %}
+  
+<!--   {% for page in paginator.pages %}
+    {{post::render(page=page)}}
+  {% endfor %} -->
+
+  {{paginator::render(paginator=paginator)}}
+  {% if section.extra.tags %}
+    {{header::render(text=config.extra.tags)}}
+    {% set tags = get_taxonomy(kind="tags") %}
+    {% for item in tags.items %}
+      <a
+        class="text-decoration-none text-reset"
+        href="{{item.permalink}}"
+      >{{item.name}}</a> | 
+    {% endfor %}
+  {% endif %}
+{% endblock %}
