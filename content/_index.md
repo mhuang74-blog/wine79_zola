@@ -5,26 +5,17 @@ sort_by: date
 extra:
   tags: true
   home:
-  - - section: cellar
-      size: 4
+  - - section: cellar/적포도주
+      size: 10
+      start: 12
+      end: 16
+      type: default
+      title: 좋아하는 빨강
+  - - section: cellar/디저트_와인
+      size: 10
       start: 0
       end: 2
-      type: carousel
-      title: 추천 와인
-    - section: cellar
-      size: 7
-      start: 6
-      end: 8
-      type: overlay 
-      title: 인기 있는 와인
-      rows:
-       - 3
-  - - section: cellar
-      size: 8
-      start: 0
-      end: 12
       type: default
-      title: 와인 도서관
-
+      title: 인기 디저트 와인
 
 ---
