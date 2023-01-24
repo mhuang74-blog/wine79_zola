@@ -5,6 +5,7 @@ date: 2023-01-14
 updated: 2023-01-14
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/볼게리의_포데레_그라타마코_볼게리_수페리오레/index.md
 taxonomies:
   tags: 
     - 적포도주

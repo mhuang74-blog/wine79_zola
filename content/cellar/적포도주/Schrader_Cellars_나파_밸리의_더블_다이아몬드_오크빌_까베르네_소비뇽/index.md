@@ -5,6 +5,7 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/Schrader_Cellars_나파_밸리의_더블_다이아몬드_오크빌_까베르네_소비뇽/index.md
 taxonomies:
   tags: 
     - 적포도주

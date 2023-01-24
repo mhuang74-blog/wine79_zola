@@ -5,6 +5,7 @@ date: 2023-01-14
 updated: 2023-01-14
 extra:
   image: image.webp
+  canonical: /cellar/백포도주/Eola_Amity_Hills의_로즈락_샤르도네/index.md
 taxonomies:
   tags: 
     - 백포도주

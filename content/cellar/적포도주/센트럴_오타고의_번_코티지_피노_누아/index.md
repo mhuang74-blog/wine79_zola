@@ -5,6 +5,7 @@ date: 2023-01-14
 updated: 2023-01-14
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/센트럴_오타고의_번_코티지_피노_누아/index.md
 taxonomies:
   tags: 
     - 적포도주

@@ -5,6 +5,7 @@ date: 2023-01-14
 updated: 2023-01-14
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/Paso_Robles의_McPrice_Myers_아름다운_지구/index.md
 taxonomies:
   tags: 
     - 적포도주

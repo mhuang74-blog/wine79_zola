@@ -5,6 +5,7 @@ date: 2023-01-14
 updated: 2023-01-14
 extra:
   image: image.webp
+  canonical: /cellar/스파클링/노스_코스트의_Schramsberg_Blanc_de_Blancs/index.md
 taxonomies:
   tags: 
     - 스파클링

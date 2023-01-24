@@ -5,6 +5,7 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
+  canonical: /cellar/스파클링/Louis_Roederer_샴페인의_Cristal_Millesime_Brut/index.md
 taxonomies:
   tags: 
     - 스파클링

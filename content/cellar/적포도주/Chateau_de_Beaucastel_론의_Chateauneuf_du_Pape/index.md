@@ -5,6 +5,7 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/Chateau_de_Beaucastel_론의_Chateauneuf_du_Pape/index.md
 taxonomies:
   tags: 
     - 적포도주

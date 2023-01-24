@@ -5,6 +5,7 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/토스카나_출신의_Fattoria_dei_Barbi_브루넬로_디_몬탈치노_리세르바_DOCG/index.md
 taxonomies:
   tags: 
     - 적포도주

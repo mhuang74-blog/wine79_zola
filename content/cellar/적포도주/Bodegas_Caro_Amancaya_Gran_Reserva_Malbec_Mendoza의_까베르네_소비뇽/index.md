@@ -5,6 +5,7 @@ date: 2023-01-14
 updated: 2023-01-14
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/Bodegas_Caro_Amancaya_Gran_Reserva_Malbec_Mendoza의_까베르네_소비뇽/index.md
 taxonomies:
   tags: 
     - 적포도주

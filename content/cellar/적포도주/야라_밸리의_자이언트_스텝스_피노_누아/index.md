@@ -5,6 +5,7 @@ date: 2023-01-14
 updated: 2023-01-14
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/야라_밸리의_자이언트_스텝스_피노_누아/index.md
 taxonomies:
   tags: 
     - 적포도주

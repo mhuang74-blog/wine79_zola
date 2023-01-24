@@ -5,6 +5,7 @@ date: 2023-01-14
 updated: 2023-01-14
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/생떼밀리옹_그랑_크뤼의_샤토_보세주르_베코/index.md
 taxonomies:
   tags: 
     - 적포도주

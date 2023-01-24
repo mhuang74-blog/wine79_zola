@@ -5,6 +5,7 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/토스카나_출신의_Fattoria_Le_Pupille_Saffredi_Maremma_Toscana/index.md
 taxonomies:
   tags: 
     - 적포도주

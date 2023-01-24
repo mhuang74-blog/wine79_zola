@@ -5,6 +5,7 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/오크빌의_로버트_몬다비_와이너리_더_에스테이트_까베르네_소비뇽/index.md
 taxonomies:
   tags: 
     - 적포도주

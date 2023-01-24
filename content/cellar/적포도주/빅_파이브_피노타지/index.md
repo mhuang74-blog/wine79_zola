@@ -5,6 +5,7 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/빅_파이브_피노타지/index.md
 taxonomies:
   tags: 
     - 적포도주

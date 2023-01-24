@@ -5,6 +5,7 @@ date: 2023-01-14
 updated: 2023-01-14
 extra:
   image: image.webp
+  canonical: /cellar/백포도주/말보로의_그레이와케_소비뇽_블랑/index.md
 taxonomies:
   tags: 
     - 백포도주

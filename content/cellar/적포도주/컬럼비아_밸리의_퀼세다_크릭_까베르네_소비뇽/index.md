@@ -5,6 +5,7 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
+  canonical: /cellar/적포도주/컬럼비아_밸리의_퀼세다_크릭_까베르네_소비뇽/index.md
 taxonomies:
   tags: 
     - 적포도주

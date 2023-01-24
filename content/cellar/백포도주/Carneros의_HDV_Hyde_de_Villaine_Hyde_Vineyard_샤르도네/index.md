@@ -5,6 +5,7 @@ date: 2022-12-30
 updated: 2023-01-06
 extra:
   image: image.webp
+  canonical: /cellar/백포도주/Carneros의_HDV_Hyde_de_Villaine_Hyde_Vineyard_샤르도네/index.md
 taxonomies:
   tags: 
     - 백포도주
