@@ -5,4 +5,4 @@ path: about
 template: about.html
 ---
 
-Wine79 와인스쿨. 
+Wine79 강남와인스쿨. 
