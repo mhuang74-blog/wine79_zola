@@ -34,7 +34,7 @@ date_format = '%Y-%m-%d'
 
 links = [
 	{title = '포도주 저장실', url = '/cellar'},
-	{title = '와인 학교', url = '/school'},
+	{title = '강남와인스쿨', url = '/school'},
 	{title = '에 대한', url = '/about'},
 ]
 
