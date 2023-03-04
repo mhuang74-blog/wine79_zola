@@ -1,0 +1,78 @@
+{
+	"contexts" : [
+      {
+        "wine_name": "Montes Alpha Syrah from Colchagua Valley"
+      },
+      {
+        "wine_name": "Tenuta di Capraia Chianti Classico Riserva DOCG from Tuscany"
+      },
+      {
+        "wine_name": "Finca Decero Remolinos Vineyard Malbec from Agrelo"
+      },
+      {
+        "wine_name": "San Felice Chianti Classico DOCG from Tuscany"
+      },
+      {
+        "wine_name": "Hanzell Vineyards Pinot Noir from Sonoma Valley"
+      },
+      {
+        "wine_name": "First Drop Mother's Milk Shiraz from Barossa"
+      },
+      {
+        "wine_name": "McBride Sisters Sauvignon Blanc from Marlborough"
+      },
+      {
+        "wine_name": "Cattleya 'Alma de Cattleya' Sauvignon Blanc from Sonoma County"
+      },
+      {
+        "wine_name": "Raventos I Blanc 'Blanc de Blancs' Espumoso Conca del Riu de Arnoia from Catalonia"
+      },
+      {
+        "wine_name": "DeLille Cellars D2 from Columbia Valley"
+      }
+    ],
+    "prompt_templates" : {
+        "wine_description": {
+            "model": "text-davinci-003",
+            "temperature": 0.5,
+            "tokens": 80,
+            "prompt": "With one sentence, describe this wine in an exciting way and highlight how it is unique: {{wine_name}}"
+        },
+        "wine_popularity": {
+            "model": "text-davinci-003",
+            "temperature": 0.6,
+            "tokens": 500,
+            "prompt": "Write about what makes this wine so popular: {{wine_name}}"
+        },
+        "wine_fun_fact": {
+          "model": "text-davinci-003",
+          "temperature": 0.8,
+          "tokens": 500,
+          "prompt": "Tell me something unique and funny about the winery which makes this wine: {{wine_name}}"
+        },  
+        "wine_history": {
+            "model": "text-davinci-003",
+            "temperature": 0.2,
+            "tokens": 500,
+            "prompt": "Write about the history of this wine: {{wine_name}}"
+        },
+        "wine_pairing": {
+            "model": "text-davinci-003",
+            "temperature": 0.5,
+            "tokens": 500,
+            "prompt": "Write about foods that go well with: {{wine_name}}"
+        },
+        "wine_style": {
+            "model": "text-davinci-003",
+            "temperature": 0,
+            "tokens": 5,
+            "prompt": "Picking from this list of wine types: red wine, white wine, rose wine, sparkling wine, and dessert wine, which wine type does this wine belong to: {{wine_name}} ?"
+        },
+        "wine_country": {
+            "model": "text-davinci-003",
+            "temperature": 0,
+            "tokens": 5,
+            "prompt": "In three words or less, tell me the country name that this wine is from: {{wine_name}}"
+        }        
+    }
+}

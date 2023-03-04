@@ -6,26 +6,23 @@
 * review the prompts
 * generate content 
 
-`$ RUST_LOG=teraw=info teraw context/2023-01-14_batch_of_10.json`
+`$ RUST_BACKTRACE=1 RUST_LOG=teraw=info teraw context/2023-01-14_batch_of_10.json`
 
 * manually edit content
 
 * convert to Korean
 
-`$ translate -f context/2023-01-14_batch_of_10.content.json -s en -l ko -o context`
+`$ conda activate translate; translate -f context/2023-01-14_batch_of_10.content.json -s en -l ko -o context`
 
 * generate Zola Markdown files
 
-`$ teraw context/2023-01-14_batch_of_10.content.ko.json -t templates/index.md -d wine_name -o output`
+`RUST_BACKTRACE=1 RUST_LOG=tera=info teraw -o output -t templates/index.md --cat_sub  wine_style --title_sub wine_name context/2023-03-01_batch_of_10.content.ko.json 
+`
 
-* move content files to appropriate Wine Style sections
+* since already in right directory strucuture, just recursively copy content files to cellar
 
 ```
-$ cd output
-$ rg -l 적포도주 | sed 's/\/.*//g;' | xargs -n 1 -I {} mv {} ../../content/cellar/적포도주
-$ rg -l 백포도주 | sed 's/\/.*//g;' | xargs -n 1 -I {} mv {} ../../content/cellar/백포도주
-$ rg -l 스파클링 | sed 's/\/.*//g;' | xargs -n 1 -I {} mv {} ../../content/cellar/스파클링
-$ rg -l 디저트_와인 | sed 's/\/.*//g;' | xargs -n 1 -I {} mv {} ../../content/cellar/디저트_와인
+cp -Rp writing_cubicle/output/* content/cellar
 
 ```
 

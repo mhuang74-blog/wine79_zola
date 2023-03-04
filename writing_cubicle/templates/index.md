@@ -1,36 +1,36 @@
 ---
 title: {{ wine_name }}
 description: {{ wine_description }}
-date: 2023-01-14
-updated: 2023-01-14
+date: 2023-03-03
+updated: 2023-03-03
 extra:
   image: image.webp
+  canonical: /cellar/{{ wine_style_slug }}/{{ wine_name_slug }}/index.md
 taxonomies:
   tags: 
     - {{ wine_style }}
     - {{ wine_country }}
 ---
 
-
-### {{ wine_name }} 가 인기 있는 이유
+### 이 와인이 인기 있는 이유
 
 {{ wine_popularity }}
 
 &nbsp;  
 
-### {{ wine_name }} 가 비즈니스맨들에게 인기를 끌게 된 비결
+### 재미있는 사실
 
-{{ wine_popularity_with_business_men }}
+{{ wine_fun_fact }}
 
 &nbsp;  
 
-### {{ wine_name }} 의 역사
+### 와이너리 역사
 
 {{ wine_history }}
 
 &nbsp;  
 
-### {{ wine_name }} 를 위한 음식 페어링
+### 음식 페어링 방법
 
 {{ wine_pairing }}
 
