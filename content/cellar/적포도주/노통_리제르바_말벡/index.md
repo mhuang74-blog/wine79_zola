@@ -1,6 +1,6 @@
 ---
-title: 노통 리제르바 말벡 Norton Reserva Malbec
-description: 아르헨티나의 Norton Reserva Malbec은 말린 과일, 향신료 및 미묘한 오크 풍미의 독특한 조합을 제공하는 강력하고 복합적인 레드 와인입니다.
+title: 노통 리제르바 멘도싸 말벡 Norton Reserva Malbec (Mendoza)
+description: 노통 리제르바 멘도싸 말벡 Norton Reserva Malbec (Mendoza) 은 말린 과일, 향신료 및 미묘한 오크 풍미의 독특한 조합을 제공하는 강력하고 복합적인 레드 와인입니다.
 date: 2022-12-30
 updated: 2023-01-25
 extra:
