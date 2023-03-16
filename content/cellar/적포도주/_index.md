@@ -6,6 +6,9 @@ paginate_reversed: true
 sort_by: date
 render: true
 transparent: false
+extra:
+  image: image.webp
+  canonical: /cellar/적포도주/_index.md
 ---
 
 레드 와인은 저녁 식사나 비즈니스 모임에 세련미를 더할 수 있는 완벽한 방법입니다. 다양한 스타일과 풍미가 있을 뿐만 아니라 다양한 음식과도 잘 어울립니다. 또한 깊고 풍부한 색상으로 대화를 시작하기에 좋습니다. 귀하와 귀하의 손님은 Cabernet Sauvignon과 Merlot의 미묘한 차이에 대한 생생한 토론을 즐길 수 있습니다. 상사에게 깊은 인상을 주려고 하거나 친구들과 긴장을 풀고자 할 때 레드 와인 한 잔은 자신의 주장을 펼치는 데 도움이 될 것입니다.

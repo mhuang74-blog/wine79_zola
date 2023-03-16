@@ -3,6 +3,9 @@ title: 강남와인스쿨
 description: 강남와인스쿨
 path: school
 template: about.html
+extra:
+  image: image.webp
+  canonical: /pages/school.md
 ---
 # 강남와인스쿨
 

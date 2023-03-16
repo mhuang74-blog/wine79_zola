@@ -6,6 +6,9 @@ paginate_reversed: true
 sort_by: date
 render: true
 transparent: false
+extra:
+  image: image.webp
+  canonical: /cellar/스파클링/_index.md
 ---
 
 축하할 시간입니다! 가족의 이정표에서 사업 성과에 이르기까지 특별한 행사는 항상 축하할 일입니다. 스파클링 와인 덕분에 모임에 축제 분위기를 더할 수 있습니다. 기념일을 기념하든 계약 체결을 기념하든 스파클링 와인은 행사에 건배하기에 완벽한 방법입니다.

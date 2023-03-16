@@ -4,6 +4,9 @@ Description: 와인 종류
 paginate_by: 200
 sort_by: title
 template: section_no_listing.html
+extra:
+  image: image.webp
+  canonical: /cellar/_index.md
 ---
 
 <br>
