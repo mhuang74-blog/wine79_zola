@@ -5,7 +5,7 @@ date: 2022-12-30
 updated: 2023-01-25
 extra:
   image: image.webp
-  canonical: /cellar/적포도주/노통_리제르바_말벡/index.md
+  canonical: /cellar/1271/index.md
 taxonomies:
   tags: 
     - 적포도주
