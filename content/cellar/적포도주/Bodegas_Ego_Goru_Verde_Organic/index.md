@@ -1,8 +1,8 @@
 ---
 title: Bodegas Ego Goru Verde Organic
 description: Bodegas Ego Goru Verde Organic은 스페인 Jumilla의 그림 같은 지역에서 생산되는 유기농 와인입니다. 이 독특한 와인은 100% 유기농 Monastrell 포도로 만들어지며 손으로 수확하고 프렌치 오크 배럴에서 숙성됩니다. 그 결과 짙은 과일, 향신료, 흙내음이 나는 풍부하고 복합적인 향이 특징입니다. 이 와인의 부드럽고 벨벳 같은 질감은 다양한 요리와 완벽하게 어울려 어떤 경우에도 이상적인 선택입니다. 독특한 특성과 유기농 생산으로 Bodegas Ego Goru Verde Organic은 깊은 인상을 남길 뛰어난 와인입니다.
-date: 2023-03-12
-updated: 2023-03-12
+date: 2023-03-17
+updated: 2023-03-17
 extra:
   image: image.webp
   canonical: /cellar/적포도주/Bodegas_Ego_Goru_Verde_Organic/index.md

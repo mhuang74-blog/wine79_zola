@@ -1,8 +1,8 @@
 ---
 title: Familia Zuccardi 'Concreto' Malbec
 description: Uco Valley Altamira의 Familia Zuccardi의 'Concreto' Malbec은 Malbec 포도의 흥미롭고 독특한 표현입니다. 12개월 동안 콘크리트 통에서 숙성되어 깊고 어두운 색과 잘 익은 붉은 과일, 향신료, 연기가 자욱한 노트의 강렬한 아로마가 있는 와인이 됩니다. 구개에서 이 풀바디 와인은 풍부한 질감과 자두, 블랙베리, 다크 초콜릿의 대담한 풍미를 제공하며 모두 길고 여운이 남는 피니시로 균형을 이룹니다. Malbec 애호가라면 누구나 만족할 잊을 수 없는 경험이 될 것입니다.
-date: 2023-03-12
-updated: 2023-03-12
+date: 2023-03-17
+updated: 2023-03-17
 extra:
   image: image.webp
   canonical: /cellar/적포도주/Familia_Zuccardi_Concreto_Malbec/index.md

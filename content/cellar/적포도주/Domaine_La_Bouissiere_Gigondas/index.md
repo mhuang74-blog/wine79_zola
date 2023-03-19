@@ -1,8 +1,8 @@
 ---
 title: Domaine La Bouissiere Gigondas
 description: Domaine La Bouissiere Gigondas는 대담하고 복합적인 풍미 프로필을 제공하는 독특하고 흥미진진한 와인입니다. 잘 익은 블랙베리, 블루베리, 체리의 향과 약간의 후추, 스파이시, 흙내음이 나는 풀바디의 강력한 레드 와인입니다. 이 와인은 론 밸리를 대표하는 와인으로 깊은 색과 미각에 여운을 남기는 길고 부드러운 여운을 자랑합니다. 론 밸리의 대담한 풍미를 경험할 수 있는 독특하고 복합적인 와인 한 잔을 즐겨보세요.
-date: 2023-03-12
-updated: 2023-03-12
+date: 2023-03-17
+updated: 2023-03-17
 extra:
   image: image.webp
   canonical: /cellar/적포도주/Domaine_La_Bouissiere_Gigondas/index.md

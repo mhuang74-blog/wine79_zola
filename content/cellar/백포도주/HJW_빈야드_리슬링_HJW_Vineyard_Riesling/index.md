@@ -1,8 +1,8 @@
 ---
 title: HJW 빈야드 리슬링 HJW Vineyard Riesling
 description: HJW 빈야드 리슬링 지역의 흥미롭고 독특한 와인입니다. 복숭아, 살구, 감귤 향이 복합적으로 어우러진 밝고 상쾌한 미네랄 중심의 리슬링입니다. 이 와인은 생생한 산도와 단맛과 신맛의 섬세한 균형이 돋보여 다양한 요리와 완벽하게 어울립니다. 상쾌하고 밝고 생동감 넘치는 특성을 지닌 이 독특한 리즐링을 즐겨보세요!
-date: 2023-03-12
-updated: 2023-03-12
+date: 2023-03-17
+updated: 2023-03-17
 extra:
   image: image.webp
   canonical: /cellar/백포도주/HJW_빈야드_리슬링_HJW_Vineyard_Riesling/index.md

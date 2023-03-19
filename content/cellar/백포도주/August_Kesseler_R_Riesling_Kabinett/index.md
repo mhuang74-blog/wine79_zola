@@ -1,8 +1,8 @@
 ---
 title: August Kesseler 'R' Riesling Kabinett
 description: August Kesseler의 'R' Riesling Kabinett은 흥미롭고 독특한 와인으로 꽃과 핵과류 향이 가득합니다. 오프 드라이한 이 리즐링은 밝은 산미와 은은한 단맛이 균형을 이루며 복잡하고 겹겹이 쌓인 풍미 프로필을 만들어냅니다. 다양한 요리에 이상적인 반주인 'R' Riesling Kabinett는 독일 와인을 사랑하는 사람이라면 꼭 맛봐야 할 와인입니다.
-date: 2023-03-12
-updated: 2023-03-12
+date: 2023-03-17
+updated: 2023-03-17
 extra:
   image: image.webp
   canonical: /cellar/백포도주/August_Kesseler_R_Riesling_Kabinett/index.md

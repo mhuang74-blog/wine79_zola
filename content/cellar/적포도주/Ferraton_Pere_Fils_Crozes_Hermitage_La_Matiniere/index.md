@@ -1,8 +1,8 @@
 ---
 title: Ferraton Pere & Fils Crozes-Hermitage La Matiniere
 description: 이 강인하고 복합적인 레드 와인은 론 밸리(Rhone Valley)의 최고입니다. Ferraton Pere & Fils Crozes-Hermitage La Matiniere는 Syrah와 Marsanne 포도의 독특한 블렌딩으로 강렬하고 스파이시한 풍미 프로필을 제공합니다. 짙은 과일, 가죽, 약간의 스모크 향이 어우러진 이 풀바디 와인은 당신의 입맛을 감질나게 하고 오래 지속되는 인상을 남길 것입니다.
-date: 2023-03-12
-updated: 2023-03-12
+date: 2023-03-17
+updated: 2023-03-17
 extra:
   image: image.webp
   canonical: /cellar/적포도주/Ferraton_Pere_Fils_Crozes_Hermitage_La_Matiniere/index.md

@@ -1,8 +1,8 @@
 ---
 title: Bodega Numanthia
 description: Bodega Numanthia는 진정으로 특별합니다. 잘 익은 검은 과일의 강렬한 풍미와 약간의 향신료가 가미된 이 강렬한 레드는 당신의 입맛을 감질나게 할 것입니다. Toro의 독특한 기후는 특별한 테루아를 만들어내어 포도가 강렬한 향미를 발산하도록 합니다. 산도, 타닌, 바디감의 완벽한 균형을 갖춘 이 와인은 군중 속에서 눈에 띄는 와인입니다. 이 특별한 와인을 즐기며 Toro만의 개성을 경험해 보십시오.
-date: 2023-03-12
-updated: 2023-03-12
+date: 2023-03-17
+updated: 2023-03-17
 extra:
   image: image.webp
   canonical: /cellar/적포도주/Bodega_Numanthia/index.md

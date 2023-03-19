@@ -1,8 +1,8 @@
 ---
 title: J Bookwalter Readers Cabernet Sauvignon
 description: J Bookwalter Readers Cabernet Sauvignon은 지역의 정수를 담아낸 대담하고 복합적인 와인입니다. 블랙베리, 자두, 구운 오크의 향과 함께 담배와 향신료의 힌트와 함께 깊고 강렬한 풍미 프로필을 제공합니다. 이 독특한 Cabernet Sauvignon은 프렌치 및 아메리칸 오크통에서 숙성되어 부드럽고 균형 잡힌 마무리를 제공합니다. 특별한 날에 곁들이거나 혼자 즐기기에 안성맞춤입니다.
-date: 2023-03-12
-updated: 2023-03-12
+date: 2023-03-17
+updated: 2023-03-17
 extra:
   image: image.webp
   canonical: /cellar/적포도주/J_Bookwalter_Readers_Cabernet_Sauvignon/index.md

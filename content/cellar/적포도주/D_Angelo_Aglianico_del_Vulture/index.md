@@ -1,8 +1,8 @@
 ---
 title: D'Angelo Aglianico del Vulture
 description: D'Angelo Aglianico del Vulture는 강렬한 루비 레드 색상과 잘 익은 붉은 과일, 향신료 및 허브 부케가 있는 독특하고 흥미진진한 와인입니다. 풀바디한 미각은 대담한 타닌과 길고 복합적인 여운을 특징으로 합니다. 이 와인은 바실리카타 지역에 자생하는 품종인 알리아니코 포도로 만들어지며 수세기 동안 사용되어 온 전통적인 와인 양조 방식으로 생산된다는 점에서 독특합니다. 이 뛰어난 와인 한 잔을 즐기고 고유한 풍미 프로파일을 탐색하십시오.
-date: 2023-03-12
-updated: 2023-03-12
+date: 2023-03-17
+updated: 2023-03-17
 extra:
   image: image.webp
   canonical: /cellar/적포도주/D_Angelo_Aglianico_del_Vulture/index.md

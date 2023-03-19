@@ -1,8 +1,8 @@
 ---
 title: 리비오 펠루가 피노 그리지오 Livio Felluga Pinot Grigio
 description: 리비오 펠루가 피노 그리지오 Livio Felluga Pinot Grigio는 독특한 특성을 지닌 신나는 화이트 와인입니다. 이 Friulian 보석은 Friuli-Venezia Giulia의 Colli Orientali del Friuli 지역에서 자란 100% Pinot Grigio 포도로 만들어졌습니다. 잘 익은 배와 감귤류의 아로마와 기분 좋은 미네랄리티가 있는 연한 황금색입니다. 산뜻한 산도와 가볍고 산뜻한 마무리감으로 균형이 잘 잡혀 있습니다. 이 와인은 어떤 경우에도 완벽하며 손님에게 인기가 있을 것입니다!
-date: 2023-03-12
-updated: 2023-03-12
+date: 2023-03-17
+updated: 2023-03-17
 extra:
   image: image.webp
   canonical: /cellar/백포도주/리비오_펠루가_피노_그리지오_Livio_Felluga_Pinot_Grigio/index.md
