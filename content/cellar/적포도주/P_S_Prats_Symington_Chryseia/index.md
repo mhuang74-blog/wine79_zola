@@ -1,8 +1,8 @@
 ---
 title: P+S Prats & Symington Chryseia
 description: P+S Prats & Symington Chryseia는 독특하고 흥미진진한 향과 풍미의 조화입니다. 잘 익은 붉은 과일, 향신료, 흙내음이 느껴지는 짙은 루비색입니다. 구개에서는 블랙베리, 자두, 블랙 체리의 힌트를 발견할 수 있으며 밝은 산도로 보완됩니다. 피니시가 길고 복합적이며 부드러운 타닌이 혀에 여운을 남긴다. 이 와인은 정말 독특하고 가장 안목 있는 미각도 만족시킬 것입니다!
-date: 2023-03-17
-updated: 2023-03-17
+date: 2023-03-23
+updated: 2023-03-23
 extra:
   image: image.webp
   canonical: /cellar/적포도주/P_S_Prats_Symington_Chryseia/index.md

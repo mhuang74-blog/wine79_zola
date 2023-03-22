@@ -1,8 +1,8 @@
 ---
 title: 수아비아 소아베 클라시코 Suavia Soave Classico
 description: Suavia Soave Classico는 흥미진진한 풍미 프로필을 제공하는 독특한 이탈리아 화이트 와인입니다. 가르가네가(Garganega) 포도로 만든 이 와인은 시트러스, 아몬드, 플로럴 노트의 독특하고 향긋한 코를 제공합니다. 밝은 산미와 풍부한 질감으로 해산물 요리나 아페리티프와 잘 어울립니다. 매일 마시는 와인을 찾든 친구와 함께 나눌 특별한 와인을 찾든 관계없이 고유한 특성과 복합성을 즐기십시오.
-date: 2023-03-17
-updated: 2023-03-17
+date: 2023-03-23
+updated: 2023-03-23
 extra:
   image: image.webp
   canonical: /cellar/백포도주/수아비아_소아베_클라시코_Suavia_Soave_Classico/index.md

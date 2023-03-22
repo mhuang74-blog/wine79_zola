@@ -1,8 +1,8 @@
 ---
 title: Bodegas Resalte de Penafiel 'de Restia' Crianza
 description: Bodegas Resalte de Penafiel의 'de Restia' Crianza Selected Harvest는 흥미진진한 맛의 조합을 제공하는 독특한 스페인 레드 와인입니다. 이 특별한 크리안자는 프렌치 및 아메리칸 오크통에서 12개월 동안 숙성되어 풍부하고 복합적인 특징을 부여합니다. 코에서는 잘 익은 검은 과일, 담배, 바닐라, 향신료 향이 나며 미각에서는 부드러운 탄닌과 오래 지속되는 여운이 가득합니다. 오늘 이 독특한 크리안자를 즐기며 독특한 풍미 프로필을 경험하십시오!
-date: 2023-03-17
-updated: 2023-03-17
+date: 2023-03-23
+updated: 2023-03-23
 extra:
   image: image.webp
   canonical: /cellar/적포도주/Bodegas_Resalte_de_Penafiel_de_Restia_Crianza/index.md

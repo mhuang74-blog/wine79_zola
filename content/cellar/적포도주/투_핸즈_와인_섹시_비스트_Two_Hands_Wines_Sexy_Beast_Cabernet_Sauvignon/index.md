@@ -1,8 +1,8 @@
 ---
 title: 투 핸즈 와인 섹시 비스트 Two Hands Wines Sexy Beast Cabernet Sauvignon
 description: Two Hands Wines Sexy Beast Cabernet Sauvignon은 당신의 입맛을 감질나게 할 매혹적이고 대담한 레드 와인입니다. 이 풀바디 까베르네 소비뇽은 블랙베리와 블루베리의 강렬한 향과 삼나무, 향신료, 담배의 힌트를 가지고 있습니다. 그 풍미는 복잡하고 층이 있으며 단단한 탄닌이 부드러운 오크와 긴 여운으로 균형을 이룹니다. 이 독특한 까베르네 소비뇽은 가장 안목 있는 미각도 만족시킬 것입니다.
-date: 2023-03-17
-updated: 2023-03-17
+date: 2023-03-23
+updated: 2023-03-23
 extra:
   image: image.webp
   canonical: /cellar/적포도주/투_핸즈_와인_섹시_비스트_Two_Hands_Wines_Sexy_Beast_Cabernet_Sauvignon/index.md

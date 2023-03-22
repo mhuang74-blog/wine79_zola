@@ -1,8 +1,8 @@
 ---
 title: AA Badenhorst Secateurs Riviera
 description: AA Badenhorst Secateurs Riviera는 미뢰를 감질나게 하는 독특하고 신나는 와인입니다. 슈냉 블랑, 그르나슈 블랑, 클레레트 블랑쉬를 혼합한 이 남아프리카산 블렌드는 꽃 향, 잘 익은 시트러스 풍미, 미각에 크리미한 질감의 흥미로운 혼합을 제공합니다. 강렬한 산도와 가벼운 바디감으로 여름에 마시기 좋은 생동감 있고 상쾌한 화이트 와인을 즐겨보세요!
-date: 2023-03-17
-updated: 2023-03-17
+date: 2023-03-23
+updated: 2023-03-23
 extra:
   image: image.webp
   canonical: /cellar/적포도주/AA_Badenhorst_Secateurs_Riviera/index.md

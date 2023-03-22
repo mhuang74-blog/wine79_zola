@@ -1,8 +1,8 @@
 ---
 title: 카사스 델 보스케 Casas del Bosque Gran Reserva Carmenere
 description: Casas del Bosque Gran Reserva Carmenere는 짙은 베리, 향신료, 담배의 강렬한 아로마가 있는 독특하고 신나는 와인입니다. 풀바디한 맛에 붉은 과일, 후추, 구운 오크 향이 어우러져 있습니다. 이 칠레산 클래식은 프렌치 오크 배럴에서 18개월 동안 숙성되어 진정으로 특별하게 만드는 추가 복합성과 깊이를 제공합니다. 구운 고기 또는 푸짐한 스튜와 함께 이 절묘한 까르미네르를 즐겨 보십시오.
-date: 2023-03-17
-updated: 2023-03-17
+date: 2023-03-23
+updated: 2023-03-23
 extra:
   image: image.webp
   canonical: /cellar/적포도주/카사스_델_보스케_Casas_del_Bosque_Gran_Reserva_Carmenere/index.md

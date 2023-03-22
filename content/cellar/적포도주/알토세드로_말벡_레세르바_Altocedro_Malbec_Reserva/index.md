@@ -1,8 +1,8 @@
 ---
 title: 알토세드로 말벡 레세르바 Altocedro Malbec Reserva
 description: Altocedro Malbec Reserva는 독특하고 복잡한 풍미 프로필을 제공하는 절묘한 아르헨티나 레드 와인입니다. 잘 익은 체리, 블랙베리, 자두의 향으로 가득 찬 이 풀바디 와인은 약간의 향신료와 오크 향으로 부드럽게 마무리됩니다. 따뜻한 마음과 오래 지속되는 여운은 어떤 식사와도 완벽한 동반자가 됩니다. 독특한 특성을 즐기고 진정으로 놀라운 경험을 즐기십시오.
-date: 2023-03-17
-updated: 2023-03-17
+date: 2023-03-23
+updated: 2023-03-23
 extra:
   image: image.webp
   canonical: /cellar/적포도주/알토세드로_말벡_레세르바_Altocedro_Malbec_Reserva/index.md

@@ -1,8 +1,8 @@
 ---
 title: Tenuta Col d'Orcia Brunello di Montalcino DOCG
 description: 테누타 콜 도르치아 브루넬로 디 몬탈치노 DOCG는 독특하고 복합적인 향미를 가진 절묘한 이탈리아 레드 와인입니다. 짙은 루비색을 띄며 말린 체리, 자두, 가죽 향이 난다. 미각에서는 블랙베리 잼, 타바코, 감초의 풍부한 풍미를 제공합니다. 피니시가 길고 부드러운 타닌이 오래 지속되어 이 와인을 진정으로 기억에 남게 합니다. 독특한 맛을 경험할 수 있는 이 희귀한 이탈리아 보석을 즐겨보세요!
-date: 2023-03-17
-updated: 2023-03-17
+date: 2023-03-23
+updated: 2023-03-23
 extra:
   image: image.webp
   canonical: /cellar/적포도주/Tenuta_Col_d_Orcia_Brunello_di_Montalcino_DOCG/index.md

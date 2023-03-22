@@ -1,8 +1,8 @@
 ---
 title: 스쿨 하우스 School House Vineyard Pinot Noir
 description: School House Vineyard Pinot Noir는 독특한 풍미 프로필을 가진 활기차고 복합적인 레드 와인입니다. 잘 익은 체리, 크랜베리, 라즈베리의 향이 나며 흙내음이 나는 향신료와 오크의 미묘한 향이 더해집니다. 구개는 밝은 산도, 부드러운 탄닌 및 오래 지속되는 마무리로 균형을 이룹니다. 이 와인은 진정으로 독특하며 유쾌한 복합성으로 입맛을 즐겁게 해줄 것입니다.
-date: 2023-03-17
-updated: 2023-03-17
+date: 2023-03-23
+updated: 2023-03-23
 extra:
   image: image.webp
   canonical: /cellar/적포도주/스쿨_하우스_School_House_Vineyard_Pinot_Noir/index.md

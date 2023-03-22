@@ -1,8 +1,8 @@
 ---
 title: 보데가스 무가 Bodegas Muga 'Prado Enea' Gran Reserva
 description: Bodegas Muga 'Prado Enea' Gran Reserva는 두 세계의 최고를 결합한 독특하고 흥미로운 와인입니다. 오크 통에서 오랜 숙성 기간을 거친 Gran Reserva의 복합성과 잘 익은 붉은 과일과 향신료의 섬세한 아로마가 있는 Rioja Prado Enea의 기교를 가지고 있습니다. 모든 행사를 특별하게 만들어줄 특별한 블렌드를 직접 경험해 보세요.
-date: 2023-03-17
-updated: 2023-03-17
+date: 2023-03-23
+updated: 2023-03-23
 extra:
   image: image.webp
   canonical: /cellar/적포도주/보데가스_무가_Bodegas_Muga_Prado_Enea_Gran_Reserva/index.md

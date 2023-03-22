@@ -1,8 +1,8 @@
 ---
 title: {{ wine_name }}
 description: {{ wine_description }}
-date: 2023-03-17
-updated: 2023-03-17
+date: 2023-03-23
+updated: 2023-03-23
 extra:
   image: image.webp
   canonical: /cellar/{{ wine_style_slug }}/{{ wine_name_slug }}/index.md
