@@ -1,7 +1,7 @@
 ---
 title: 적포도주
 description: 레드 와인은 복잡한 풍미로 인해 특히 높이 평가되며 공식적인 비즈니스 만찬이나 기타 중요한 행사에서 종종 제공됩니다
-paginate_by: 50
+paginate_by: 100
 paginate_reversed: true
 sort_by: date
 render: true

@@ -1,7 +1,7 @@
 ---
 title: 백포도주
 description: 화이트 와인은 가볍고 산뜻한 맛이 특징입니다
-paginate_by: 50
+paginate_by: 100
 paginate_reversed: true
 sort_by: date
 render: true

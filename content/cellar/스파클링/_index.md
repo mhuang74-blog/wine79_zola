@@ -1,7 +1,7 @@
 ---
 title: 스파클링
 description: 스파클링 와인은 모든 행사에 우아한 느낌을 더해 축하 행사, 결혼식 및 기타 공식 행사에 완벽하게 어울립니다
-paginate_by: 50
+paginate_by: 100
 paginate_reversed: true
 sort_by: date
 render: true
