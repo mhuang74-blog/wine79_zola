@@ -1,0 +1,71 @@
+{
+	"contexts" : [
+     {
+        "wine_name": "Altocedro Malbec Reserva"
+      },
+      {
+        "wine_name": "P+S Prats & Symington Chryseia"
+      },
+      {
+        "wine_name": "Bodegas Muga 'Prado Enea' Gran Reserva"
+      },
+      {
+        "wine_name": "School House Vineyard Pinot Noir"
+      },
+      {
+        "wine_name": "Tenuta Col d'Orcia Brunello di Montalcino DOCG"
+      },
+      {
+        "wine_name": "A.A. Badenhorst Secateurs Riviera"
+      },
+      {
+        "wine_name": "Bodegas Resalte de Penafiel 'de Restia' Crianza Selected Harvest"
+      },
+      {
+        "wine_name": "Suavia Soave Classico"
+      },
+      {
+        "wine_name": "Two Hands Wines Sexy Beast Cabernet Sauvignon"
+      },
+      {
+        "wine_name": "Casas del Bosque Gran Reserva Carmenere"
+      }
+    ],
+    "prompt_templates" : {
+        "wine_description": {
+            "temperature": 0.5,
+            "tokens": 200,
+            "prompt": "Starting with a common short name for this wine, describe this wine in an exciting way and highlight how it is unique: {{wine_name}}. #"
+        },
+        "wine_popularity": {
+            "temperature": 0.6,
+            "tokens": 500,
+            "prompt": "In a memorable and exciting way, tell me what makes this wine so popular: {{wine_name}}. #"
+        },
+        "wine_fun_fact": {
+          "temperature": 0.8,
+          "tokens": 500,
+          "prompt": "Tell me something unique and funny about the winery which makes this wine, but don't talk about the wine name or wine label: {{wine_name}}. #"
+        },  
+        "wine_history": {
+            "temperature": 0.2,
+            "tokens": 500,
+            "prompt": "Tell me about the origin story of this wine, including notable vintage years and important events: {{wine_name}}. #"
+        },
+        "wine_pairing": {
+            "temperature": 0.5,
+            "tokens": 500,
+            "prompt": "Tell me about the foods that go well with: {{wine_name}}. #"
+        },
+        "wine_style": {
+            "temperature": 0,
+            "tokens": 5,
+            "prompt": "Picking from this list of wine types: red wine, white wine, rose wine, sparkling wine, and dessert wine, which wine type does this wine belong to: {{wine_name}} ? #"
+        },
+        "wine_country": {
+            "temperature": 0,
+            "tokens": 5,
+            "prompt": "In three words or less, tell me the country name that this wine is from: {{wine_name}}. #"
+        }        
+    }
+}
