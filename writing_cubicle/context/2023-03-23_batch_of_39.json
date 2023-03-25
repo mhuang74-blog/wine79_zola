@@ -1,0 +1,158 @@
+{
+	"contexts" : [
+      {
+        "wine_name": "Damilano Barbera d'Asti DOCG from Piedmont"
+      },
+      {
+        "wine_name": "Yalumba Samuel's Collection Syrah from Barossa"
+      },
+      {
+        "wine_name": "Masseria Li Veli 'Askos' Susumaniello Salento IGT from Puglia"
+      },
+      {
+        "wine_name": "Domaine Jaume Vinsobres Altitude 420 from Rhone"
+      },
+      {
+        "wine_name": "Joseph Drouhin Pouilly-Fuisse from Maconnais"
+      },
+      {
+        "wine_name": "Quinta do Vesuvio Single Quinta Vintage Port"
+      },
+      {
+        "wine_name": "Chateau La Gaffeliere from Saint-Emilion"
+      },
+      {
+        "wine_name": "Etude Cabernet Sauvignon from Napa Valley"
+      },
+      {
+        "wine_name": "Luke Merlot from Wahluke Slope"
+      },
+      {
+        "wine_name": "Bodegas Avancia Godello from Valdeorras"
+      },
+      {
+        "wine_name": "Domaine du Vieux Telegraphe Chateauneuf-du-Pape La Crau from Rhone"
+      },
+      {
+        "wine_name": "Charles Woodson's 'Intercept' Chardonnay from Paso Robles"
+      },
+      {
+        "wine_name": "Pecchenino Botti Langhe Nebbiolo from Piedmont"
+      },
+      {
+        "wine_name": "Bodegas Terras Gauda O Rosal from Rias Baixas"
+      },
+      {
+        "wine_name": "El Molino Chardonnay from Rutherford"
+      },
+      {
+        "wine_name": "Mazzei Zisola Noto Rosso from Sicily"
+      },
+      {
+        "wine_name": "Clos Cibonne Cotes de Provence Cuvee Tradition Rose"
+      },
+      {
+        "wine_name": "Fontanafredda Serralunga d'Alba from Barolo DOCG"
+      },
+      {
+        "wine_name": "Dakota Shy Cabernet Sauvignon from Napa Valley"
+      },
+      {
+        "wine_name": "San Salvatore Falanghina Campania IGT"
+      },
+      {
+        "wine_name": "Domaine Gerard Fiou Sancerre Terroir Silex from Loire"
+      },
+      {
+        "wine_name": "Astrolabe 'Valleys' Awatere Valley Sauvignon Blanc from Marlborough"
+      },
+      {
+        "wine_name": "Domaine Huet Vouvray 'Le Haut Lieu' Sec from Loire"
+      },
+      {
+        "wine_name": "Mastroberardino Radici from Taurasi DOCG"
+      },
+      {
+        "wine_name": "Raen Royal St. Robert Cuvee Pinot Noir from Sonoma Coast"
+      },
+      {
+        "wine_name": "Gaston Chiquet Premier Cru Brut Tradition from Champagne"
+      },
+      {
+        "wine_name": "Arista UV Lucky Well Vineyard Pinot Noir from Russian River Valley"
+      },
+      {
+        "wine_name": "Vine Hill Ranch 'VHR' Cabernet Sauvignon from Napa Valley"
+      },
+      {
+        "wine_name": "Companion Wine Co. Oliver's Vineyard 'Sunny B' from Edna Valley"
+      },
+      {
+        "wine_name": "Vina Almaviva EPU from Puente Alto"
+      },
+      {
+        "wine_name": "Calera Jensen Vineyard Pinot Noir from Mount Harlan"
+      },
+      {
+        "wine_name": "Tzora Vineyards 'Judean Hills' Blanc from Judean Hills"
+      },
+      {
+        "wine_name": "Rivers-Marie Silver Eagle Vineyard Pinot Noir from Sonoma Coast"
+      },
+      {
+        "wine_name": "Domaine Alain Voge Cornas Les Vieilles Vignes from Rhone"
+      },
+      {
+        "wine_name": "Elvio Cogno Barolo Vigna Elena from Barolo DOCG"
+      },
+      {
+        "wine_name": "Domaine Laroche Les Fourchaume Vieilles Vignes from Chablis Premier Cru"
+      },
+      {
+        "wine_name": "Ferren Chardonnay from Sonoma Coast"
+      },
+      {
+        "wine_name": "Antoine Graillot & Raul Perez 'Encinas' Mencia from Bierzo"
+      },
+      {
+        "wine_name": "DVO from Napa Valley"
+      }
+    ],
+    "prompt_templates" : {
+        "wine_description": {
+            "temperature": 0.5,
+            "tokens": 200,
+            "prompt": "Starting with a common short name for this wine, describe this wine in an exciting way and highlight how it is unique: {{wine_name}}. #"
+        },
+        "wine_popularity": {
+            "temperature": 0.6,
+            "tokens": 500,
+            "prompt": "In a memorable and exciting way, tell me what makes this wine so popular: {{wine_name}}. #"
+        },
+        "wine_fun_fact": {
+          "temperature": 0.8,
+          "tokens": 500,
+          "prompt": "Tell me something unique and funny about the winery which makes this wine, but don't talk about the wine name or wine label: {{wine_name}}. #"
+        },  
+        "wine_history": {
+            "temperature": 0.2,
+            "tokens": 500,
+            "prompt": "Tell me about the origin story of this wine, including notable vintage years and important events: {{wine_name}}. #"
+        },
+        "wine_pairing": {
+            "temperature": 0.5,
+            "tokens": 500,
+            "prompt": "Tell me about the foods that go well with: {{wine_name}}. #"
+        },
+        "wine_style": {
+            "temperature": 0,
+            "tokens": 5,
+            "prompt": "Picking from this list of wine types: red wine, white wine, rose wine, sparkling wine, and dessert wine, which wine type does this wine belong to: {{wine_name}} ? #"
+        },
+        "wine_country": {
+            "temperature": 0,
+            "tokens": 5,
+            "prompt": "In three words or less, tell me the country name that this wine is from: {{wine_name}}. #"
+        }        
+    }
+}
