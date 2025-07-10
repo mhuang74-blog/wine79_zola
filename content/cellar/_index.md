@@ -1,6 +1,6 @@
 ---
 title: 와인 종류
-Description: 와인 종류
+description: 와인 종류
 paginate_by: 200
 sort_by: title
 template: section_no_listing.html

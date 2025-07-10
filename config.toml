@@ -5,7 +5,7 @@ default_language = "kr"
 compile_sass = true
 title = "Wine79.com"
 description = "Wine79 와인스쿨"
-generate_feed = false
+generate_feeds = false
 output_dir = "public"
 
 taxonomies = [
